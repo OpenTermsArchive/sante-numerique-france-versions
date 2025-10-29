@@ -1,3 +1,9 @@
+Updated on 20 Feb 2025.
+
+Versions: [20 Feb 2025](https://withings.com/fr/fr/legal/sales-conditions?version=20250220) , [03 Feb 2025](https://withings.com/fr/fr/legal/sales-conditions?version=20250203) , [19 Nov 2024](https://withings.com/fr/fr/legal/sales-conditions?version=20241119) , [14 Aug 2023](https://withings.com/fr/fr/legal/sales-conditions?version=20230814) , [04 Oct 2022](https://withings.com/fr/fr/legal/sales-conditions?version=20221004) , [12 Sep 2018](https://withings.com/fr/fr/legal/sales-conditions?version=20180912) , [20 Jun 2017](https://withings.com/fr/fr/legal/sales-conditions?version=20170620) .
+
+* * *
+
 PARTIE 2. CONDITIONS GÉNÉRALES DE VENTE
 =======================================
 
@@ -354,9 +360,3 @@ Date / / (JJ/MM/YYYY)
   
 
 Reference: sales-conditions/20250220
-
-* * *
-
-Updated on 20 Feb 2025.
-
-Versions: [20 Feb 2025](https://withings.com/fr/fr/legal/sales-conditions?version=20250220) , [03 Feb 2025](https://withings.com/fr/fr/legal/sales-conditions?version=20250203) , [19 Nov 2024](https://withings.com/fr/fr/legal/sales-conditions?version=20241119) , [14 Aug 2023](https://withings.com/fr/fr/legal/sales-conditions?version=20230814) , [04 Oct 2022](https://withings.com/fr/fr/legal/sales-conditions?version=20221004) , [12 Sep 2018](https://withings.com/fr/fr/legal/sales-conditions?version=20180912) , [20 Jun 2017](https://withings.com/fr/fr/legal/sales-conditions?version=20170620) .
