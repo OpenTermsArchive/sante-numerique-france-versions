@@ -1,3 +1,9 @@
+Updated on 26 Jan 2023.
+
+Versions: [26 Jan 2023](https://withings.com/fr/fr/legal/legal-notice?version=20230126) , [18 Sep 2018](https://withings.com/fr/fr/legal/legal-notice?version=20180918) .
+
+* * *
+
 Mentions légales
 ================
 
@@ -43,9 +49,3 @@ Cookies
   
 
 Reference: legal-notice/20230126
-
-* * *
-
-Updated on 26 Jan 2023.
-
-Versions: [26 Jan 2023](https://withings.com/fr/fr/legal/legal-notice?version=20230126) , [18 Sep 2018](https://withings.com/fr/fr/legal/legal-notice?version=20180918) .
