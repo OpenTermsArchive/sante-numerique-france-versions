@@ -1,3 +1,9 @@
+Updated on 24 Aug 2023.
+
+Versions: [24 Aug 2023](https://withings.com/fr/fr/legal/general-conditions?version=20230824) .
+
+* * *
+
 PARTIE 1. CONDITIONS GENERALES
 ==============================
 
@@ -97,13 +103,13 @@ IV. DIVERS
 
 Reference: general-conditions/20230824
 
-* * *
-
-Updated on 24 Aug 2023.
-
-Versions: [24 Aug 2023](https://withings.com/fr/fr/legal/general-conditions?version=20230824) .
-
 - - -
+
+Updated on 17 Sep 2025.
+
+Versions: [17 Sep 2025](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20250917) , [26 Jun 2025](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20250626) , [12 Jun 2025](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20250612) , [26 Jan 2023](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20230126) , [09 Mar 2020](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20200309) , [12 Sep 2018](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20180912) , [20 Jun 2017](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20170620) .
+
+* * *
 
 ﻿PARTIE 3. CONDITIONS GÉNÉRALES D'UTILISATION
 =============================================
@@ -284,9 +290,3 @@ Les présentes Conditions Générales d'Utilisation sont soumises aux [Condition
   
 
 Reference: services-terms-and-conditions/20250917
-
-* * *
-
-Updated on 17 Sep 2025.
-
-Versions: [17 Sep 2025](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20250917) , [26 Jun 2025](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20250626) , [12 Jun 2025](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20250612) , [26 Jan 2023](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20230126) , [09 Mar 2020](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20200309) , [12 Sep 2018](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20180912) , [20 Jun 2017](https://www.withings.com/fr/fr/legal/services-terms-and-conditions?version=20170620) .
