@@ -1,3 +1,9 @@
+Updated on 29 Oct 2025.
+
+Versions: [29 Oct 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251029) , [04 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250804) , [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
+
+* * *
+
 POLITIQUE DE CONFIDENTIALITÉ WITHINGS
 =====================================
 
@@ -320,7 +326,7 @@ Vous pouvez exercer vos droits en nous contactant à l'adresse privacy@withings.
 
 **7.1. VOS DROITS.** Vous pouvez exercer les droits suivants de manière autonome ou avec notre aide.
 
-_a. Droit à l’information._ Vous avez le droit de savoir comment sont traitées les données vous concernant par Withings. La présente politique vise à vous informer sur la façon dont nous traitons vos Données personnelles dans le cadre de l’utilisation des produits et services, de votre utilisation du site internet et de votre navigation sur l’application. Cette Politique est destinée à vous fournir ces informations de la manière la plus claire possible. Pour toute question supplémentaire, n’hésitez pas à nous contacter. Vous pouvez également consulter notre [Guide de confidentialité de l’utilisateur](https://support.withings.com/hc/article_attachments/21131880512657).
+_a. Droit à l’information._ Vous avez le droit de savoir comment sont traitées les données vous concernant par Withings. La présente politique vise à vous informer sur la façon dont nous traitons vos Données personnelles dans le cadre de l’utilisation des produits et services, de votre utilisation du site internet et de votre navigation sur l’application. Cette Politique est destinée à vous fournir ces informations de la manière la plus claire possible. Pour toute question supplémentaire, n’hésitez pas à nous contacter. Vous pouvez également consulter notre [Guide de confidentialité de l’utilisateur](https://support.withings.com/hc/fr/articles/360015730074-Confidentialit%C3%A9-Guide-utilisateur).
 
 _b. Droit d'accès._ Vous pouvez accéder aux Données personnelles vous concernant traitées, collectées ou stockées par WITHINGS. Vous pouvez retrouver ces informations directement sur [votre compte](https://account.withings.com/) ou via le [support client](https://support.withings.com/).
 
@@ -444,14 +450,12 @@ Pour toute question ou demande de licences, veuillez contacter ip@withings.com o
 
 ### XI. CONDITIONS GENERALES
 
-La présente Politique de confidentialité est soumise aux [Conditions Générales](https://www.withings.com/fr/fr/legal/general-conditions)
+Applicabilité des conditions générales. La présente politique de confidentialité est soumise aux [Conditions Générales](https://www.withings.com/fr/fr/legal/legal-notice#/fr/fr/legal/general-conditions) de Withings SAS.
+
+**Changement de la politique de confidentialité.** Nous mettons régulièrement à jour cette politique de confidentialité et nous vous informerons de chaque changement significatif conformément aux lois et réglementations en vigueur. La date de modification de la politique de confidentialité est présente en bas de cette page. Nous pouvons communiquer par mail ou d’autres canaux afin de vous rappeler le contenu de cette politique mais nous vous invitons à consulter régulièrement cette page.
+
+**Contact information.** Pour poser votre question ou commentaire concernant cette politique ou nos pratiques en matières de protection de la vie privée, contactez-nous par mail à : privacy@withings.com
 
   
 
-Reference: privacy-policy/20250804
-
-* * *
-
-Updated on 04 Aug 2025.
-
-Versions: [04 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250804) , [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
+Reference: privacy-policy/20251029
