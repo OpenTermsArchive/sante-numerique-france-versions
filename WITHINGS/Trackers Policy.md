@@ -1,3 +1,9 @@
+Updated on 14 Mar 2025.
+
+Versions: [14 Mar 2025](https://withings.com/fr/fr/legal/cookies?version=20250314) , [01 Mar 2024](https://withings.com/fr/fr/legal/cookies?version=20240301) , [07 Mar 2023](https://withings.com/fr/fr/legal/cookies?version=20230307) , [10 Mar 2021](https://withings.com/fr/fr/legal/cookies?version=20210310) , [04 Nov 2020](https://withings.com/fr/fr/legal/cookies?version=20201104) , [02 Aug 2019](https://withings.com/fr/fr/legal/cookies?version=20190802) , [08 Mar 2019](https://withings.com/fr/fr/legal/cookies?version=20190308) .
+
+* * *
+
 Politique Cookies et autres traceurs
 ====================================
 
@@ -232,9 +238,3 @@ _Tous les cookies utilisés par le portail d’authentification Withings peuvent
   
 
 Reference: cookies/20250314
-
-* * *
-
-Updated on 14 Mar 2025.
-
-Versions: [14 Mar 2025](https://withings.com/fr/fr/legal/cookies?version=20250314) , [01 Mar 2024](https://withings.com/fr/fr/legal/cookies?version=20240301) , [07 Mar 2023](https://withings.com/fr/fr/legal/cookies?version=20230307) , [10 Mar 2021](https://withings.com/fr/fr/legal/cookies?version=20210310) , [04 Nov 2020](https://withings.com/fr/fr/legal/cookies?version=20201104) , [02 Aug 2019](https://withings.com/fr/fr/legal/cookies?version=20190802) , [08 Mar 2019](https://withings.com/fr/fr/legal/cookies?version=20190308) .
