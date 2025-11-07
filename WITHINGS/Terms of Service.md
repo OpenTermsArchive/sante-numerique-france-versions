@@ -67,7 +67,7 @@ II. APPLICATION DES CONDITIONS GENERALES
 *   Les conditions Générales d'Utilisation (Partie 3)
 *   La Politique de confidentialité (Partie 4)
 
-Les Produits et Services doivent être utilisés conformément à leur Guide d'utilisation, disponibles sur le [centre d'aide W](https://support.health.withings.com/hc/requests/new)[ITHINGS](https://support.health.withings.com/hc/requests/new) pour les Produits et Services.
+Les Produits et Services doivent être utilisés conformément à leur Guide d'utilisation, disponibles sur le [centre d'aide W](https://support.withings.com/hc/fr)[ITHINGS](https://support.withings.com/hc/fr) pour les Produits et Services.
 
 **2.3. Objet.** Les Conditions Générales ont pour objet de déterminer les modalités de vente et d'utilisation des Produits et Services. Elles contiennent des informations importantes relatives à Vos droits et obligations.
 
