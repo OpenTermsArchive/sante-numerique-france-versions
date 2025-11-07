@@ -1,6 +1,6 @@
-Updated on 30 Oct 2025.
+Updated on 05 Nov 2025.
 
-Versions: [30 Oct 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251030) , [04 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250804) , [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
+Versions: [05 Nov 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251105) , [30 Oct 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251030) , [04 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250804) , [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
 
 * * *
 
@@ -95,7 +95,7 @@ Cette politique de confidentialité s’applique dans le cadre de l’utilisatio
 
 Des données personnelles sont collectées à l’occasion de votre visite sur le site Internet, lors de l’utilisation des produits et services et votre navigation dans l’application.
 
-**2.1. NOTRE SITE INTERNET.** Concernant les données collectées sur le site de Withings, référez-vous à [notre politique relative aux cookies](https://www.withings.com/fr/fr/legal/cookies).
+**2.1. NOTRE SITE INTERNET.** Concernant les données collectées sur le site de Withings, référez-vous à [notre politique relative aux cookies](https://withings.com/fr/fr/legal/cookies).
 
 **2.2. UTILISATION DES PRODUITS ET SERVICES.** L’utilisation de nos Produits et Services génère la création de données personnelles, dans les cas de figure suivants :
 
@@ -105,7 +105,7 @@ Des données personnelles sont collectées à l’occasion de votre visite sur l
 
 **c. Applications partenaires.** Lorsque vous liez votre compte Withings avec d'autres applications ou produits, les données de l’application Withings App sont synchronisées avec l’application de votre choix. Vous pouvez également consentir à ce que Withings collecte des données vous concernant depuis ces applications ou produits tiers pour améliorer votre expérience et nos Services. Vous pouvez modifier et retirer votre consentement pour ce traitement de données depuis les paramètres de votre application Withings. Pour information, l’éditeur de l’application partenaire devient responsable de traitement une fois les données communiquées à l’application tierce. Nous vous invitons à prendre connaissance de la politique de confidentialité de ces applications tierces, cette Politique ne s’applique qu’aux Produits et Services proposés par Withings.
 
-**d. Communication ciblée.** Afin de vous offrir des communications adaptées à vos produits et vos habitudes, nous créons des groupes d’utilisateurs avec des intérêts similaires. Définir ces groupes d’utilisateurs nous permet ensuite de vous envoyer des contenus adaptés à vos besoins pour vous offrir une expérience optimale lors de votre utilisation des produits et de l’application Withings. Ces groupes nous permettent aussi de vous faire parvenir des contenus publicitaires adaptés sur des plateformes tierces partenaires. Nous ne communiquons jamais d’information relative à votre santé à ces partenaires, uniquement certaines données permettant aux partenaires de vous identifier afin de délivrer le contenu publicitaire adapté. Ces plateformes sont sous-traitants pour l’affichage de ces contenus publicitaires. Vous pouvez vous opposer à tout moment à l’envoi de communications ciblées dans vos “Paramètres de notification” de l’application.
+**d. Communication ciblée.** Afin de vous offrir des communications adaptées à vos produits et vos habitudes, nous créons des groupes d’utilisateurs avec des intérêts similaires. Définir ces groupes d’utilisateurs nous permet ensuite de vous envoyer des contenus adaptés à vos besoins pour vous offrir une expérience optimale lors de votre utilisation des produits et de l’application Withings. Ces groupes nous permettent aussi de vous faire parvenir des contenus publicitaires adaptés sur des plateformes tierces partenaires. Nous ne communiquons jamais d’information relative à votre santé à ces partenaires, uniquement certaines données permettant aux partenaires de vous identifier afin de délivrer le contenu publicitaire adapté. Ces plateformes sont sous-traitants pour l’affichage de ces contenus publicitaires. Withings est susceptible de vous envoyer un email afin de vous proposer de mettre à jour votre consentement à l’envoi de communication ciblée. Vous pouvez vous opposer à tout moment à l’envoi de communications ciblées dans vos “Paramètres de notification” de l’application.
 
 **e. Support client.** Lorsque vous contactez le support client, certaines données personnelles liées à votre compte Withings peuvent être momentanément accessibles par nos équipes en fonction du problème rencontré, telles que les données relatives aux Produits que vous utilisez. Aucune Donnée de Santé n’est accessible à notre personnel du support client sans votre consentement préalable.
 
@@ -203,7 +203,7 @@ _B) COMMUNICATION ET SUPPORT_
 *   DONNEES TRAITEES : Adresse email, ID utilisateur, groupe d’audience
 *   BASE LÉGALE :
     *   Personnes ayant réalisé un achat sur le site withings.com : Intérêt légitime (conformément à l’art. L34-5 du Code des postes et des communications électroniques) - Vous proposer des produits ou solutions en lien avec vos achats précédents
-    *   Autres : consentement à l’envoi des communications marketing
+    *   Autres : consentement à l’envoi des communications marketing et à la mise à jour de ce consentement
 *   DURÉE DE CONSERVATION : Les données sont conservées tant que votre compte est actif ou bien lorsque vous ne souhaitez plus être notifié
 
 **3\. Envoi de communications concernant l’activation de nouvelles fonctionnalités (via emails ou notifications)**
@@ -458,4 +458,4 @@ Applicabilité des conditions générales. La présente politique de confidentia
 
   
 
-Reference: privacy-policy/20251030
+Reference: privacy-policy/20251105
