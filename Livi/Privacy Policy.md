@@ -262,7 +262,7 @@ _Conformément aux dispositions des articles 5 et 9 du RGPD, des données anonym
 
 **_Opérations en relation avec les fusions, acquisitions_** _ou toutes autres  opérations de restructuration du fournisseur de soins_  
 
-_Si vous souhaitez en savoir plus sur les données personnelles qui sont utilisées pour chacune des finalités ci-dessus, quelles sociétés procèdent aux traitements et la base légale utilisées, cliquez_ [ici](https://drive.google.com/file/d/1oc_2KDS79dQ6dgbyiZedlr9RbhpXvMRD/view?usp=sharing "ici")
+_Si vous souhaitez en savoir plus sur les données personnelles qui sont utilisées pour chacune des finalités ci-dessus, quelles sociétés procèdent aux traitements et la base légale utilisées, cliquez_ [ici](https://drive.google.com/file/d/1JbEOo6SOkCqhYnJjRQbS1Jf0O1-DCWTu/view?usp=sharing "ici")_._
 
 **6) Avec quels tiers vos données personnelles sont-elles partagées ?**  
   
