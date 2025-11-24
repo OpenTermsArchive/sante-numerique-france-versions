@@ -17,7 +17,7 @@ Email : [**accessibilite.monespacesante.cnam@assurance-maladie.fr**](mailto:acce
 État de conformité
 ------------------
 
-Mon espace santé est en conformité partielle avec le RGAA 4.1.
+Mon espace santé est en conformité partielle avec le RGAA 4.1 (Référentiel Général d'Amélioration de l'Accessibilité).
 
 Un audit de conformité a été réalisé en octobre 2022, suivi d’un contre-audit réalisé en janvier 2023.
 
