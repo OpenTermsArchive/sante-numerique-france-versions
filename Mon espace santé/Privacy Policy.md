@@ -1,7 +1,7 @@
 Protection des données personnelles
 ===================================
 
-La Caisse Nationale d’Assurance Maladie (CNAM) et le ministère de la Santé et de l’Accès aux soins s’engagent, dans le cadre du traitement dénommé « Mon espace santé », à assurer la protection, la confidentialité et la sécurité de l’ensemble de vos données personnelles. « Mon espace santé » contient notamment des données de santé, qui font l’objet d’une protection particulière par l’article L. 1110-4 du code de la santé publique. La violation du secret entourant ces données est réprimé pénalement (article 226-13 du code pénal).
+La Caisse Nationale d’Assurance Maladie (Cnam) et le Ministère de la Santé, des Familles, de l'Autonomie et des Personnes handicapées s’engagent, dans le cadre du traitement dénommé « Mon espace santé », à assurer la protection, la confidentialité et la sécurité de l’ensemble de vos données personnelles. « Mon espace santé » contient notamment des données de santé, qui font l’objet d’une protection particulière par l’article L. 1110-4 du code de la santé publique. La violation du secret entourant ces données est réprimé pénalement (article 226-13 du code pénal).
 
 Sur l’ensemble des pages sur lesquelles vous pouvez consulter Mon espace santé, nous appliquons la présente politique de protection des données personnelles. Celle-ci nous permet de vous informer sur l’utilisation de vos données et la protection de ces dernières.
 
@@ -12,7 +12,7 @@ Le traitement de vos données s’effectue conformément au Règlement général
 
 ### Responsable de traitement et sous-traitant
 
-La CNAM et le ministère de la Santé et de l’Accès aux soins, représenté par la déléguée ministérielle au numérique en santé, sont responsables conjointement du traitement des données réalisé dans le cadre de Mon espace santé. À ce titre, nous nous engageons à prendre toutes précautions nécessaires au regard de la nature des données collectées, et des risques présentés par le traitement, afin de préserver la sécurité de vos données et, notamment, empêcher qu’elles soient déformées, endommagées ou que des tiers non autorisés y aient accès.
+La CNAM et le Ministère de la Santé, des Familles, de l'Autonomie et des Personnes handicapées, représenté par la déléguée ministérielle au numérique en santé, sont responsables conjointement du traitement des données réalisé dans le cadre de Mon espace santé. À ce titre, nous nous engageons à prendre toutes précautions nécessaires au regard de la nature des données collectées, et des risques présentés par le traitement, afin de préserver la sécurité de vos données et, notamment, empêcher qu’elles soient déformées, endommagées ou que des tiers non autorisés y aient accès.
 
 ### Coordonnées des responsables de traitement :
 
@@ -20,17 +20,14 @@ Caisse Nationale d’Assurance Maladie
 26-50 Avenue du Professeur André Lemierre,  
 75986 Paris cedex 20
 
-Ministère de la Santé et de l’Accès aux soins  
+Ministère de la Santé, des Familles, de l'Autonomie et des Personnes handicapées  
 Déléguée ministérielle au numérique en santé  
 14 Avenue Duquesne,  
 75350 Paris
 
-Les données sont hébergées en France par deux sous-traitants :
+Les données sont hébergées en France par la société Atos.
 
-*   La société Worldline au travers de sa filiale Santeos, concernant les données de votre dossier médical partagé (DMP)
-*   La société Atos concernant toutes les autres données de Mon espace santé
-
-Ces deux sociétés sont toutes deux certifiées Hébergeur de Données de Santé (HDS), conformément à l’article L. 1111-8 du code de la santé publique.
+Cette société est certifiée Hébergeur de Données de Santé (HDS), conformément à l’article L. 1111-8 du code de la santé publique.
 
 2\. À quelles fins vos données sont-elles utilisées ?
 -----------------------------------------------------
