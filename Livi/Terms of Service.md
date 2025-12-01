@@ -15,7 +15,7 @@ Avant de commencer, n’oubliez pas que Livi n’est pas un service d’urgence 
 
 ### **1.1 Qui sommes-nous ?**
 
-Digital Medical Supply France (DMS France), est une filiale de KRY international AB (KRY International) propriétaire de la plate-forme Livi, utilisée pour fournir des prestations de soins à distance via un ordinateur, une tablette ou un smartphone à des patients. Les références à « nous », et « notre » dans ces CGUV sont des références à DMS France.
+Digital Medical Supply France (DMS France), est une filiale de KRY international AB (publ) (KRY International) propriétaire de la plate-forme Livi, utilisée pour fournir des prestations de soins à distance via un ordinateur, une tablette ou un smartphone à des patients. Les références à « nous », et « notre » dans ces CGUV sont des références à DMS France.
 
 Les CGUV, les principes applicables en matière de protection des données et diverses instructions et informations relatives aux services sont disponibles dans l’App Livi et sur le site web.  
 
@@ -194,9 +194,9 @@ La responsabilité de DMS France est dans toutes circonstances limitée aux domm
 
 ### **5.1 Droits de propriété intellectuelle attachés à Livi**
 
-La propriété, les droits de propriété et tous les droits liés à KRY International, dont la marque Livi,  l’entreprise et l'App, ainsi que tous les documents ou matériels qui sont utilisés et / ou fournis par Livi sur l'App, notamment les présentes conditions générales d’utilisation, appartiennent exclusivement à KRY International. Nous nous réservons le droit exclusif d'utiliser le matériel mentionné ci-dessus. Toutes les copies, versions, modifications et / ou autres utilisations de notre matériel qui n'ont pas été explicitement autorisées par les présentes CGUV ou par nos instructions écrites expresses sont strictement interdites. En tant qu’utilisateur, vous comprenez et acceptez qu’une utilisation non autorisée des droits de propriété intellectuelle de Livi peut, en plus d'enfreindre les présentes CGUV, constituer une infraction pénale. Nous nous réservons le droit d'intenter une action en justice en cas d'utilisation non autorisée des droits de propriété intellectuelle de Livi.
+La propriété, les droits de propriété et tous les droits liés à KRY International AB (publ), dont la marque Livi,  l’entreprise et l'App, ainsi que tous les documents ou matériels qui sont utilisés et / ou fournis par Livi sur l'App, notamment les présentes conditions générales d’utilisation, appartiennent exclusivement à KRY International AB (publ). Nous nous réservons le droit exclusif d'utiliser le matériel mentionné ci-dessus. Toutes les copies, versions, modifications et / ou autres utilisations de notre matériel qui n'ont pas été explicitement autorisées par les présentes CGUV ou par nos instructions écrites expresses sont strictement interdites. En tant qu’utilisateur, vous comprenez et acceptez qu’une utilisation non autorisée des droits de propriété intellectuelle de Livi peut, en plus d'enfreindre les présentes CGUV, constituer une infraction pénale. Nous nous réservons le droit d'intenter une action en justice en cas d'utilisation non autorisée des droits de propriété intellectuelle de Livi.
 
-Tous les droits de propriété intellectuelle découlant de la fourniture de l'application et/ou d'autres services aux utilisateurs appartiennent exclusivement à KRY International. Cette exclusivité inclut le droit de modifier et de transférer ces droits.
+Tous les droits de propriété intellectuelle découlant de la fourniture de l'application et/ou d'autres services aux utilisateurs appartiennent exclusivement à KRY International AB (publ). Cette exclusivité inclut le droit de modifier et de transférer ces droits.
 
 ### 5.2 Droits à l’image et cession des droits d’auteur
 
@@ -272,8 +272,8 @@ Livi se réserve  le droit de résilier votre accès à la plate-forme Livi  a
 
 Si l’accès à votre compte a été suspendu conformément à cet article, vous n'avez pas le droit de vous réinscrire ou d'enregistrer un nouveau compte sans l'autorisation spécifique écrite de DMS France.
 
-**9\.** **Modification du produit et changements dans les conditions générales d’utilisation**
-----------------------------------------------------------------------------------------------
+**9\. Modification du produit et changements dans les conditions générales d’utilisation**
+------------------------------------------------------------------------------------------
 
 ### **9.1 Modification des CGUV**
 
