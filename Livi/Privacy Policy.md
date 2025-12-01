@@ -43,7 +43,7 @@ Les prestataires de soins utilisateurs de la plateforme Livi fournissent aux pat
 
 _En savoir plus:_ 
 
-_DMS France est la filiale française du groupe Kry international AB_ _(“Kry”). Kry International a concédé à DMS France une licence d’utilisation de l’App Livi pour le territoire français. Vous trouverez les informations de contact de Kry international et de DMS France à la fin de cette politique de confidentialité._ 
+_DMS France est la filiale française du groupe Kry international AB (publ)_ _(“Kry”). Kry International AB (publ) a concédé à DMS France une licence d’utilisation de l’App Livi pour le territoire français. Vous trouverez les informations de contact de Kry international AB (publ) et de DMS France à la fin de cette politique de confidentialité._ 
 
 _Il s’agit par exemple de vous permettre d’installer l’application, de vous authentifier ou de vous enregistrer, de faciliter les contacts avec les professionnels de santé et de vous fournir du contenu informatif via la plateforme Livi. Ces informations sont désignées comme “données utilisateurs”._
 
@@ -118,7 +118,7 @@ Vos données personnelles sont traitées pour les finalités suivantes :
     
 *   Pour préserver les intérêts juridiques dans les procédures ou contentieux,
     
-*   Pour les opérations en relation avec les fusions, acquisitions ou autres opérations de restructurations du groupe Kry international,
+*   Pour les opérations en relation avec les fusions, acquisitions ou autres opérations de restructurations du groupe Kry international AB (publ),
     
 *   Pour prévenir et enquêter sur les infractions au Code pénal.
     
@@ -357,7 +357,7 @@ Si nos services vous sont proposés par votre employeur, nous agissons comme res
 
   
 
-Nous pouvons transférer vos données personnelles à d’autres société au sein du groupe Kry international
+Nous pouvons transférer vos données personnelles à d’autres société au sein du groupe Kry international AB (publ).
 
   
 
