@@ -89,7 +89,7 @@ Le délégué à la protection des données est joignable aux coordonnées suiv
 
 L’Organisme utilise les données à caractère personnel pour les objectifs principaux suivants :
 
-*   La fourniture des contenus et services en ligne du Portail Vivoptim aux Utilisateurs et du Service Vivoptim aux utilisateurs s ou dans le cadre de l’application mobile,
+*   La fourniture des accompagnements, contenus et services en ligne du Portail Vivoptim aux Utilisateurs (web et mobile) et du Service Vivoptim d’accompagnement téléphonique /visio aux utilisateurs ou dans le cadre de l’application mobile
 *   La réutilisation des données produites dans le cadre du Service Vivoptim afin de l’évaluer, le cas échéant par des évaluateurs habilités,
 *   La production d’analyses statistiques garantissant l’anonymat des utilisateurs.
 
