@@ -6,7 +6,7 @@ Politique de confidentialité
 1\. INFORMATIONS LÉGALES
 ------------------------
 
-Les présentes constituent la Politique de confidentialité du site « Petit BamBou » (ci-après le « **Site** »), accessible à l'adresse https://www.petitbambou.com/, ainsi que de l’application « Petit BamBou » (ci-après l’ « **Application** »), accessible sur Google Play et/ou l’App Store. Le Site comme l’Application (ci-après désignés collectivement les « **Supports** ») sont édités par la Société FEELVERYBIEN, Société par actions simplifiée au capital social de 160.470 euros (ci-après « **FEELVERYBIEN** »), dont le siège social est situé 99C, boulevard Constantin Descat - Bâtiment « La Teinturerie » - 59200 Tourcoing, France, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 922 300 538.
+Les présentes constituent la Politique de confidentialité du site « Petit BamBou » (ci-après le « **Site** »), accessible à l'adresse https://www.petitbambou.com/, ainsi que de l’application « Petit BamBou » (ci-après l’ « **Application** »), accessible sur Google Play et/ou l’App Store. Le Site comme l’Application (ci-après désignés collectivement les « **Supports** ») sont édités par la Société FEELVERYBIEN, Société par actions simplifiée au capital social de 160.470 euros (ci-après « **FEELVERYBIEN** »), dont le siège social est situé 28 Rue Parmentier, Urban Lodge, Bâtiment A, 59650 Villeneuve-d'Ascq, France, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 922 300 538.
 
 2\. PRÉAMBULE
 -------------
@@ -96,7 +96,7 @@ Si toutefois, après nous avoir contactés, vous estimez que vos droits « Infor
 10\. CONTACT
 ------------
 
-Pour exercer vos droits en matière de données personnelles, nous vous invitons à vous adresser au Délégué à la protection des données (DPO) soit par voie postale au 99C, boulevard Constantin Descat - Bâtiment « La Teinturerie » - 59200 Tourcoing, France, soit par e-mail à l’adresse suivante : [legal@petitbambou.com](mailto:legal@petitbambou.com).
+Pour exercer vos droits en matière de données personnelles, nous vous invitons à vous adresser au Délégué à la protection des données (DPO) soit par voie postale au 28 Rue Parmentier, Urban Lodge, Bâtiment A, 59650 Villeneuve-d'Ascq, France, soit par e-mail à l’adresse suivante : [legal@petitbambou.com](mailto:legal@petitbambou.com).
 
 En principe, seule la personne concernée est habilitée à faire une demande d’exercice de droits pour ses propres données personnelles. Toutefois, sous certaines conditions, il existe certains cas particuliers dans lequel une autre personne peut effectuer cette demande pour le compte d’une autre :
 
