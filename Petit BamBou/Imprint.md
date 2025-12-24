@@ -7,9 +7,9 @@ Informations légales – [www.petitbambou.com](https://www.petitbambou.com/fr)
 
 Siège social :  
 FEELVERYBIEN, SAS  
-99C Boulevard Descat,  
-La Teinturerie,  
-59200 TOURCOING,  
+28 Rue Parmentier,  
+Urban Lodge, Bâtiment A,  
+59650 Villeneuve-d'Ascq,  
 FRANCE
 
 E-mail : [info@petitbambou.com](mailto:info@petitbambou.com)
