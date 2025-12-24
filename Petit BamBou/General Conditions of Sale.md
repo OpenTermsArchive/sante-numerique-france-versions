@@ -249,7 +249,7 @@ Toute demande d’exercice du droit de rétractation devra être adressée soit 
 
 Formulaire de rétractation : Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat d’Abonnement.
 
-_À l'attention de la société FEELVERYBIEN située 99C, boulevard Constantin Descat - Tourcoing (59200), joignable à l’adresse e-mail [legal@petitbambou.com](mailto:legal@petitbambou.com) :_
+_À l'attention de la société FEELVERYBIEN située 28 Rue Parmentier, Urban Lodge, Bâtiment A, 59650 Villeneuve-d'Ascq, France, joignable à l’adresse e-mail [legal@petitbambou.com](mailto:legal@petitbambou.com) :_
 
 _Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat pour la prestation de services ci-dessous :_
 
