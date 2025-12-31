@@ -6,42 +6,69 @@ Conditions générales de vente
 1\. PRÉAMBULE
 -------------
 
-La société FEELVERYBIEN (ci-après « **FEELVERYBIEN** ») est une société qui promeut la pleine conscience à travers une gamme variée d’applications mobiles, offrant des programmes de méditation et de respiration, exploitées sous des marques déposées telles que Petit BamBou, Positivor, Zafoo et Sophrologie avec Petit BamBou.
+Les présentes constituent les Conditions Générales de Vente applicables à l’ensemble des Services proposés par la société FEELVERYBIEN, société par actions simplifiée au capital social de 160.470 euros, dont le siège social est situé 28, rue Parmentier - Urban Lodge, Bâtiment A - 59650 Villeneuve d’Ascq, France, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 922 300 538, et identifiée sous le numéro de TVA intracommunautaire FR03922300538 (ci-après « **FEELVERYBIEN** »).
 
-FEELVERYBIEN a développé, au travers du site « Petit BamBou » (ci-après le « **Site** ») et de l'application Petit BamBou (ci-après l’« **Application** » et collectivement les « **Supports** »), une offre de services destinée aux particuliers avec un catalogue complet de méditations et de respirations guidées. L’offre Petit BamBou est disponible au travers de la solution digitale [https://www.petitbambou.com/fr](https://www.petitbambou.com/fr).
+La société FEELVERYBIEN est une société qui promeut la pleine conscience à travers une gamme variée de sites internet et d’applications mobiles, offrant des programmes de méditation et de respiration, exploitées sous des marques déposées telles que Petit BamBou, Positivor et Zafoo.
 
-Petit BamBou, disponible en plusieurs langues dont le français, l'anglais, l'espagnol, l'allemand, le néerlandais et l'italien, offre des programmes de méditation et de respiration adaptés tant aux professionnels qu'aux particuliers. Ces ressources sont élaborées en collaboration avec des psychologues, des psychiatres et des instructeurs de méditation certifiés, garantissant ainsi leur qualité et leur efficacité.
+FEELVERYBIEN propose une offre globale d’abonnement donnant accès, au moyen d’un compte utilisateur unique, à l’ensemble de ses contenus et fonctionnalités disponibles sur ses différents supports numériques (sites internet et applications mobiles, ci-après les « **Supports** »), quel que soit le Support par lequel l’Utilisateur accède aux Services. Cette offre repose sur une logique d’écosystème unifié, destinée à proposer à l’Utilisateur une expérience fluide et évolutive.
 
-Les présentes Conditions Générales ont pour objet de définir les modalités et conditions dans lesquelles le Client (ci-après l’« **Abonné** ») pourra souscrire un abonnement. Toute souscription d’abonnement par le Client emporte son adhésion, exprès et sans réserve, aux Conditions Générales, le Client reconnaissant en avoir parfaitement pris connaissance et les avoir acceptées. Elles prévalent sur tout autre document qui aurait pu être communiqué à FEELVERYBIEN.
+Les Services, disponibles en plusieurs langues dont le français, l'anglais, l'espagnol, l'allemand, le néerlandais et l'italien, offrent des programmes de méditation et de respiration adaptés aux particuliers. Ces ressources sont élaborées en collaboration avec des psychologues, des psychiatres et des instructeurs de méditation certifiés, et proposées via les différents Supports édités par FEELVERYBIEN.
 
-Les Conditions Générales applicables sont celles en vigueur à leur date de signature, ou à défaut de signature, à la date de passation de la Commande.
+Les présentes Conditions Générales ont pour objet de définir les modalités et conditions dans lesquelles le Client (ci-après l’« **Abonné** ») pourra souscrire, gérer et utiliser un abonnement aux Services proposés par FEELVERYBIEN, indépendamment du point d’entrée utilisé pour la souscription (site internet ou application mobile) et sous réserve des contraintes techniques propres aux plateformes de distribution tierces (App Store ou Google Play).
 
-Les présentes Conditions Générales sont la propriété de FEELVERYBIEN. Toute reproduction, même partielle, est strictement interdite.
+Toute souscription à un abonnement par le Client emporte son adhésion, expresse et sans réserve, aux présentes Conditions Générales de Vente, le Client reconnaissant en avoir parfaitement pris connaissance et les avoir acceptées. Elles constituent, avec les Conditions Générales d’Utilisation et la Politique de confidentialité, l’ensemble contractuel régissant la relation entre FEELVERYBIEN et le Client.
+
+Les Conditions Générales de Vente applicables sont celles en vigueur à la date de souscription ou de renouvellement de l’abonnement.
+
+Les présentes Conditions Générales sont la propriété exclusive de FEELVERYBIEN. Toute reproduction, représentation ou exploitation, même partielle, est strictement interdite.
 
 2\. DÉFINITIONS
 ---------------
 
 Les termes ou expressions suivants, s'ils commencent par une majuscule, qu'ils soient au singulier ou au pluriel, auront la signification qui suit :
 
-**« Abonné »** : désigne le particulier personne physique souscrivant des abonnements, tant gratuits que onéreux.
+**« Abonné »** : désigne toute personne physique qui a souscrit à un Abonnement aux Services proposés par FEELVERYBIEN via l’un des Supports.
 
-**« Abonnement »** : désigne l'abonnement auquel l'Abonné souscrit au travers du site internet [https://www.petitbambou.com/fr](https://www.petitbambou.com/fr) ou au travers de l'Application. Les offres d’abonnement sont décrites en Article 3.1.
+**« Abonnement »** : désigne l’offre d’abonnement à laquelle l'Abonné souscrit au travers des Supports et lui donnant accès, pour une durée déterminée ou indéterminée, à tout ou partie des Services de l’écosystème FEELVERYBIEN. L’Abonnement est unique, rattaché à un compte utilisateur unique, et valable sur l’ensemble des Supports, sous réserve des modalités de souscription, de gestion et de résiliation décrites aux présentes et des contraintes techniques propres aux plateformes de distribution tierces (App Store et Google Play).
 
-**« Application »** : désigne l’application Petit BamBou, éditée par FEELVERYBIEN, accessible depuis tout terminal disposant d’une connexion au réseau Internet, par téléchargement gratuit depuis l’App Store ou Google Play ou par consultation via un navigateur web et qui permet, après installation et création du compte, d’accéder aux Services.
+**« Application »** : désigne l’une quelconque des applications mobiles éditées par FEELVERYBIEN, accessibles depuis tout terminal disposant d’une connexion au réseau Internet, par téléchargement gratuit depuis l’App Store ou Google Play, permettant l’accès aux Services.
 
-**« Contenu »** : désigne les contenus numériques, notamment le contenu des Supports et des blogues, les logiciels d'application, ainsi que les œuvres littéraires, musicales, télévisuelles ou cinématographiques offertes en téléchargement ou en lecture en continu et disponibles sur le Site et dans l’Application, et qui sont mis à disposition de l’Abonné.
+**« Compte »** : désigne le compte utilisateur unique créé par l’Utilisateur ou l’Abonné lors de son inscription, permettant son identification, l’accès aux Services, et le cas échéant, la gestion de son Abonnement sur l’ensemble des Supports.
 
-**« Contrat » ou « Conditions Générales » ou « Conditions Générales de Vente »** : désigne le présent contrat conclu entre le Client et FEELVERYBIEN, y compris son préambule, et précisant l'ensemble des droits et obligations de ceux-ci dans le cadre de l'utilisation du Service fourni par FEELVERYBIEN.
+**« Contenu »** : désigne l’ensemble des contenus numériques mis à disposition par FEELVERYBIEN dans le cadre des Services, accessibles en téléchargement ou en lecture en continu, incluant notamment des contenus de méditation, de respiration, de sophrologie et autres techniques, ainsi que les programmes, séances, outils, sons, musiques, animations pédagogiques, et plus largement toute autre œuvre protégée au sens du droit de la propriété intellectuelle, quels qu’en soient le format ou le support.
 
-**« Master »** : désigne le particulier personne physique qui souscrit à l’Offre « Famille », et qui en est l’utilisateur principal.
+**« Contrat »** ou **« Conditions Générales »** ou **« Conditions Générales de Vente »** : désignent le présent contrat conclu entre l’Abonné et FEELVERYBIEN, y compris son préambule, et précisant l'ensemble des droits et obligations de ceux-ci dans le cadre de la souscription et de l'utilisation du Service fourni par FEELVERYBIEN, indépendamment du Support utilisé.
 
-**« Membre Invité »** : désigne le particulier personne physique qui accepte l’invitation émise par le Master dans le cadre de l’Offre « Famille ».
+**« Master »** : désigne l’Abonné ayant souscrit à l’Offre « Famille », agissant en qualité d’utilisateur principal de l’Abonnement.
 
-**« Offre "Famille" »** : désigne une formule d’Abonnement distincte, qui donne au Master un accès Premium aux Services et lui permet d’inviter, sans surcoût, jusqu’à trois (3) personnes de son choix à bénéficier de son Abonnement, que ces dernières disposent ou non déjà d’un compte sur les Supports.
+**« Membre Invité »** : désigne toute personne physique qui accepte l’invitation émise par le Master dans le cadre de l’Offre « Famille », disposant alors d’un Compte personnel et d’un accès aux Services, conformément aux conditions applicables à ladite offre.
 
-**« Site »** : désigne le site [https://www.petitbambou.com/fr](https://www.petitbambou.com/fr).
+**« Offre “Famille” »** : désigne une formule spécifique d’Abonnement, donnant au Master un accès Premium aux Services et lui permettant d’inviter, sans surcoût, jusqu’à trois (3) personnes de son choix à bénéficier de son Abonnement, que ces dernières disposent ou non d’un compte sur les Supports.
 
-**« Service »** : désigne tout produit et/ou service mis à la disposition de l’Utilisateur à titre onéreux ou gratuit par FEELVERYBIEN au travers des Supports. Figurent parmi les Services, et sans que cette liste ne soit exhaustive, les produits et/ou services suivants :
+**« Site »** : désigne l’un quelconque des sites internet édités par FEELVERYBIEN permettant l’accès aux Services.
+
+**« Service »** : désigne l’ensemble des produits, fonctionnalités et services numériques mis à disposition par FEELVERYBIEN, à titre gratuit ou payant, au travers des Supports. Figurent parmi les Services, et sans que cette liste ne soit exhaustive :
+
+*   Des contenus de méditation, respiration, sophrologie et autres techniques, sous forme de programmes thématiques composés de plusieurs séances de durée variable ;
+*   Des « Méditations du jour », consistant en une séance quotidienne de 8, 12 ou 16 minutes ;
+*   Des Musiques, Sons et Ambiances exclusifs ;
+*   Des Histoires, sous forme de courtes animations, pour expliquer de manière pédagogique les grands principes de la méditation ;
+*   Des contenus pédagogiques ;
+*   Des outils de suivi, de personnalisation et d’accompagnement paramétrables ;
+*   Un accompagnement et une assistance personnalisés.
+
+**« Support »** : désigne collectivement l’ensemble des supports numériques par lesquels les Services proposés par FEELVERYBIEN sont accessibles, incluant notamment les différentes Sites et Applications faisant partie de l’écosystème FEELVERYBIEN.
+
+**« Utilisateur »** : désigne toute personne physique qui accède, navigue ou utilise tout ou partie des Supports édités par FEELVERYBIEN, qu’elle ait ou non créé un Compte, et indépendamment de la souscription à un Abonnement.
+
+3\. DESCRIPTION DES SERVICES
+----------------------------
+
+Les Services proposés par FEELVERYBIEN s’inscrivent au sein de plusieurs univers applicatifs, accessibles via différentes Applications, et constituent ensemble l’écosystème FEELVERYBIEN. Les descriptions ci-dessous visent à présenter, à titre indicatif, les principales fonctionnalités et typologies de contenus proposées, sans caractère exhaustif ni limitatif.
+
+### 3.1 Petit BamBou
+
+L’univers Petit BamBou est principalement orienté vers la pratique de la méditation de pleine conscience, de la respiration et des disciplines associées. Il propose notamment :
 
 *   Des contenus de méditation, respiration, sophrologie et autres techniques, sous forme de programmes thématiques composés de plusieurs séances de durée variable, et d’outils paramétrables ;
 *   Des « Méditations du jour », consistant en une séance quotidienne de 8, 12 ou 16 minutes ;
@@ -49,29 +76,41 @@ Les termes ou expressions suivants, s'ils commencent par une majuscule, qu'ils s
 *   Des Histoires, sous forme de courtes animations, pour expliquer de manière pédagogique les grands principes de la méditation ;
 *   Un accompagnement et une assistance personnalisés.
 
-**« Support »** : désigne collectivement les supports numériques par lesquels les Utilisateurs peuvent accéder aux Services proposés par FEELVERYBIEN, incluant notamment le Site ainsi que l’Application.
+### 3.2 Mouvement
 
-FEELVERYBIEN est libre de modifier les Services et Contenus à tout moment.
+L’univers Mouvement est dédié au bien-être physique et à la mobilité du corps. Il propose notamment :
 
-3\. ACCÈS AUX SERVICES
+*   Des séances de mouvements articulaires de durée variable basées sur des exercices de biomécanique, à savoir, et sans que cette liste ne soit exhaustive, des flexions, des extensions, des abductions, ainsi que tout autre type de mouvement articulaire ;
+*   Un accompagnement et une assistance personnalisés.
+
+### 3.3 Sommeil avec Petit BamBou
+
+L’univers Sommeil avec Petit BamBou est dédié à l’accompagnement des utilisateurs dans leur relation avec le sommeil. Il propose notamment :
+
+*   Des contenus de méditation guidée autour de la thématique du sommeil, composés de plusieurs séances de durée variable ;
+*   Des « Rituels » quotidiens, proposés à différents moments de la journée ;
+*   Des parcours thématiques visant à mieux comprendre et appréhender les mécanismes du sommeil ;
+*   Des fonctionnalités de réveil ;
+*   Un accompagnement et une assistance personnalisés.
+
+4\. ACCÈS AUX SERVICES
 ----------------------
 
-### 3.1 Abonnement
+### 4.1 Abonnement
 
-L’ensemble des offres et conditions d’abonnement, les tarifs, descriptions, caractéristiques techniques et d’utilisation des services proposés sont accessibles, sauf en cas de force majeure, panne ou opération de maintenance, en permanence sous les liens suivants :
+L’ensemble des offres et conditions d’abonnement proposés par FEELVERYBIEN, ainsi que les tarifs, descriptions, caractéristiques techniques et d’utilisation des Services proposés sont portées à la connaissance de l’Abonné préalablement à toute souscription, sur le Support utilisé pour souscrire, et notamment au sein du parcours de souscription correspondant.
 
-*   **Pour le Site :** [https://www.petitbambou.com/fr/subscriptions](https://www.petitbambou.com/fr/subscriptions)
-*   **Pour l'Application :** [https://www.petitbambou.com/subscribe](https://www.petitbambou.com/subscribe)
+L’Abonnement constitue une offre unique donnant accès, au moyen d’un Compte utilisateur unique, à l’ensemble des Services proposés par FEELVERYBIEN sur les Supports, sous réserve des fonctionnalités effectivement disponibles selon les Applications utilisées et des contraintes techniques propres aux plateformes de distribution tierces.
 
-L’offre d’abonnement est une offre permettant à l’Abonné de souscrire simultanément compte et droits d’accès au Site et à l’Application. La souscription de l’Abonnement est effectuée soit en ligne directement sur le Site, soit sur l’Application.
+La souscription de l’Abonnement est effectuée, au choix de l’Abonné, soit directement en ligne sur l’un des Sites édités par FEELVERYBIEN, soit via l’une des Applications. Quel que soit le Support utilisé pour la souscription, l’Abonnement souscrit est identique et régi par les présentes Conditions Générales de Vente.
 
-Dans le cadre de l’offre « Solo - À vie », la notion « À vie » s’entend comme une période de cent (100) ans à compter de la date de souscription ou, si elle survient plus tôt, de la date à laquelle FEELVERYBIEN cesse de commercialiser les Services ; la première de ses échéances prévalant.
+La souscription à un Abonnement implique la création ou l’utilisation d’un Compte, nécessitant la fourniture d’une adresse e-mail valide et la définition d’un mot de passe, permettant à l’Abonné de s’authentifier et d’accéder aux Services. Une confirmation de souscription est adressée à l’Abonné par courrier électronique.
 
-L’Abonnement suppose le remplissage d’un formulaire d’abonnement pour la création d’un compte Abonné, nécessitant de fournir une adresse e-mail valide et de créer un mot de passe, qui permettront à l’Abonné de s’authentifier. L’Abonné reçoit ensuite par mail confirmation de l’acceptation de sa demande d’abonnement.
+Dans le cadre de l’offre « Solo - À vie », la notion « À vie » désigne un droit d’accès aux Services accordé pour toute la durée de leur exploitation commerciale par FEELVERYBIEN. En d’autres termes, cette durée est réputée correspondre à une période maximale de cent (100) ans à compter de la date de souscription ou, si elle survient plus tôt, de la date à laquelle FEELVERYBIEN cesse de commercialiser les Services.
 
-Les Abonnements sont payables au jour de la souscription pour la durée définie.
+Les Abonnements sont payables au jour de la souscription, pour la durée et selon la périodicité choisies par l’Abonné.
 
-### 3.2 Offre étudiante - UNiDAYS
+### 4.2 Offre étudiante - UNiDAYS
 
 FEELVERYBIEN propose une offre préférentielle réservée aux étudiants, non cumulable avec un abonnement déjà en cours. Cette offre permet aux étudiants éligibles de bénéficier d’une réduction exclusive sur l’abonnement annuel aux Services de FEELVERYBIEN, dont le montant varie selon les territoires. Valable pour une durée limitée à un (1) an, elle prendra fin automatiquement à l'issue de cette période, sauf souscription à une nouvelle offre aux tarifs standards.
 
@@ -83,179 +122,209 @@ Afin d’assurer une information claire et sans ambiguïté, l’Utilisateur ser
 
 Toute souscription à l’offre étudiante est définitive et non remboursable, sauf en cas de motifs exceptionnels prévus par la loi.
 
-Pour toute question relative à l’éligibilité ou au processus de validation de l’offre étudiante, l’Utilisateur est invité à consulter les conditions générales d’utilisation de UNiDAYS ou à contacter notre service client à l’adresse suivante : [onestlapourvous@petitbambou.com](mailto:onestlapourvouspetitbambou.com).
+Pour toute question relative à l’éligibilité ou au processus de validation de l’offre étudiante, l’Utilisateur est invité à consulter les conditions générales d’utilisation de UNiDAYS ou à contacter notre service client à l’adresse suivante : onestlapourvous@petitbambou.com.
 
-### 3.3 Offre Famille
+### 4.3 Offre Famille
 
-#### 3.3.1 Formules et Disponibilité
+#### 4.3.1 Formules et Disponibilité
 
-L’Offre « Famille » constitue un abonnement distinct, proposé aux mêmes conditions de qualité et de service que l’abonnement « Solo », mais assorti de la faculté de pouvoir inviter jusqu’à trois (3) personnes de son choix. Accessible aux liens détaillés en Article 3.1, l’Offre « Famille » est commercialisée sous deux options :
+L’Offre « Famille » constitue un abonnement distinct, proposé aux mêmes conditions de qualité et de service que l’abonnement « Solo », mais assorti de la faculté de pouvoir inviter jusqu’à trois (3) personnes de son choix. L’Offre « Famille » est commercialisée sous deux options :
 
 *   Une formule annuelle accessible dans tous les pays où les Services sont distribués ;
 *   Une formule mensuelle disponible dans tous les pays où les Services sont distribués.
 
 Est entendue par « Famille » la famille au sens large, ce qui inclut tant les proches du Master, qu’ils résident ou non sous le même toit, que sa famille « de cœur ».
 
-#### 3.3.2 Facturation et Reconduction
+#### 4.3.2 Facturation et Reconduction
 
-Dans le cadre de l’Offre « Famille », le Master, utilisateur principal de l’Abonnement, est seul redevable des sommes dues par la souscription de l’Abonnement. Lors de la souscription, le Master règle la totalité du prix de l’Abonnement « Famille », soit au mois, soit à l’année selon la périodicité choisie au moyen d’un mode de paiement tel que décrit en Article 3.5.
+Dans le cadre de l’Offre « Famille », le Master, utilisateur principal de l’Abonnement, est seul redevable des sommes dues par la souscription de l’Abonnement. Lors de la souscription, le Master règle la totalité du prix de l’Abonnement « Famille », soit au mois, soit à l’année selon la périodicité choisie au moyen d’un mode de paiement tel que décrit en Article 4.5.
 
 Le Master est seul habilité à gérer le renouvellement ou la résiliation depuis son compte. L’Offre « Famille » est tacitement reconduite pour des périodes successives identiques à la durée initiale et facturée à la date anniversaire correspondante, dans la devise et au tarif en vigueur au jour de la reconduction, sauf résiliation préalable opérée par le Master depuis son espace personnel au plus tard quarante-huit (48) heures avant l’échéance.
 
-#### 3.3.3 Impayés et Résiliation
+#### 4.3.3 Impayés et Résiliation
 
 Toute défaillance de paiement entraîne la suspension immédiate de l’accès Premium pour le Master et pour l’ensemble des Membres Invités.
 
 La résiliation par le Master ou la conversion vers une autre offre produit ses effets à la prochaine échéance de facturation. À cette date, les Membres Invités perdent alors leur statut Premium, sauf s’ils ont souscrit leur propre formule payante ou activé une carte cadeau.
 
-#### 3.3.4 Migration depuis un Abonnement existant
+#### 4.3.4 Migration depuis un Abonnement existant
 
-Un Abonné ayant souscrit sur le Site peut convertir son Abonnement en abonnement « Famille » à tout moment depuis son espace client disponible dans les paramètres, la nouvelle tarification s’appliquant immédiatement.
+Un Abonné ayant souscrit sur l’un des Sites peut convertir son Abonnement en abonnement « Famille » à tout moment depuis son espace client disponible dans les paramètres, la nouvelle tarification s’appliquant immédiatement.
 
 Toutefois, les Abonnements contractés via le Play Store ou l’App Store doivent, préalablement à la migration, être résiliés dans le store concerné, et l’Abonné pourra alors souscrire à l’Offre « Famille » à l’expiration de sa période d’Abonnement en cours.
 
-### 3.4 Carte cadeau
+### 4.4 Carte cadeau
 
-FEELVERYBIEN propose également un accès aux Services via l'achat de cartes cadeaux, uniquement à travers la rubrique dédiée du Site.
+FEELVERYBIEN propose également l’accès aux Services par l’intermédiaire de cartes cadeaux de différentes durées via la rubrique dédiée accessible sur le Site.
 
 L'achat d'une carte cadeau se fait en un seul paiement lors de la commande et n'entraîne pas de renouvellement automatique.
 
-Pour acheter une carte cadeau, l’Utilisateur doit se rendre sur le Site. L'acheteur devra alors sélectionner la durée de cette dernière, cliquer sur « Offrir », fournir une adresse e-mail valide, puis enfin valider la commande en sélectionnant le mode de paiement (carte bancaire ou PayPal) et en cliquant sur « Procéder au paiement ».
+La commande d’une carte cadeau s’effectue via l’onglet « Cartes cadeaux » disponible sur le site Petit BamBou, puis selon le parcours d’achat mis à disposition. À l’issue du paiement, une confirmation de commande est adressée à l’acheteur par courrier électronique, et la carte cadeau, sous forme dématérialisée, est mise à sa disposition sur le Site et/ou par e-mail.
 
-Une fois le paiement effectué, une confirmation de commande sera envoyée par e-mail, et l'acheteur pourra accéder à sa carte cadeau imprimable au format PDF sur le site et/ou par e-mail.
+La carte cadeau peut être utilisée par son bénéficiaire une (1) heure après sa réception.
 
-La carte cadeau peut être utilisée une heure après sa réception.
+L’activation de la carte cadeau permet au bénéficiaire de devenir Abonné pour la durée correspondante et d’accéder aux Services via les Supports, sous réserve de la création ou de l’utilisation d’un Compte.
 
-Aucun remboursement ne sera accordé après l'activation du code figurant sur la carte cadeau.
+Conformément aux dispositions de l’article L. 221-28 du Code de la consommation, l’activation du code de la carte cadeau vaut commencement d’exécution du Service et emporte renonciation expresse du bénéficiaire à son droit de rétractation. En conséquence, aucun remboursement ne pourra être accordé après l’activation du code.
 
-Les cartes cadeaux ne sont valides que pour une durée de douze (12) mois à compter de leur date d’émission.
+Les cartes cadeaux sont valables pour une durée de douze (12) mois à compter de leur date d’émission, durée portée à la connaissance de l’acheteur avant la commande. À l’issue de cette période, et en l’absence d’activation, la carte cadeau expirera de plein droit, sans possibilité de remboursement ou de prolongation.
 
-### 3.5 Tarifs et modes de paiement
+### 4.5 Tarifs et modes de paiement
 
-Les tarifs, indiqués en euros, sont accessibles sur les Supports, et s’entendent toutes taxes comprises (TTC). Ils ne comprennent pas les coûts liés à l’équipement et aux communications électroniques, nécessaires à la souscription et à l’utilisation des Services, lesdits coûts restant à charge de l’Abonné.
+Les tarifs applicables aux Services sont indiqués en euros et s’entendent toutes taxes comprises (TTC). Ils sont portés à la connaissance de l’Abonné préalablement à toute souscription, sur le Support utilisé pour souscrire, notamment au sein du parcours de souscription correspondant.
 
-De même, toute taxe, charge, ou autre somme à payer (frais bancaires, de change, de transfert) seront supportées par l’Abonné.
+Les tarifs ne comprennent pas les coûts liés à l’équipement et aux communications électroniques, nécessaires à la souscription et à l’utilisation des Services, lesquels demeurent à la charge exclusive de l’Abonné.
 
-Tout changement du taux de taxe applicable ou ajout d’une ou plusieurs taxes ou contributions, notamment environnementales, pourront être de plein droit répercutés sur le prix des Services concernés.
+Le cas échéant, des frais pouvant être facturés par l’établissement bancaire de l’Abonné (notamment frais bancaires, de change ou de transfert) restent à la charge de l’Abonné.
 
-FEELVERYBIEN se réserve le droit de faire évoluer ses tarifs à tout moment, et s’engage à le faire savoir par une publication l’annonçant sur les Supports au cours du mois précédent le changement de tarifs.
+En cas de modification de la réglementation fiscale applicable (variation du taux de taxe, création ou ajout d’une taxe ou contribution), FEELVERYBIEN pourra répercuter cette évolution sur le prix des Services concernés, dans les conditions prévues au présent article.
 
-L’Abonnement est payable lors de la souscription ou, le cas échéant, lors du renouvellement.
+FEELVERYBIEN se réserve le droit de faire évoluer ses tarifs à tout moment. Toute modification tarifaire applicable à un Abonnement en cours sera portée à la connaissance de l’Abonné dans un délai raisonnable avant son entrée en vigueur, par tout moyen approprié sur les Supports, et prendra effet à l’échéance de la période d’Abonnement en cours.
+
+L’Abonnement est payable lors de la souscription ou, le cas échéant, lors de son renouvellement.
 
 L’Abonné est seul responsable du paiement de l’ensemble des sommes dues au titre de l’Abonnement.
 
-**Pour le Site.** Le paiement s’effectue au moment de la commande, avec les modes de paiement suivants :
+Lorsque la souscription est effectuée via l’un des Sites édités par FEELVERYBIEN, le paiement intervient au moment de la commande, selon les moyens de paiement proposés au cours du parcours de souscription, notamment par carte bancaire, services de paiement dématérialisés (Apple Pay, Google Pay, PayPal) ou tout autre moyen mis à disposition selon les pays concernés (Bancontact pour les utilisateurs belges ou iDEAL pour les utilisateurs néerlandais).
 
-*   Carte bancaire sur le Site ;
-*   Apple Pay pour les mobiles Apple ou Google Pay pour les mobiles Android sur le Site ;
-*   PayPal ;
-*   Bancontact (disponible exclusivement pour les utilisateurs belges) ;
-*   iDEAL (disponible exclusivement pour les utilisateurs néerlandais) ;
+Dans les pays de l’Union européenne, le paiement sur un Site peut également se faire par virement bancaire dans les trente (30) jours suivant la date de facture. Dans cette hypothèse, le paiement est réputé effectif dès réception intégrale des fonds sur le compte bancaire de FEELVERYBIEN. À défaut de paiement effectif dans un délai raisonnable, FEELVERYBIEN se réserve le droit de suspendre l’accès de l’Abonné aux Services.
 
-Le paiement sur le Site peut également se faire par virement bancaire (disponible dans les pays de l'Union européenne) dans les trente (30) jours suivant la date de facture. Dans l'hypothèse d'un virement bancaire, le paiement sera considéré effectif dès lors que les fonds seront reçus intégralement sur le compte bancaire de FEELVERYBIEN. Si le paiement venait à ne pas être effectof, FEELVERYBIEN se réserve le droit de couper les accès de l'Abonné.
+Lorsque la souscription est effectuée via une Application, le paiement est réalisé au moment de la commande par l’intermédiaire des solutions de paiement proposées sur l’Application concernée. En cas de défaut ou d’incident de paiement, FEELVERYBIEN se réserve le droit de suspendre l’accès de l’Abonné aux Services correspondants.
 
-**Pour l'Application.** Le paiement s’effectue au moment de la commande soit par carte bancaire sur l’Application, soit au travers des services Apple Pay pour les mobiles Apple ou Google Pay pour les mobiles Android. Si le paiement venait à ne pas être effectif, FEELVERYBIEN se réserve le droit de couper les accès de l’Abonné.
+### 4.6 Intuitu personae
 
-Tout retard de paiement à date échue ou à celle éventuellement acceptée par FEELVERYBIEN peut entraîner, à la seule discrétion de cette dernière, la facturation d’une indemnité forfaitaire de quarante (40) euros, majorée des intérêts de retard égal à 3 fois le taux d’intérêt légal par jour de retard.
+L’Abonnement est conclu intuitu personae et est destiné à un usage strictement réservé à l’Abonné, sous réserve des cas expressément prévus aux présentes, notamment dans le cadre de l’Offre « Famille » ou de l’utilisation d’une carte cadeau.
 
-### 3.6 Intuitu personae
+Sauf dispositions contraires prévues aux présentes, l’Abonné s’interdit de céder, transférer, prêter, partager ou mettre à disposition, à titre onéreux ou gratuit, tout ou partie de son Abonnement, ainsi que les droits et obligations qui en découlent, par quelque moyen que ce soit.
 
-L’Abonnement est conclu intuitu personae pour une utilisation exclusivement destinée à l’Abonné. L’Abonné s’interdit de céder, partiellement ou totalement, l’Abonnement et/ou tout droit et obligation qui en découlent à un tiers par quelque moyen que ce soit, à titre onéreux ou gratuit, ou par apport en fonds de commerce.
+### 4.7 Service relation client
 
-### 3.7 Service relation client
+Pour toute question relative à l’Abonnement, à l’accès ou à l’utilisation des Services, l’Abonné peut contacter le service client de FEELVERYBIEN à l’adresse e-mail suivante : onestlapourvous@petitbambou.com.
 
-Pour tout suivi d’Abonnement ou toute autre question, le service client est joignable à l’adresse e-mail suivante : [onestlapourvous@petitbambou.com](mailto:onestlapourvouspetitbambou.com).
+Les coordonnées de contact du service client, notamment les adresses de courrier électronique dédiées à chaque univers applicatif, sont mises à disposition de l’Utilisateur au sein des Supports.
 
-4\. ÉVOLUTION DE L’OFFRE
+5\. ÉVOLUTION DE L’OFFRE
 ------------------------
 
-FEELVERYBIEN se réserve le droit, sans préavis et à tout moment de modifier tout ou partie des Services et Contenus, d’interrompre et/ou de supprimer un Service ou Contenu qui ne répondraient plus aux objectifs de FEELVERYBIEN, ou aux attentes de ses clients.
+FEELVERYBIEN se réserve le droit de faire évoluer, modifier, ajouter, interrompre ou supprimer, à tout moment, tout ou partie des Services, fonctionnalités ou Contenus proposés au sein de son écosystème, notamment afin d’en améliorer la qualité, le fonctionnement, l’ergonomie ou d’accompagner l’évolution de son offre et des usages.
 
-FEELVERYBIEN pourra proposer de nouveaux services, gratuits ou payants, dont la souscription et/ou l’utilisation peuvent être conditionnés par le respect de certains critères ou limitations techniques, qui seront alors précisés à l’Abonné.
+FEELVERYBIEN pourra également proposer de nouveaux services, gratuits ou payants, dont la souscription et/ou l’utilisation pourront être conditionnés au respect de certains critères ou de limitations techniques, lesquelles seront portées à la connaissance de l’Abonné le cas échéant.
 
-5\. RÈGLES D’USAGE, DROITS ET RESPONSABILITÉ
+Ces évolutions n’affecteront pas de manière substantielle la nature des Services souscrits dans le cadre de l’Abonnement en cours et s’inscriront dans le respect de l’équilibre général de celui-ci.
+
+6\. RÈGLES D’USAGE, DROITS ET RESPONSABILITÉ
 --------------------------------------------
 
-La création d’un compte Abonné n’est pas créatrice de droits en elle-même. Il s’agit d’une procédure déclarative permettant de saisir des coordonnées. Il appartient à l’Abonné de déclarer des coordonnées exactes et de les tenir à jour en cas de modification.
+La création d’un Compte permet à l’Utilisateur ou à l’Abonné d’accéder aux Services proposés par FEELVERYBIEN. Elle n’emporte, en elle-même, aucun droit particulier en dehors de ceux expressément prévus par les présentes Conditions Générales. Il appartient à l’Utilisateur ou à l’Abonné de fournir des informations exactes lors de la création de son Compte et de les tenir à jour en cas de modification.
 
-Sur base de ces informations, le compte est associé à un « identifiant » et à un « mot de passe » choisis par l’Abonné et qui lui sont strictement personnels.
+Le Compte est associé à des identifiants de connexion personnels, composés notamment d’un identifiant et d’un mot de passe, choisis par l’Utilisateur ou l’Abonné et strictement personnels. L’Utilisateur ou l’Abonné est seul responsable de la conservation et de l’utilisation de ses identifiants de connexion.
 
-Chaque Abonné reconnaît et accepte que toute utilisation faite des Services via son compte sera réputée faite sous sa responsabilité, avec son accord. La transmission à un tiers et l’utilisation de ces codes d’accès par un tiers sont strictement interdites. Le non-respect de cette règle sera de nature à entraîner la suspension temporaire, après un premier avertissement, voire la radiation, en cas de réitération de l’Abonnement.
+Toute utilisation des Services effectuée au moyen du Compte est réputée avoir été réalisée par l’Utilisateur ou l’Abonné titulaire dudit Compte, sous sa responsabilité, sauf preuve d’une utilisation frauduleuse résultant d’un fait non imputable à sa faute. La communication des identifiants de connexion à des tiers, ainsi que toute utilisation non autorisée du Compte, sont interdites.
 
-En cas d’oubli du mot de passe, l’Abonné peut en demander la récupération en utilisant la fonction « Mot de passe oublié ». En cas de divulgation accidentelle ou de vol de mot de passe, l’Abonné devra procéder au remplacement de celui-ci dans les plus brefs délais, et informer le service abonnés de FEELVERYBIEN. Ce dernier procédera, sur demande de l’Abonné, à la désactivation des comptes usurpés.
+En cas d’oubli ou de perte du mot de passe, l’Utilisateur ou l’Abonné peut procéder à sa réinitialisation via la fonctionnalité prévue à cet effet sur les Supports. En cas de divulgation, de perte ou d’utilisation frauduleuse de ses identifiants, l’Utilisateur ou l’Abonné s’engage à en informer FEELVERYBIEN dans les meilleurs délais et à procéder au changement de son mot de passe.
 
-À défaut d’action prompte ou immédiate, le titulaire du compte sera tenu pour responsable de toute perte, vol, détournement ou utilisation non autorisée de ses codes d’accès et de leurs conséquences.
+À défaut d’information de FEELVERYBIEN dans un délai raisonnable à compter de la connaissance de l’incident, l’Utilisateur ou l’Abonné peut être tenu responsable de toute utilisation non autorisée de son Compte et des conséquences pouvant en résulter.
 
-6\. LIMITATIONS DU RÉSEAU INTERNET
+En cas de manquement aux présentes Conditions Générales, FEELVERYBIEN se réserve le droit de suspendre temporairement l’accès aux Services ou, en cas de manquements répétés ou graves, de résilier l’Abonnement.
+
+7\. LIMITATIONS DU RÉSEAU INTERNET
 ----------------------------------
 
-FEELVERYBIEN s’engage à fournir ses meilleurs efforts pour sécuriser l’accès, la consultation et l’utilisation des informations conformément aux règles d’usage de l’internet.
+FEELVERYBIEN s’engage à mettre en œuvre tous les moyens raisonnables afin d’assurer un accès sécurisé et un fonctionnement conforme des Services, dans le respect des usages de l’internet et des standards applicables aux services numériques.
 
-Le Site, ainsi que l’Application, sont accessibles 24 heures sur 24, 7 jours sur 7, sauf en cas de force majeure ou de survenance d’un événement hors contrôle de FEELVERYBIEN et sous réserve des éventuelles pannes et interventions de maintenance nécessaires au bon fonctionnement des Supports. Les interventions de maintenance pourront être effectuées sans information préalable des Abonnés.
+Les Services sont en principe accessibles vingt-quatre (24) heures sur vingt-quatre (24) et sept (7) jours sur sept (7), sous réserve des périodes d’indisponibilité liées à des opérations de maintenance, à des mises à jour techniques, à des pannes, ou à tout événement indépendant de la volonté de FEELVERYBIEN, notamment en cas de force majeure ou de défaillance des réseaux de communication.
 
-L’Abonné utilise les Services du Site et de l’Application en l’état. L’Abonné déclare aussi accepter les caractéristiques et les limites de l’Internet, et en particulier reconnaître que :
+FEELVERYBIEN se réserve la possibilité de procéder à des opérations de maintenance ou d’évolution des Services, pouvant entraîner une interruption temporaire de l’accès, sans que sa responsabilité ne puisse être engagée à ce titre. Dans la mesure du possible, ces interruptions feront l’objet d’une information préalable sur les Supports.
 
-*   Son utilisation des Supports se fait à ses risques et périls ;
-*   Les Supports sont accessibles en l’état et en fonction de leur disponibilité ;
-*   Tout téléchargement par l’Abonné est fait sous son entière responsabilité ;
-*   L’Abonné est seul responsable pour tout dommage subi par son ordinateur ou toute perte de données consécutive au téléchargement ou à la consultation des Supports ;
-*   Il appartient à l’Abonné de prendre toutes les mesures appropriées de façon à protéger ses propres données et/ou logiciels de la contamination par d’éventuels virus circulant à travers les Supports et/ou les informations et contenus ;
-*   Aucun conseil et aucune information, qu’ils soient oraux ou écrits, obtenus par l’Abonné de FEELVERYBIEN ou lors de l’utilisation des Supports ne sont susceptibles de créer des garanties non expressément prévues par les présentes Conditions Générales ;
-*   L’Abonné est seul responsable de l’utilisation faite des informations présentes sur les Supports et, en conséquence, FEELVERYBIEN ne saurait être tenue responsable de dommages directs ou indirects découlant de l’utilisation de ces informations ;
-*   L’Abonné est seul responsable de l’utilisation des sites ayant un lien hypertexte avec les Supports ;
-*   L’Abonné a connaissance de la nature de l’internet, en particulier de ses performances techniques et des temps de réponse pour consulter, interroger ou transférer les informations ;
-*   La communication des codes d’accès de l’Abonné ou de toute information jugée confidentielle est faite sous sa propre responsabilité ;
-*   Il appartient à l’Abonné de prendre toutes mesures nécessaires pour s’assurer que les caractéristiques techniques de son équipement lui permettent de consulter les informations ;
-*   Les Services proposés par FEELVERYBIEN sont conformes à la législation française en vigueur.
+Les Services sont fournis « en l’état », en fonction de leur disponibilité et des contraintes techniques propres aux réseaux de communication électronique. L’Utilisateur ou l’Abonné reconnaît connaître et accepter les caractéristiques, limites et aléas inhérents à l’utilisation de l’internet et des services numériques.
 
-7\. FORCE MAJEURE
+Il appartient à l’Utilisateur ou à l’Abonné de s’assurer que son équipement, son système d’exploitation et sa connexion internet sont adaptés à l’utilisation des Services, et de prendre toutes les mesures appropriées pour protéger ses équipements, données et logiciels, notamment contre les risques de virus, d’intrusion ou de perte de données.
+
+L’Utilisateur ou l’Abonné demeure responsable de l’utilisation qu’il fait des Services et des informations mises à disposition dans ce cadre. Les contenus proposés par FEELVERYBIEN sont fournis à titre informatif et d’accompagnement et ne sauraient, en aucun cas, constituer des garanties, conseils personnalisés ou engagements de résultat non expressément prévus aux présentes Conditions Générales.
+
+FEELVERYBIEN ne saurait être tenue responsable des difficultés d’accès aux Services liées à des causes extérieures, notamment aux réseaux de télécommunications, aux équipements de l’Utilisateur ou de l’Abonné, ou aux sites tiers accessibles par des liens hypertextes présents sur les Supports.
+
+8\. FORCE MAJEURE
 -----------------
 
-FEELVERYBIEN ne peut être tenue responsable de tout manquement à l’une de ses obligations contractuelles en cas de force majeure : catastrophes, incendies, grèves, défaillances ou pannes internes ou externes, et d’une manière générale tout évènement ne permettant pas la bonne transmission et/ou exécution des données.
+FEELVERYBIEN ne pourra être tenue responsable de l’inexécution ou du retard dans l’exécution de tout ou partie de ses obligations lorsque cette inexécution ou ce retard résulte d’un événement de force majeure au sens du droit français.
 
-8\. DONNÉES PERSONNELLES ET PROTECTION DE LA VIE PRIVÉE
+Sont notamment considérés comme des cas de force majeure, sans que cette liste soit limitative, les catastrophes naturelles, incendies, épidémies, actes de guerre ou de terrorisme, grèves générales ou sectorielles indépendantes de la volonté de FEELVERYBIEN, ainsi que les défaillances des réseaux de télécommunications ou d’hébergement lorsqu’elles sont extérieures, imprévisibles et irrésistibles.
+
+9\. DONNÉES PERSONNELLES ET PROTECTION DE LA VIE PRIVÉE
 -------------------------------------------------------
 
-Pour les besoins de l’exécution des Services, FEELVERYBIEN est amenée, en qualité de responsable de traitement, à traiter les données personnelles de l’Abonné.
+Pour les besoins de la création et de la gestion du Compte, de la souscription et de l’exécution de l’Abonnement, ainsi que de l’accès et de l’utilisation des Services, FEELVERYBIEN est amenée à traiter des données à caractère personnel concernant les Utilisateurs et, le cas échéant, les Abonnés, en qualité de responsable de traitement.
 
-FEELVERYBIEN s’engage à mettre en œuvre les mesures adéquates pour assurer la protection des données à caractère personnel et à traiter et utiliser de telles données dans le respect des dispositions applicables, et notamment du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 dit « Règlement Général sur la Protection des Données » (RGPD), de la loi n°78-17 modifiée du 6 janvier 1978, dans sa dernière version en vigueur, dite « Loi Informatique et Libertés », ainsi que toute disposition nationale et européenne applicable les complétant.
+FEELVERYBIEN s’engage à traiter ces données conformément aux dispositions applicables en matière de protection des données, et notamment au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 dit « Règlement Général sur la Protection des Données » (RGPD), à la loi n°78-17 modifiée du 6 janvier 1978, dans sa dernière version en vigueur, dite « Loi Informatique et Libertés », ainsi qu’à toute disposition nationale ou européenne applicable les complétant. FEELVERYBIEN met en œuvre des mesures techniques et organisationnelles appropriées afin de garantir un niveau de sécurité optimal, notamment pour protéger les données contre toute destruction accidentelle ou illicite, perte accidentelle, altération, divulgation ou accès non autorisé.
 
-Pour en savoir plus sur la gestion de ses données personnelles et pour exercer ses droits, l’Abonné est invité à consulter la Politique de confidentialité de la société FEELVERYBIEN, accessible [ici](https://petitbambou.com/fr/privacy).
+Les modalités de traitement des données à caractère personnel (finalités, bases légales, catégories de données, durées de conservation, destinataires, et transferts le cas échéant), ainsi que les droits des personnes concernées et les modalités permettant de les exercer, sont décrits dans la Politique de confidentialité de FEELVERYBIEN, applicable à l’ensemble des Supports et de l’écosystème FEELVERYBIEN. Cette Politique de confidentialité est accessible à tout moment depuis les Supports.
 
-9\. DURÉE, RÉSILIATION ET DROIT DE RÉTRACTATION DE L’ABONNEMENT
----------------------------------------------------------------
+Pour toute question relative à la protection des données ou pour exercer ses droits, l’Utilisateur ou l’Abonné peut contacter FEELVERYBIEN selon les modalités indiquées dans la Politique de confidentialité.
 
-L’Abonnement est souscrit pour la durée choisie, et est renouvelable par tacite reconduction pour une durée identique, sauf exercice du droit de rétractation ou résiliation conformément aux dispositions des présentes Conditions Générales.
+10\. DURÉE, RÉSILIATION ET DROIT DE RÉTRACTATION DE L’ABONNEMENT
+----------------------------------------------------------------
 
-La cessation du contrat d’Abonnement, quelle qu’en soit la cause, rendra inutilisable l’accès aux Services et Application.
+L’Abonnement est souscrit pour la durée choisie lors de la souscription. Sauf indication contraire, il est renouvelé par tacite reconduction pour des périodes successives identiques à la durée initiale, sauf exercice du droit de rétractation lorsqu’il est applicable, ou résiliation dans les conditions prévues aux présentes Conditions Générales.
 
-### 9.1 Résiliation par vous
+La cessation de l’Abonnement, quelle qu’en soit la cause, entraîne la perte de l’accès aux Services à l’issue de la période d’Abonnement en cours.
 
-Il est donné à chaque Abonné la possibilité de résilier son Abonnement, sous réserve de respecter un délai de préavis d’au moins quarante-huit (48) heures avant l’échéance en cours. Cette démarche peut être faite soit en accédant aux paramètres du compte sur le Site ou l’Application, soit en contactant le service client à l’adresse e-mail [onestlapourvous@petitbambou.com](mailto:onestlapourvous@petitbambou.com).
+### 10.1 Résiliation à l’initiative de l’Abonné
 
-La résiliation d’un abonnement mensuel prend effet à la fin de la période mensuelle applicable et la résiliation d’un abonnement annuel prend effet à la fin de la période annuelle applicable.
+L’Abonné peut résilier son Abonnement à tout moment, sous réserve de respecter un délai de préavis d’au moins quarante-huit (48) heures avant la date d’échéance de la période d’Abonnement en cours. La résiliation prend effet à l’issue de la période d’Abonnement en cours, étant précisé que la résiliation d’un Abonnement mensuel prend effet à la fin de la période mensuelle applicable, et que la résiliation d’un Abonnement annuel prend effet à la fin de la période annuelle applicable.
 
-### 9.2 Résiliation par nous
+L’Abonné est également informé que, bien que l’Abonnement soit unique et donne accès à l’ensemble des Services proposés au sein de l’écosystème FEELVERYBIEN, ses modalités de gestion, et notamment de résiliation, peuvent dépendre du Support utilisé lors de la souscription initiale.
 
-FEELVERYBIEN se réserve le droit de résilier l’abonnement d’un Abonné et de supprimer son accès aux bases de données, sans délai et sans sommation, en cas de non-respect par l’Abonné de l'une des clauses des Conditions Générales. Dans ce cas, FEELVERYBIEN en informera l’Abonné et conservera l’intégralité des sommes déjà versées par ce dernier, sans que celui-ci puisse prétendre à un quelconque remboursement, et ce sans préjudice de toute action en dommages-intérêts que FEELVERYBIEN serait en droit de réclamer.
+La résiliation de l’Abonnement s’effectue selon les modalités mises à disposition sur le Support utilisé lors de la souscription. Elle peut notamment être réalisée via les paramètres du Compte ou, le cas échéant, par l’intermédiaire des outils de gestion proposés par les plateformes de distribution tierces lorsque l’Abonnement a été souscrit par leur intermédiaire.
 
-### 9.3 Droit de rétractation
+Il est également possible de demander la résiliation de son Abonnement en contactant le service client de FEELVERYBIEN à l’adresse e-mail suivante : onestlapourvous@petitbambou.com.
 
-Conformément aux dispositions des articles L. 221-18 et suivants du Code de la consommation, tout Abonné dispose d’un délai de quatorze (14) jours calendaires révolus pour exercer son droit de rétractation, sans avoir à justifier de motif ni à supporter de pénalités. Ce délai commence à courir à compter du jour où le contrat à distance est conclu, soit à compter de la date à laquelle FEELVERYBIEN commence à fournir les Services à l’Abonné.
+Lorsque l’Abonnement est souscrit via un Site édité par FEELVERYBIEN, l’Abonné peut gérer et résilier son Abonnement depuis les paramètres de son Compte accessibles sur les Sites et, le cas échéant, via certaines Applications.
 
-Pour exercer son droit de rétractation, l’Abonné doit informer FEELVERYBIEN de sa décision de se rétracter soit en utilisant le modèle de formulaire de rétractation ci-dessous, soit en formulant une demande claire et non équivoque.
+Lorsque l’Abonnement est souscrit via une Application distribuée par l’intermédiaire d’une plateforme tierce (App Store ou Google Play), la gestion et la résiliation de l’Abonnement s’effectuent exclusivement par l’intermédiaire de ladite plateforme, conformément à ses propres conditions contractuelles et techniques, sur lesquelles FEELVERYBIEN n’exerce aucun contrôle.
 
-Toute demande d’exercice du droit de rétractation devra être adressée soit par voie postale à l’adresse indiquée en Article 1, soit par voie électronique à l’adresse e-mail [legal@petitbambou.com](mailto:legal@petitbambou.com). Aussi, il est possible, pour l’Abonné, de formuler cette demande via le formulaire de contact disponible dans l’onglet « Contactez-nous » (disponible dans votre espace Abonné du Site ou dans la section « Assistance » des paramètres de l’Application), ou directement via l’adresse suivante : [https://support.petitbambou.com/hc/fr](https://support.petitbambou.com/hc/fr).
+Par ailleurs, l’Abonné est informé que, selon les Applications utilisées et l’état d’avancement des fonctionnalités proposées, la gestion de l’Abonnement (et notamment sa résiliation) peut ne pas être accessible depuis l’ensemble des Applications de l’écosystème FEELVERYBIEN. Ces limitations sont d’ordre technique et n’affectent ni la validité ni l’unicité de l’Abonnement souscrit.
 
-Formulaire de rétractation : Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat d’Abonnement.
+FEELVERYBIEN se réserve la possibilité de faire évoluer ces modalités de gestion afin de faciliter, à terme, une gestion plus transversale de l’Abonnement au sein de son écosystème.
 
-_À l'attention de la société FEELVERYBIEN située 28 Rue Parmentier, Urban Lodge, Bâtiment A, 59650 Villeneuve-d'Ascq, France, joignable à l’adresse e-mail [legal@petitbambou.com](mailto:legal@petitbambou.com) :_
+### 10.2 Résiliation à l’initiative de FEELVERYBIEN
+
+FEELVERYBIEN se réserve le droit de suspendre ou de résilier l’Abonnement d’un Abonné, de plein droit et après notification, en cas de manquement grave ou répété par l’Abonné à l’une quelconque des dispositions des présentes Conditions Générales.
+
+La résiliation de l’Abonnement entraîne la cessation de l’accès aux Services à compter de sa prise d’effet. Dans ce cas, FEELVERYBIEN conservera l’intégralité des sommes déjà versées par l’Abonné au titre de l’Abonnement, sans que celui-ci puisse prétendre à un quelconque remboursement, sous réserve des dispositions légales impératives applicables.
+
+Cette résiliation est effectuée sans préjudice du droit pour FEELVERYBIEN de solliciter l’indemnisation du préjudice qu’elle pourrait avoir subi du fait des manquements de l’Abonné.
+
+### 10.3 Droit de rétractation
+
+#### 10.3.1 Exercice du Droit de rétractation
+
+Conformément aux dispositions des articles L. 221-18 du Code de la consommation, l’Abonné dispose, par principe, d’un délai de quatorze (14) jours calendaires révolus à compter de la souscription pour exercer son droit de rétractation, sans avoir à motiver sa décision ni à supporter de pénalités.
+
+Pour exercer son droit de rétractation, lorsqu’il est applicable, l’Abonné doit notifier sa décision à FEELVERYBIEN au moyen d’une déclaration claire et dénuée d’ambiguïté exprimant sa volonté de se rétracter, en mentionnant l’Abonnement concerné. Cette notification peut être effectuée, au choix de l’Abonné :
+
+*   par voie postale, à l’adresse du siège social de FEELVERYBIEN indiquée dans les mentions légales accessibles sur les Supports ;
+*   par voie électronique, à l’adresse e-mail legal@petitbambou.com ;
+*   via les formulaires de contact mis à disposition dans les paramètres ou rubriques d’assistance des Supports ;
+*   via le formulaire de rétractation reproduit ci-dessous.
+
+À réception de la demande de rétractation conforme, FEELVERYBIEN procèdera au remboursement de l’intégralité des sommes versées au titre de l’Abonnement concerné dans un délai maximal de quatorze (14) jours à compter de la réception de ladite demande, selon le même moyen de paiement que celui utilisé lors de la souscription, sauf demande contraire de l’Abonné.
+
+Toutefois, conformément aux dispositions de l’article L. 221-28 du Code de la consommation, l’Abonné est informé et accepte que l’accès aux Services et aux contenus numériques intervient immédiatement après la souscription de l’Abonnement, et donc avant l’expiration du délai de rétractation. En cas d’utilisation effective des Services pendant ce délai, l’Abonné reconnaît que le contrat est considéré comme pleinement exécuté et renonce expressément à l’exercice de son droit de rétractation.
+
+#### 10.3.2 Formulaire de rétractation
+
+Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat d’Abonnement.
+
+_À l'attention de la société FEELVERYBIEN située 28, rue Parmentier - Villeneuve d’Ascq (59650), joignable à l’adresse e-mail legal@petitbambou.com :_
 
 _Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat pour la prestation de services ci-dessous :_
 
-_Commandée le :  
-Nom du (des) consommateur(s) :  
-Adresse du (des) consommateur(s) :_
+_Commandée le :_
+
+_Nom du (des) consommateur(s) :_
+
+_Adresse du (des) consommateur(s) :_
 
 _Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) :_
 
@@ -263,37 +332,45 @@ _Date :_
 
 _(\*) Rayez la mention inutile._
 
-10\. DROIT D’AUTEUR ET PROPRIÉTÉ INTELLECTUELLE
+11\. DROIT D’AUTEUR ET PROPRIÉTÉ INTELLECTUELLE
 -----------------------------------------------
 
-L’ensemble des signes distinctifs, marques, logos, textes, illustrations et images reproduits au sein des Contenus sont protégés par le droit d’auteur et/ou le droit de la propriété intellectuelle, pour le monde entier, et ne peuvent être reproduits, utilisés ou représentés sans l'autorisation expresse de FEELVERYBIEN.
+L’ensemble des éléments composant les Services et les Contenus proposés par FEELVERYBIEN, et notamment les marques, dénominations, logos, signes distinctifs, textes, illustrations, images, sons, vidéos, programmes, interfaces, bases de données sont protégés par le droit d’auteur et/ou le droit de la propriété intellectuelle, pour le monde entier, et ne peuvent être reproduits, utilisés ou représentés sans l'autorisation expresse de FEELVERYBIEN.
 
-Seul est consenti un droit d’utilisation à l’exclusion de tout transfert de droit de propriété de quelque sorte que ce soit : le Contenu auquel l’Abonné accède ne peut donc en aucune manière faire l’objet, même partiellement, d’aucune reproduction, représentation, prêt, échange ou cession, aucune extraction totale ou partielle de données ou réutilisation qualitativement ou quantitativement substantielle des Contenus, ou extraction et réutilisation répétée et systématique de parties qualitativement ou quantitativement non substantielles du contenu des Contenus et/ou transfert sur un autre support. L’accès aux Services numériques ne confère qu'une licence, non exclusive et non transmissible à des tiers.
+L’accès aux Services et aux Contenus confère à l’Abonné un droit d’utilisation strictement personnel, non exclusif et non transmissible, pour la durée de l’Abonnement et conformément aux présentes Conditions Générales. Cet accès n’emporte aucun transfert de droit de propriété intellectuelle au profit de l’Abonné.
 
-Les obligations stipulées aux présentes sont applicables pour toute la durée des droits de propriété intellectuelle des Contenus et pour tout pays, y compris après la résiliation des Conditions Générales. Toute autre utilisation est soumise à autorisation préalable écrite de FEELVERYBIEN, sous peine de poursuites judiciaires. L’Abonné est seul responsable d'une violation quelconque des obligations prévues aux présentes.
+Toute reproduction, représentation, adaptation, modification, diffusion, extraction, réutilisation, cession, mise à disposition de tiers, totale ou partielle, des Services ou des Contenus, par quelque procédé que ce soit et sur quelque support que ce soit, est strictement interdite sans l’autorisation préalable et écrite de FEELVERYBIEN, y compris lorsque ces actes portent sur des éléments non substantiels ou sont réalisés de manière répétée et systématique.
 
-11\. GARANTIE ET RESPONSABILITÉS
+Les présentes dispositions sont applicables pour toute la durée de protection des droits de propriété intellectuelle des Contenus et pour tout pays, et demeurent applicables après la résiliation ou l’expiration des Conditions Générales. Toute autre utilisation est soumise à autorisation préalable écrite de FEELVERYBIEN, sous peine de poursuites judiciaires. L’Abonné est seul responsable de toute utilisation des Services ou des Contenus non conforme aux présentes.
+
+12\. GARANTIE ET RESPONSABILITÉS
 --------------------------------
 
-FEELVERYBIEN n’est responsable que de la conformité des Services à leur description sur les Supports ou en catalogue ou à leur documentation commerciale. Il appartient à l’Abonné de prouver toute non-conformité éventuelle. Les photographies présentant les Contenus n’entrent pas dans le champ contractuel, elles n’engagent pas la responsabilité de FEELVERYBIEN. Les Services sont conformes à la législation française en vigueur. La responsabilité de FEELVERYBIEN ne saurait être engagée en cas de non-respect de la législation du pays où le Service serait mis en œuvre en dehors de la France Métropolitaine, notamment hors Union Européenne.
+FEELVERYBIEN s’engage à fournir des Services conformes à leur description et aux caractéristiques essentielles présentées sur les Supports, conformément aux dispositions légales applicables, notamment en matière de protection des consommateurs.
 
-La responsabilité de FEELVERYBIEN ne saurait être engagée pour tout dommage subi par l’Abonné ou par un tiers, résultant directement ou indirectement (i) du non-respect par l’Abonné de l’une quelconque de ses obligations, (ii) d’une négligence, (iii) de l’utilisation d’un Service à d’autres fins que celles connues. L’Abonné demeure seul responsable du choix des Services et de leur adéquation à ses besoins, et reconnaît avoir reçu les conseils et informations, nécessaires et suffisants sur (i) leurs conditions d’utilisation, (ii) leurs capacités et, (iii) limites de performance. L’Abonné reste seul responsable de l’usage et/ou des informations contenues dans les Services et/ou des interprétations qu’il fait des documents et données qu’il consulte, des résultats qu’il obtient, en déduit et/ou émet, des conseils qu’il délivre, des questions qu’il formule et des actes qu'il établit sur la base des réponses et documents fournis. L’Abonné est informé lors de l’acquisition des Services que ceux-ci s’adressent à des professionnels et qu’il n’a en aucun cas, vocation à se substituer à son jugement ni à endosser ses responsabilités.
+Les contenus visuels, illustrations ou représentations figurant sur les Supports ont une valeur indicative et n’ont pas de caractère contractuel. Ils ne sauraient engager la responsabilité de FEELVERYBIEN quant à l’appréciation subjective que l’Utilisateur ou l’Abonné pourrait en faire.
 
-La responsabilité de FEELVERYBIEN ne peut être engagée qu’en cas (i) de faute ou de négligence qui lui est exclusivement imputable, (ii) prouvée et, (iii) limitée aux préjudices directs, à l’exclusion de tout préjudice indirect, de quelque nature que ce soit, notamment perte de chance, de résultats ou d’exploitation. Le montant total des indemnisations et de toute somme mise à la charge de FEELVERYBIEN, ne pourront excéder - toute cause confondue, toute pénalité étant déduite, y compris d’éventuelles restitutions qui pourront être ordonnées, notamment en cas de résiliation ou résolution des présentes - le montant total du prix payé au cours des douze (12) derniers mois par l’Abonné au titre des Services concernés. La présente limitation est stipulée au regard des prix et redevances consentis et fait partie de l’équilibre économique du contrat. Enfin, l’Abonné renonce à tout recours contre FEELVERYBIEN au-delà d’une durée d'un (1) an après la survenance d’un événement dommageable.
+Les Services proposés par FEELVERYBIEN ne constituent ni des services médicaux, ni des conseils thérapeutiques ou professionnels personnalisés. Ils ne sauraient se substituer à l’avis, au diagnostic ou au suivi d’un professionnel de santé qualifié. L’Utilisateur comme l’Abonné demeure seul responsable de l’usage qu’il fait des Services, des informations qu’il consulte et des décisions qu’il prend sur cette base.
 
-12\. DROIT APPLICABLE ET JURIDICTION
-------------------------------------
+La responsabilité de FEELVERYBIEN ne saurait être engagée en cas de dommages résultant d’une utilisation des Services non conforme aux présentes Conditions Générales, d’une négligence de l’Utilisateur ou de l’Abonné, d’une utilisation détournée ou inappropriée des Services, ou encore de causes extérieures indépendantes de la volonté de FEELVERYBIEN.
 
-Les présentes Conditions Générales sont soumises au droit français.
+FEELVERYBIEN ne pourra être tenue responsable que des dommages directs dont il serait établi qu’ils résultent d’une faute qui lui est exclusivement imputable. En aucun cas, FEELVERYBIEN ne saurait être tenue responsable des dommages indirects, tels que notamment les pertes de chance, pertes de résultats ou pertes d’exploitation.
 
-En cas de différends survenant à l’occasion de l’exécution des présentes concernant la validité, l’exécution ou l’interprétation des Conditions Générales, les Parties disposent de la possibilité de notifier à FEELVERYBIEN une réclamation ou une objection relative à des éléments ou contenus présents sur les Supports par courrier postal à l’adresse indiquée en tête des présentes et par email à l’adresse suivante : [onestlapourvous@petitbambou.com](mailto:onestlapourvous@petitbambou.com).
+Le montant total des indemnisations susceptibles d’être mises à la charge de FEELVERYBIEN au titre de l’Abonnement concerné est plafonné au montant total effectivement payé par l’Abonné au cours des douze (12) derniers mois précédant la survenance du fait générateur de responsabilité.
 
-Cette réclamation doit comporter tous les éléments justifiant du caractère illicite du contenu en cause.
+Les présentes stipulations n’ont ni pour objet ni pour effet de limiter ou d’exclure la responsabilité de FEELVERYBIEN en cas de faute lourde ou dolosive, ni de porter atteinte aux droits légaux dont bénéficie l’Abonné en qualité de consommateur.
 
-En cas d’échec de règlement amiable, tout litige relatif à l’application des présentes Conditions Générales et/ou relatif à la conclusion, l'interprétation, l'exécution ou, la cessation du Contrat pour quelque cause que ce soit, ainsi que toutes suites qui pourraient en résulter, sera soumis aux tribunaux situés dans le ressort du siège social de FEELVERYBIEN, nonobstant appel en garantie ou pluralité de défendeurs, y compris dans le cas de procédures d'urgence ou conservatoires, en référé ou par requête.
+12\. DROIT APPLICABLE - RÉCLAMATIONS - RÈGLEMENT DES LITIGES
+------------------------------------------------------------
 
-Il est également rappelé qu’en cas de litige, l’Abonné peut recourir à la plateforme européenne de règlement en ligne des litiges (RLL) accessible à l'adresse suivante : [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)
+Les présentes Conditions Générales sont soumises au Droit français.
 
-Étant présent dans plusieurs pays, FEELVERYBIEN traduit les Conditions Générales en plusieurs langues (anglaise, espagnole, allemande, italienne et néerlandaise), de ce fait, seule la rédaction en langue française prévaut en cas de contradiction ou interprétation nécessaire.
+Étant présente dans plusieurs pays, FEELVERYBIEN met à disposition des traductions des présentes Conditions Générales en différentes langues à titre informatif. En cas de divergence, de contradiction ou de difficulté d’interprétation entre une version traduite et la version française, seule la version rédigée en langue française fait foi.
 
-**Dernière mise à jour : le 01/08/2025.**
+En cas de difficulté, réclamation ou litige relatif à l’application, l’interprétation, l’exécution ou la cessation des présentes Conditions Générales, l’Utilisateur ou l’Abonné est invité à contacter en priorité le service client de FEELVERYBIEN afin de rechercher une solution amiable. Cette démarche peut être effectuée soit par voie postale à l’adresse du siège social de FEELVERYBIEN, soit par voie électronique à l’adresse de contact suivante : onestlapourvous@petitbambou.com.
+
+L’Utilisateur ou l’Abonné peut également soumettre sa réclamation à la plateforme européenne de règlement en ligne des litiges (RLL), mise en ligne par la Commission européenne, accessible à l'adresse suivante : https://ec.europa.eu/consumers/odr. Une fois la réclamation soumise, la Commission européenne la transmettra aux médiateurs compétents.
+
+À défaut de résolution amiable, tout litige relatif à l’interprétation, l’exécution ou la validité des présentes Conditions Générales de Vente sera soumis aux juridictions compétentes françaises.
+
+**Dernière mise à jour : le 01/01/2026.**
