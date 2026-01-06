@@ -1,6 +1,6 @@
-Updated on 05 Nov 2025.
+Updated on 05 Jan 2026.
 
-Versions: [05 Nov 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251105) , [30 Oct 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251030) , [04 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250804) , [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
+Versions: [05 Jan 2026](https://withings.com/fr/fr/legal/privacy-policy?version=20260105) , [05 Nov 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251105) , [30 Oct 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251030) , [04 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250804) , [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
 
 * * *
 
@@ -145,7 +145,7 @@ _A) UTILISATION DES PRODUITS ET SERVICES_
 
 **2\. Création du compte Withings App**
 
-*   DONNEES TRAITEES : Adresse mail / Date de naissance / Nom et Prénom / Mot de passe (optionnel) / Adresse IP / Adresse MAC / Image de profil (optionnel) / Taille / Poids
+*   DONNEES TRAITEES : Adresse mail / Date de naissance / Nom et Prénom / Mot de passe (optionnel) / Adresse IP / Adresse MAC / Image de profil (optionnel) / Taille / Poids / Pays de résidence
 *   BASE LÉGALE : Exécution du contrat (acceptation des [Conditions Générales d'Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/general-conditions).
 *   DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression de votre compte Withings App.
 
@@ -185,10 +185,11 @@ _A) UTILISATION DES PRODUITS ET SERVICES_
 *   BASE LÉGALE : Consentement
 *   DURÉE DE CONSERVATION : Les données sont conservées 7 ans par le prestataire Heartbeat Health.
 
-**9\. L’utilisation d’algorithmes d’intelligence artificielle pour vous permettre une expérience personnalisée (Applicable uniquement aux utilisateurs du service Withings+)**
+**9\. L’utilisation d’algorithmes d’intelligence artificielle pour vous permettre une expérience personnalisée**
 
 *   DONNEES TRAITEES : Données liées à votre profil utilisateur tels que votre prénom, âge, taille, poids, sexe. Données physiologiques y compris vos données de santé. Ces données sont des données pseudonymisées de sorte qu’elles ne permettent pas vous de ré identifier directement.
-*   BASE LÉGALE : Nécessaire à l’exécution du contrat acceptation des [Conditions Générales d’Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/services-terms-and-conditions)
+*   BASE LÉGALE : Nécessaire à l’exécution du contrat (acceptation des [Conditions Générales d’Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/services-terms-and-conditions) pour les données personnelles)
+*   DURÉE DE CONSERVATION: Les données sont conservées jusqu’à la suppression du compte utilisateur.
 
 _B) COMMUNICATION ET SUPPORT_
 
@@ -364,7 +365,7 @@ _b. Conditions générales d'utilisation des Utilisateurs patients._ La présent
 
 Des dispositions spécifiques relatives à la collecte et à l’utilisation de vos Données personnelles s'appliquent lorsque vous utilisez la fonctionnalité Cardio Check-up. Cette fonctionnalité vous permet de bénéficier de la relecture de votre ECG par un médecin certifié.
 
-Cette relecture est réalisée par des partenaires de confiance pour assurer la protection des vos Données personnelles. Si vous résidez en Europe, vos Données personnelles sont partagées avec notre partenaire DPV Analytics et seront traitées par ce dernier selon [sa propre politique de protection des données personnelles](https://dpv-analytics.com/en/privacy_policy/). Si vous résidez aux Etats-Unis, vos Données personnelles sont partagées avec notre partenaire Heartbeat Health et seront traitées par ce dernier selon [sa propre politique de protection des données personnelles](https://www.heartbeathealth.com/privacy/).
+Cette relecture est réalisée par des partenaires de confiance pour assurer la protection des vos Données personnelles. Si vous résidez en Europe, au Canada ou à Hong-Kong,, vos Données personnelles sont partagées avec notre partenaire DPV Analytics et seront traitées par ce dernier selon [sa propre politique de protection des données personnelles](https://dpv-analytics.com/en/privacy_policy/). Si vous résidez aux Etats-Unis, vos Données personnelles sont partagées avec notre partenaire Heartbeat Health et seront traitées par ce dernier selon [sa propre politique de protection des données personnelles](https://www.heartbeathealth.com/privacy/).
 
 Ce traitement de Données personnelles est nécessaire pour les finalités décrites ci-dessous.
 
@@ -458,4 +459,4 @@ Applicabilité des conditions générales. La présente politique de confidentia
 
   
 
-Reference: privacy-policy/20251105
+Reference: privacy-policy/20260105
