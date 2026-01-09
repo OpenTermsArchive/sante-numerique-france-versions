@@ -188,7 +188,9 @@ _A) UTILISATION DES PRODUITS ET SERVICES_
 **9\. L’utilisation d’algorithmes d’intelligence artificielle pour vous permettre une expérience personnalisée**
 
 *   DONNEES TRAITEES : Données liées à votre profil utilisateur tels que votre prénom, âge, taille, poids, sexe. Données physiologiques y compris vos données de santé. Ces données sont des données pseudonymisées de sorte qu’elles ne permettent pas vous de ré identifier directement.
-*   BASE LÉGALE : Nécessaire à l’exécution du contrat (acceptation des [Conditions Générales d’Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/services-terms-and-conditions) pour les données personnelles)
+*   BASES LÉGALES :
+    *   Nécessaire à l’exécution du contrat (acceptation des [Conditions Générales d’Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/services-terms-and-conditions) pour les données personnelles)
+    *   Consentement de l’utilisateur pour les données de santé
 *   DURÉE DE CONSERVATION: Les données sont conservées jusqu’à la suppression du compte utilisateur.
 
 _B) COMMUNICATION ET SUPPORT_
