@@ -1,14 +1,14 @@
 Politique de confidentialité
 ============================
 
-Version Juin 2025
+Version 16 janvier 2026
 
 1) Introduction
 ---------------
 
-Livi est une Application (« App ») disponible sur support mobile (smartphone et tablette)  et sur le web à partir du site internet livi.fr dédiée à la mise en relation entre des utilisateurs et des professionnels de santé. Livi a vocation à fournir des services de soins numériques (télémédecine, télésoin) et physiques. Dans le cadre de cette mission, nous souhaitons être transparents et vous expliquer nos mesures et pratiques de protection des données afin que vous, en tant qu’individu, utilisateur et patient, vous vous sentiez toujours à l’aise lorsque vous utilisez nos services et nous confiez vos données personnelles.  
-  
-La présente politique de confidentialité explique qui est responsable des traitements de données personnelles effectués en relation avec votre utilisation des services et comment sont utilisées vos données ”utilisateur” et “patient” : quelles données nous collectons lorsque vous utilisez les services et à quelles fins, avec qui elles sont partagées, quels sont vos droits concernant le traitement de vos données personnelles, comment vous pouvez les exercer et comment vous pouvez contrôler l’utilisation de vos données. Nous y indiquons la base légale des traitements et qui sont les tiers qui peuvent traiter vos données à caractère personnel dans le but de vous fournir les services.
+Livi est une Application (« App ») disponible sur support mobile (smartphone et tablette) et sur le web à partir du site internet livi.fr dédiée à la mise en relation entre des utilisateurs et des professionnels de santé. Livi a vocation à fournir des services de soins à distance (télémédecine, télésoin) et de soins présentiels.
+
+Dans le cadre de cette mission, nous souhaitons être transparents et vous expliquer nos mesures et pratiques de protection des données personnelles afin que vous, en tant qu’individu, utilisateur et patient, vous vous sentiez toujours à l’aise lorsque vous utilisez nos services et nous confiez vos données personnelles. La présente politique de confidentialité explique qui est responsable des traitements de données personnelles effectués en relation avec votre utilisation des services et comment sont utilisées vos données ”utilisateur” et “patient” : quelles données nous collectons lorsque vous utilisez les services et à quelles fins, avec qui elles sont partagées, quels sont vos droits concernant le traitement de vos données personnelles, comment vous pouvez les exercer et comment vous pouvez contrôler l’utilisation de vos données. Nous y indiquons la base légale des traitements et qui sont les tiers qui peuvent traiter vos données à caractère personnel dans le but de vous fournir les services.
 
 Cette politique de confidentialité vous concerne si vous :
 
@@ -28,11 +28,11 @@ Cette politique de confidentialité vous concerne si vous :
 2) Les services
 ---------------
 
-Les services sont des outils numériques tels que des applications, sites internet et autres services qui permettent une mise en relation avec des professionnels de santé ou avec des tiers dans un but de soins. 
+Grâce aux outils numériques Livi mis à dispositon sur le site livi.fr ou sur support mobile (smartphone) (“l’**App Livi**”), vous pouvez être mis en relation avec des professionnels de santé ou avec des tiers dans un but de soins.
 
-Ces outils numériques visent à mettre à disposition la plateforme Livi sur le site livi.fr ou sur support mobile (smartphone) (“**l’App Livi**”). 
+Les prestataires de soins utilisateurs de la plateforme Livi fournissent aux patients des services de soins tels que des consultations médicales, des prescriptions, etc… (Les services de soins). La fourniture de la plateforme Livi et les services de soins sont ensemble dénommés “les services” dans cette politique de confidentialité.
 
-Les prestataires de soins utilisateurs de la plateforme Livi fournissent aux patients des services de soins tels que des consultations médicales, des prescriptions, etc… (Les services de soins). La fourniture de la plateforme Livi et les services de soins sont ensemble dénommés “les services” dans cette politique de confidentialité. Pour utiliser les services, vous devez accepter nos Conditions Générales d’Utilisations et autres conditions disponibles.
+Pour utiliser les services, vous devez accepter nos Conditions Générales d’Utilisations et autres conditions disponibles.
 
   
 
@@ -43,13 +43,13 @@ Les prestataires de soins utilisateurs de la plateforme Livi fournissent aux pat
 
 _En savoir plus:_ 
 
-_DMS France est la filiale française du groupe Kry international AB (publ)_ _(“Kry”). Kry International AB (publ) a concédé à DMS France une licence d’utilisation de l’App Livi pour le territoire français. Vous trouverez les informations de contact de Kry international AB (publ) et de DMS France à la fin de cette politique de confidentialité._ 
+_DMS France est la filiale française du groupe Kry international AB (publ) (“Kry”). Kry International AB (publ) a concédé à DMS France une licence d’utilisation de l’App Livi pour le territoire français. Vous trouverez les informations de contact de Kry international AB (publ) et de DMS France à la fin de cette politique de confidentialité._
 
 _Il s’agit par exemple de vous permettre d’installer l’application, de vous authentifier ou de vous enregistrer, de faciliter les contacts avec les professionnels de santé et de vous fournir du contenu informatif via la plateforme Livi. Ces informations sont désignées comme “données utilisateurs”._
 
   
 
-**DMS France** agit, concernant vos données de santé, uniquement en tant que sous-traitant du Prestataire de soins au sens du RGPD. Cela signifie que vos données à caractère personnel sont traitées uniquement selon les instructions du Prestataire de soins, qui est responsable du traitement au sens du RGPD.
+**DMS France agit**, concernant vos données de santé, uniquement en tant que sous-traitant du Prestataire de soins au sens du RGPD. Cela signifie que vos données à caractère personnel sont traitées uniquement selon les instructions du Prestataire de soins, qui est responsable du traitement au sens du RGPD.
 
 Lorsque vous consultez un **Prestataire de soins** sur Livi, celui-ci est responsable de tous les traitements de vos données personnelles qui ont lieu dans le cadre de cette interaction, et pour conserver des informations relatives à vos consultations.
 
@@ -152,23 +152,21 @@ _–
   
 DMS France utilise vos informations pour les finalités suivantes :_ 
 
-**_Mise à disposition de la plateforme_**_, ce qui comprend les activités telles que vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférences._ 
+**_Mise à disposition de la plateforme_**_,_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
-**_Support technique et communication,_** _ce qui comprend les activités telles que vous aider à accéder et utiliser la plateforme Livi et votre compte et vous envoyer des mises à jour importantes de sécurité ou de services ou communiquer avec vous à d’autres fins, par exemple, sur les réseaux sociaux._
+_**Support technique et communication,**_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
-**_Marketing_** _qui, si vous avez choisi de recevoir du contenu marketing et promotionnel, implique que Livi vous envoie des newsletters, les mises à jour du produit, des contenus promotionnels  par courrier, email ou notification push. Vous pouvez toujours refuser de recevoir ce type de marketing en ajustant les préférences de votre application._
+_**Marketing**_ _qui, si vous avez choisi de recevoir du contenu marketing et promotionnel, implique que Livi vous envoie des newsletters, les mises à jour du produit, des contenus promotionnels par courrier, email ou notification push. Vous pouvez toujours refuser de recevoir ce type de marketing en ajustant les préférences de votre application._
 
-**_Analyses et développement de produits,_** _ce qui comprend les activités telles que l’analyse de la façon dont vous utilisez la plateforme Livi pour mieux comprendre comment nous pouvons améliorer l’expérience utilisateur et développer de meilleures fonctionnalités. Cela peut aussi inclure la participation à des études de marché et d’utilisateurs si vous voulez en faire partie._
+**_Analyses et développement de produits,_** _pour analyser la façon dont vous utilisez la plateforme Livi afin de mieux comprendre comment nous pouvons améliorer l’expérience utilisateur et développer de meilleures fonctionnalités. Cela peut aussi inclure la participation à des études de marché et d’utilisateurs si vous voulez en faire partie._
 
 _Nous utilisons également des statistiques liées à l’utilisation de nos services pour nous assurer que nous avons suffisamment de ressources et d’expertise et savoir comment nous pouvons améliorer et développer les services pour mieux répondre aux besoins de nos utilisateurs._
 
 **_Recherches et statistiques,_** _vos données à caractère personnel peuvent faire l’objet d’un traitement d’anonymisation en vue de réaliser des études statistiques ou des recherches scientifiques, dans le respect des articles 5 et 9 du RGPD._  
 
-**_Administration et exécution des contrats,_** _ce qui comprend les contrats passés entre vous et nous. Cela inclut également le traitement pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Livi, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
+_**Administration et exécution des contrats,**_ _conclus entre vous et nous, notamment pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Livi, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
 
-**_Maintien d’une présence sur les réseaux sociaux._** _Nous sommes présents sur les réseaux sociaux pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services  
-  
-Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations  démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
+_**Maintien d’une présence sur les réseaux sociaux,**_ _pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services.__Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
 
 **_Préserver les intérêts juridiques de Livi_** _dans les procédures ou les litiges et pour enquêter sur l’utilisation illégale ou frauduleuse des services, les non paiement._
 
@@ -178,33 +176,33 @@ Les données de nos utilisateurs sont généralement traitées par les réseaux 
 
 Quand vous utilisez l’application Livi, les catégories suivantes de données personnelles sont collectées :
 
-Informations personnelles,
+*   Informations personnelles,
+    
+*   Détails sur la santé et relatifs à la consultation,
+    
+*   Dossiers médicaux,
+    
+*   Données transmises dans le cadre des échanges avec le support,
+    
+*   Informations de paiement et de transaction.
+    
 
-Détails sur la santé et relatifs à la consultation,
-
-Dossiers médicaux,
-
-Données transmises dans le cadre des échanges avec le support,
-
-Informations de paiement et de transaction.
-
-  
-
-Vos informations seront traitées pour les finalités suivantes : 
+Vos informations seront traitées pour les finalités suivantes :
 
 Prestations de services de santé,
 
-Sécurité, conformité juridique et sécurité,
-
-Assurance qualités et améliorations de services de santé,
-
-Soutien aux patients,
-
-Paiement et remboursement,
-
-Recherche médicale,
-
-Fourniture de statistiques et informations aux autorités.
+*   Sécurité, conformité juridique et sécurité,
+    
+*   Assurance qualités et améliorations de services de santé,
+    
+*   Soutien aux patients,
+    
+*   Paiement et remboursement,
+    
+*   Recherche médicale,
+    
+*   Fourniture de statistiques et informations aux autorités.
+    
 
   
 
@@ -212,7 +210,7 @@ En savoir plus: 
 
 **_Prestataire de soins_** 
 
-_Quand vous utilisez nos services de santé, le prestataire de soins collecte les informations suivantes à votre sujet:_ 
+_Quand vous utilisez nos services de santé, le prestataire de soins collecte les informations suivantes à votre sujet:_
 
 **_Données personnelles_**
 
@@ -230,7 +228,7 @@ _En outre, certaines informations relatives à vos consultations avec les profes
 
 **_Dossiers médicaux_**
 
-_Le Prestataire de soins a l’obligation de conserver votre dossier médical pendant 20 ans à compter de votre dernière consultation. Votre dossier médical comprend un volet administratif avec les informations d’état civil et informations de contact, des informations relatives aux raisons pour lesquelles vous avez sollicité des soins, les notes de consultations ou tout autre contact avec vous, les diagnostics, les informations liées aux résultats des consultations (telles que les prescriptions, vaccinations, certificats médicaux, adressages) et les plans de traitement. Cela peut aussi inclure les photos ou autres documents que vous avez décidé de partager en relation avec votre besoin de soins ou votre  traitement._
+_Le Prestataire de soins a l’obligation de conserver votre dossier médical pendant 20 ans à compter de votre dernière consultation. Votre dossier médical comprend un volet administratif avec les informations d’état civil et informations de contact, des informations relatives aux raisons pour lesquelles vous avez sollicité des soins, les notes de consultations ou tout autre contact avec vous, les diagnostics, les informations liées aux résultats des consultations (telles que les prescriptions, vaccinations, certificats médicaux, adressages) et les plans de traitement. Cela peut aussi inclure les photos ou autres documents que vous avez décidé de partager en relation avec votre besoin de soins ou votre traitement._
 
 **_Données transmises au support_**
 
@@ -244,17 +242,29 @@ _–_
 
 _Le Prestataire de soins utilise vos données personnelles pour les finalités suivantes:_
 
-**_Fourniture de soins,_** _ce qui comprend les activités telles que les conseils médicaux, les prescriptions, la délivrance de certificats médicaux, le dépistage des infections et l’orientation dans le cadre de la prescription de soins, ainsi que la réalisation de tâches administratives  liées aux soins telles que la gestion des paiements et des remboursements._
+_**Fourniture de soins,**_ _conseils médicaux, prescriptions, délivrance de certificats médicaux, dépistage des infections et orientation dans le cadre de la prescription de soins, ainsi que la réalisation de tâches administratives liées aux soins telles que la gestion des paiements et des remboursements._
 
-**_L’exécution d’obligations légales_**_, ce qui inclut le respect d’obligations légales  de fournir des informations de santé par exemple aux autorités publiques au regard d’enquêtes judiciaires, de protection de l’enfance, d’informations vaccinales à fournir au registre national de vaccination._
+_**L’exécution d’obligations légales**__,_ _comme fournir des informations de santé par exemple aux autorités publiques au regard d’enquêtes judiciaires, de protection de l’enfance, d’informations vaccinales à fournir au registre national de vaccination__._
 
-**_Qualité et amélioration des services de santé,_** _ce qui comprend les activités telles que le suivi, la recherche d’utilisateurs et la surveillance de la performance des services de santé pour s’assurer que l’on maintient un niveau de qualité médicale élevé, en réduisant le temps d’attente au minimum pour le traitement des incidents._ 
+_**Qualité et amélioration des services de santé,**_ _pour maintenir la meilleure qualité possible pour les soins que nous dispensons et d'améliorer constamment les outils que nous utilisons grâce à un travail systématique d'assurance qualité et d'amélioration de la qualité._
 
-**_Paiement et remboursement_**_, ce qui inclut les activités telles que vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
+_**La production de statistiques**_ _sur l'utilisation des services de santé et les soins prodigués aux patients, dans le but de planifier, d'organiser et de rationaliser les activités._
 
-**_Recherches médicales,_** _ce qui comprend les activités telles que les projets de recherches, le cas échéant en collaboration avec des chercheurs externes, les établissements de santé du secteur public et les hôpitaux. Selon les cas, ces projets nécessiteront votre consentement explicite ou simplement que vous en soyez informé. Par ailleurs, les formalités auprès de la CNIL seront effectuées à chaque fois que cela est nécessaire._
+_**L'analyse des statistiques et des retours des patients**_ _afin d'assurer le suivi, d'identifier les domaines d'amélioration et de garantir et développer la qualité des processus, des systèmes et des fonctions. L'objectif est d'améliorer continuellement la qualité médicale, la satisfaction des patients, l'accessibilité, la sécurité et l'expérience utilisateur de nos patients._
 
-**_Utilisation à des fins statistiques_**
+_NB: Les consultations Livi ne sont jamais enregistrées, ni en format audio, ni en vidéo.Cependant, les transcriptions, ou fichiers texte qui reproduisent la conversation entre vous et les professionnels de santé, peuvent être stockés et utilisés par nos systèmes pour rationaliser et automatiser notre travail administratif._
+
+_Par exemple, pour générer des résumés de vos symptômes ou demandes afin d'aider à vous mettre en relation avec le professionnel de santé approprié à votre besoin en tant que patient, ou pour faciliter les tâches administratives des professionnels (en fournissant des ébauches de documents), ce qui permet au professionnel de santé de consacrer plus de temps à ses patients._
+
+_Nos logiciels n'interviennent pas dans, ni n'influencent, la prise de décisions médicales, qui reste du ressort exclusif de notre personnel médical._
+
+_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle ici._
+
+_**Paiement et remboursement**__,_ _pour vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
+
+_**Recherches médicales,**_ _pour la participation à des projets de recherches, le cas échéant en collaboration avec des chercheurs externes, les établissements de santé du secteur public et les hôpitaux. Selon les cas, ces projets nécessiteront votre consentement explicite ou simplement que vous en soyez informé. Par ailleurs, les formalités auprès de la CNIL seront effectuées à chaque fois que cela est nécessaire._
+
+_**Utilisation à des fins statistiques**_
 
 _Conformément aux dispositions des articles 5 et 9 du RGPD, des données anonymisées peuvent être réutilisées à des fins d’études statistiques ou scientifiques._
 
@@ -269,44 +279,42 @@ _Si vous souhaitez en savoir plus sur les données personnelles qui sont utilis�
 
 -----------------------------------------------------------------------------
 
-Le fournisseur de soins est tenu à une obligation de confidentialité lorsqu’il vous fournit les soins. Il existe toutefois des situations dans lesquelles le fournisseur de soins va partager vos informations personnelles avec des tiers. 
+Le fournisseur de soins est tenu à une obligation de confidentialité lorsqu’il vous fournit les soins. Il existe toutefois des situations dans lesquelles le fournisseur de soins va partager vos informations personnelles avec des tiers.
 
   
 6.1. Prestataires de services
 
 Nous engageons des prestataires de services pour nous aider à fournir les Services, ils agissent comme des sous-traitants lorsqu’ils traitent vos données à caractère personnel et nous veillons à toujours avoir des contrats et des garanties en place pour assurer la protection de vos informations. Pour obtenir la liste des sous traitants, vous pouvez envoyer votre demande à notre DPO à l'adresse dpo@livi.fr.
 
-  
+En savoir plus:
+
+_Le Prestataire de soins est tenu à une obligation de confidentialité lorsqu’il vous fournit les soins. Il existe toutefois des situations dans lesquelles il peut partager vos données personnelles avec des tiers._
+
+_**Fournisseur de services/ Sous-traitants**_
+
+_Nous avons recours à d’autres sociétés, des prestataires et des sous-traitants pour nous aider à vous fournir les Services. Il peut s’agir par exemple, des services de paiement, d'hébergement ou de maintenance, ou des services nous permettant de vous contacter par e-mail ou de vous envoyer des notifications. Nous pouvons partager vos données personnelles avec eux afin qu’ils puissent les traiter dans le but de délivrer ces services._
+
+_L’activité de ces prestataires de services est strictement encadrée par des contrats qui limitent les cas d’autorisation d’utiliser vos données personnelles: ils ne sont autorisés à traiter vos données qu’en notre nom et en suivant nos instructions et non pour leurs propres finalités. Avant d’engager ces fournisseurs de services, nous examinons leurs pratiques pour nous assurer qu’elles sont conformes à la réglementation et que des mesures de sécurité appropriées sont en place pour protéger vos données personnelles._
 
 6.2. DMS France comme sous traitant
 
 DMS France agit comme sous-traitant pour le Prestataire de soins, en fournissant la plateforme technique que le fournisseur de soins utilise pour fournir les soins.
 
-  
-
 En savoir plus: 
-
-_Le Prestataire de soins est tenu à une obligation de confidentialité lorsqu’il vous fournit les soins. Il existe toutefois des situations dans lesquelles il peut  partager vos données personnelles avec des tiers._ 
-
-**_Fournisseur de services/ Sous-traitants_**
-
-_Nous avons recours à d’autres sociétés, des prestataires et des sous-traitants pour nous aider à vous fournir les Services. Il peut s’agir par exemple, des services de paiement, d'hébergement ou de maintenance, ou des services nous permettant de vous contacter par e-mail ou de vous envoyer des notifications. Nous pouvons partager vos données personnelles avec eux  afin qu’ils puissent les traiter dans le but de délivrer ces services._
-
-_L’activité de ces prestataires de services est strictement encadrée par des contrats qui limitent les cas d’autorisation d’utiliser vos données personnelles: ils ne sont autorisés à traiter vos données qu’en notre nom et en suivant nos instructions et non pour leurs propres finalités.  Avant d’engager ces fournisseurs de services, nous examinons leurs pratiques pour nous assurer qu’elles sont conformes à la réglementation et que des mesures de sécurité appropriées sont en place pour protéger vos données personnelles._
 
 **_DMS France comme sous-traitant du Prestataire de soins_**
 
-_DMS France, en tant que fournisseur de la plateforme et des services, agit comme un sous-traitant pour le compte des Prestataires de soins notamment sur les traitements suivants: l’exploitation, la maintenance, le dépannage, l’assistance dans le travail du Prestataire de soins et l’amélioration de la qualité des soins, ainsi que dans le travail de mise en conformité et de sécurité du Prestataire de soins._
+_DMS France, en tant que fournisseur de la plateforme et des services, agit comme un sous-traitant pour le compte des Prestataires de soins notamment sur les traitements suivants:_
 
-_En qualité de sous-traitant, DMS France ne traite donc vos données personnelles que sur instructions du Prestataire de soins. Différents Prestataire de soins utilisent  la plateforme Livi, et traitent ainsi vos données personnelles lorsque vous utilisez les  services. Même lorsque vous souhaitez avoir une consultation avec le premier médecin disponible, sans l’avoir choisi au préalable, vous aurez toujours connaissance de l’identité du professionnel qui vous prendra en charge avant d'utiliser les services, et vous saurez ainsi toujours qui est responsable du traitement de vos données._
+_l’exploitation, la maintenance, le dépannage, l’assistance dans le travail du Prestataire de soins et l’amélioration de la qualité des soins, ainsi que dans le travail de mise en conformité et de sécurité du Prestataire de soins._
+
+_En qualité de sous-traitant, DMS France ne traite donc vos données personnelles que sur instructions du Prestataire de soins. Différents Prestataire de soins utilisent la plateforme Livi, et traitent ainsi vos données personnelles lorsque vous utilisez les services. Même lorsque vous souhaitez avoir une consultation avec le premier médecin disponible, sans l’avoir choisi au préalable, vous aurez toujours connaissance de l’identité du professionnel qui vous prendra en charge avant d'utiliser les services, et vous saurez ainsi toujours qui est responsable du traitement de vos données._
 
   
 
 6.3. Autres responsables de traitement
 
-Parfois, nous partageons vos données personnelles avec des tiers qui agiront en tant que responsables de traitement indépendants pour leurs traitements ultérieurs. Vous trouverez ci-dessous une liste de catégories de ces tiers. 
-
-  
+Parfois, nous partageons vos données personnelles avec des tiers qui agiront en tant que responsables de traitement indépendants pour leurs traitements ultérieurs. Vous trouverez ci-dessous une liste de catégories de ces tiers.
 
 En savoir plus: 
 
@@ -318,9 +326,7 @@ _Dans certaines situations, nous partageons certaines de vos données personnell
 
 Nous pouvons partager vos données personnelles avec d’autres fournisseurs de soins si cela est nécessaire pour vous fournir les soins dont vous avez besoin. Nous pouvons par exemple partager vos données avec un laboratoire d’analyse ou un spécialiste.
 
-Lorsque les soins sont pris en charge par un tiers payeur (sécurité sociale, complémentaire santé), nous pouvons être amenés à partager des informations avec ce tiers aux fins de remboursement des téléconsultations réalisées.
-
-  
+Lorsque les soins sont pris en charge par un tiers payeur (sécurité sociale, complémentaire santé), nous pouvons être amenés à partager des informations avec ce tiers aux fins de remboursement des téléconsultations réalisées.  
 
 En savoir plus: 
 
@@ -355,11 +361,7 @@ Si nos services vous sont proposés par votre employeur, nous agissons comme res
 
 6.3.4. Autres sociétés au sein du groupe Kry
 
-  
-
 Nous pouvons transférer vos données personnelles à d’autres société au sein du groupe Kry international AB (publ).
-
-  
 
 En savoir plus: 
 
@@ -368,7 +370,7 @@ _Nous pouvons transférer vos données personnelles aux autres sociétés du gro
 7) Transferts internationaux
 ----------------------------
 
-Parfois, pour nous aider à vous délivrer les services, nous collaborons avec des prestataires  basés en dehors de l’Union européenne ou de l'Espace Economique Européen. Si des données à caractère personnel sont transférées en dehors de l’Union européenne ou de l’Espace Économique Européen, nous nous assurons toujours que le transfert est légal.
+Parfois, pour nous aider à vous délivrer les services, nous collaborons avec des prestataires basés en dehors de l’Union européenne ou de l'Espace Economique Européen. Si des données à caractère personnel sont transférées en dehors de l’Union européenne ou de l’Espace Économique Européen, nous nous assurons toujours que le transfert est légal.
 
 Vos dossiers médicaux seront toujours hébergés au sein de l’Union européenne ou de l’Espace Economique Européen.
 
@@ -440,7 +442,7 @@ _Comme indiqué plus haut, vous aurez le droit de vous opposer au partage de vot
 
 Vous devez toujours pouvoir vous sentir en sécurité quand vous nous confiez vos données à caractère personnel. C’est pourquoi nous avons pris les mesures de sécurité appropriées pour les protéger contre tout accès, modification ou suppression non autorisés.
 
-A titre d’exemple, pour assurer sécurité et confidentialité des données, Livi utilise des mécanismes d'authentification à deux facteurs (2FA), un cryptage de bout en bout (E2EE), vidéotransmission cryptée selon la norme AES-128 (cryptage AES avec des clés de 128 bits pour crypter l'audio et la vidéo) et HMAC-SHA1 pour vérifier l'intégrité des données, ou encore la norme Transport Layer Security (TLS) pour la transmission cryptée des données (protocole WebRTC et les processus de cryptage des codecs vidéo VP8, VP9 et H.264).  
+A titre d’exemple, pour assurer sécurité et confidentialité des données, Livi utilise des mécanismes d'authentification à deux facteurs (2FA), un cryptage de bout en bout (E2EE), vidéotransmission cryptée selon la norme AES-128 (cryptage AES avec des clés de 128 bits pour crypter l'audio et la vidéo) et HMAC-SHA1 pour vérifier l'intégrité des données, ou encore la norme Transport Layer Security (TLS) pour la transmission cryptée des données (protocole WebRTC et les processus de cryptage des codecs vidéo VP8, VP9 et H.264).
 
 S’il y a des incidents de sécurité qui peuvent vous affecter ou affecter vos données personnelles de manière plus significative par exemple lorsqu’il existe un risque de fraude ou d’usurpation d’identité, nous vous contacterons et vous indiquerons ce que vous pouvez faire pour réduire le risque.
 
@@ -466,14 +468,14 @@ Nous pouvons mettre à jour cette Politique de confidentialité. Si nous faisons
 Politique de confidentialité
 ============================
 
-Version Juin 2025
+Version 16 janvier 2026
 
 1) Introduction
 ---------------
 
-Livi est une Application (« App ») disponible sur support mobile (smartphone et tablette)  et sur le web à partir du site internet livi.fr dédiée à la mise en relation entre des utilisateurs et des professionnels de santé. Livi a vocation à fournir des services de soins numériques (télémédecine, télésoin) et physiques. Dans le cadre de cette mission, nous souhaitons être transparents et vous expliquer nos mesures et pratiques de protection des données afin que vous, en tant qu’individu, utilisateur et patient, vous vous sentiez toujours à l’aise lorsque vous utilisez nos services et nous confiez vos données personnelles.  
-  
-La présente politique de confidentialité explique qui est responsable des traitements de données personnelles effectués en relation avec votre utilisation des services et comment sont utilisées vos données ”utilisateur” et “patient” : quelles données nous collectons lorsque vous utilisez les services et à quelles fins, avec qui elles sont partagées, quels sont vos droits concernant le traitement de vos données personnelles, comment vous pouvez les exercer et comment vous pouvez contrôler l’utilisation de vos données. Nous y indiquons la base légale des traitements et qui sont les tiers qui peuvent traiter vos données à caractère personnel dans le but de vous fournir les services.
+Livi est une Application (« App ») disponible sur support mobile (smartphone et tablette) et sur le web à partir du site internet livi.fr dédiée à la mise en relation entre des utilisateurs et des professionnels de santé. Livi a vocation à fournir des services de soins à distance (télémédecine, télésoin) et de soins présentiels.
+
+Dans le cadre de cette mission, nous souhaitons être transparents et vous expliquer nos mesures et pratiques de protection des données personnelles afin que vous, en tant qu’individu, utilisateur et patient, vous vous sentiez toujours à l’aise lorsque vous utilisez nos services et nous confiez vos données personnelles. La présente politique de confidentialité explique qui est responsable des traitements de données personnelles effectués en relation avec votre utilisation des services et comment sont utilisées vos données ”utilisateur” et “patient” : quelles données nous collectons lorsque vous utilisez les services et à quelles fins, avec qui elles sont partagées, quels sont vos droits concernant le traitement de vos données personnelles, comment vous pouvez les exercer et comment vous pouvez contrôler l’utilisation de vos données. Nous y indiquons la base légale des traitements et qui sont les tiers qui peuvent traiter vos données à caractère personnel dans le but de vous fournir les services.
 
 Cette politique de confidentialité vous concerne si vous :
 
@@ -493,11 +495,11 @@ Cette politique de confidentialité vous concerne si vous :
 2) Les services
 ---------------
 
-Les services sont des outils numériques tels que des applications, sites internet et autres services qui permettent une mise en relation avec des professionnels de santé ou avec des tiers dans un but de soins. 
+Grâce aux outils numériques Livi mis à dispositon sur le site livi.fr ou sur support mobile (smartphone) (“l’**App Livi**”), vous pouvez être mis en relation avec des professionnels de santé ou avec des tiers dans un but de soins.
 
-Ces outils numériques visent à mettre à disposition la plateforme Livi sur le site livi.fr ou sur support mobile (smartphone) (“**l’App Livi**”). 
+Les prestataires de soins utilisateurs de la plateforme Livi fournissent aux patients des services de soins tels que des consultations médicales, des prescriptions, etc… (Les services de soins). La fourniture de la plateforme Livi et les services de soins sont ensemble dénommés “les services” dans cette politique de confidentialité.
 
-Les prestataires de soins utilisateurs de la plateforme Livi fournissent aux patients des services de soins tels que des consultations médicales, des prescriptions, etc… (Les services de soins). La fourniture de la plateforme Livi et les services de soins sont ensemble dénommés “les services” dans cette politique de confidentialité. Pour utiliser les services, vous devez accepter nos Conditions Générales d’Utilisations et autres conditions disponibles.
+Pour utiliser les services, vous devez accepter nos Conditions Générales d’Utilisations et autres conditions disponibles.
 
   
 
@@ -508,13 +510,13 @@ Les prestataires de soins utilisateurs de la plateforme Livi fournissent aux pat
 
 _En savoir plus:_ 
 
-_DMS France est la filiale française du groupe Kry international AB (publ)_ _(“Kry”). Kry International AB (publ) a concédé à DMS France une licence d’utilisation de l’App Livi pour le territoire français. Vous trouverez les informations de contact de Kry international AB (publ) et de DMS France à la fin de cette politique de confidentialité._ 
+_DMS France est la filiale française du groupe Kry international AB (publ) (“Kry”). Kry International AB (publ) a concédé à DMS France une licence d’utilisation de l’App Livi pour le territoire français. Vous trouverez les informations de contact de Kry international AB (publ) et de DMS France à la fin de cette politique de confidentialité._
 
 _Il s’agit par exemple de vous permettre d’installer l’application, de vous authentifier ou de vous enregistrer, de faciliter les contacts avec les professionnels de santé et de vous fournir du contenu informatif via la plateforme Livi. Ces informations sont désignées comme “données utilisateurs”._
 
   
 
-**DMS France** agit, concernant vos données de santé, uniquement en tant que sous-traitant du Prestataire de soins au sens du RGPD. Cela signifie que vos données à caractère personnel sont traitées uniquement selon les instructions du Prestataire de soins, qui est responsable du traitement au sens du RGPD.
+**DMS France agit**, concernant vos données de santé, uniquement en tant que sous-traitant du Prestataire de soins au sens du RGPD. Cela signifie que vos données à caractère personnel sont traitées uniquement selon les instructions du Prestataire de soins, qui est responsable du traitement au sens du RGPD.
 
 Lorsque vous consultez un **Prestataire de soins** sur Livi, celui-ci est responsable de tous les traitements de vos données personnelles qui ont lieu dans le cadre de cette interaction, et pour conserver des informations relatives à vos consultations.
 
@@ -617,23 +619,21 @@ _–
   
 DMS France utilise vos informations pour les finalités suivantes :_ 
 
-**_Mise à disposition de la plateforme_**_, ce qui comprend les activités telles que vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférences._ 
+**_Mise à disposition de la plateforme_**_,_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
-**_Support technique et communication,_** _ce qui comprend les activités telles que vous aider à accéder et utiliser la plateforme Livi et votre compte et vous envoyer des mises à jour importantes de sécurité ou de services ou communiquer avec vous à d’autres fins, par exemple, sur les réseaux sociaux._
+_**Support technique et communication,**_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
-**_Marketing_** _qui, si vous avez choisi de recevoir du contenu marketing et promotionnel, implique que Livi vous envoie des newsletters, les mises à jour du produit, des contenus promotionnels  par courrier, email ou notification push. Vous pouvez toujours refuser de recevoir ce type de marketing en ajustant les préférences de votre application._
+_**Marketing**_ _qui, si vous avez choisi de recevoir du contenu marketing et promotionnel, implique que Livi vous envoie des newsletters, les mises à jour du produit, des contenus promotionnels par courrier, email ou notification push. Vous pouvez toujours refuser de recevoir ce type de marketing en ajustant les préférences de votre application._
 
-**_Analyses et développement de produits,_** _ce qui comprend les activités telles que l’analyse de la façon dont vous utilisez la plateforme Livi pour mieux comprendre comment nous pouvons améliorer l’expérience utilisateur et développer de meilleures fonctionnalités. Cela peut aussi inclure la participation à des études de marché et d’utilisateurs si vous voulez en faire partie._
+**_Analyses et développement de produits,_** _pour analyser la façon dont vous utilisez la plateforme Livi afin de mieux comprendre comment nous pouvons améliorer l’expérience utilisateur et développer de meilleures fonctionnalités. Cela peut aussi inclure la participation à des études de marché et d’utilisateurs si vous voulez en faire partie._
 
 _Nous utilisons également des statistiques liées à l’utilisation de nos services pour nous assurer que nous avons suffisamment de ressources et d’expertise et savoir comment nous pouvons améliorer et développer les services pour mieux répondre aux besoins de nos utilisateurs._
 
 **_Recherches et statistiques,_** _vos données à caractère personnel peuvent faire l’objet d’un traitement d’anonymisation en vue de réaliser des études statistiques ou des recherches scientifiques, dans le respect des articles 5 et 9 du RGPD._  
 
-**_Administration et exécution des contrats,_** _ce qui comprend les contrats passés entre vous et nous. Cela inclut également le traitement pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Livi, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
+_**Administration et exécution des contrats,**_ _conclus entre vous et nous, notamment pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Livi, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
 
-**_Maintien d’une présence sur les réseaux sociaux._** _Nous sommes présents sur les réseaux sociaux pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services  
-  
-Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations  démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
+_**Maintien d’une présence sur les réseaux sociaux,**_ _pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services.__Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
 
 **_Préserver les intérêts juridiques de Livi_** _dans les procédures ou les litiges et pour enquêter sur l’utilisation illégale ou frauduleuse des services, les non paiement._
 
@@ -643,33 +643,33 @@ Les données de nos utilisateurs sont généralement traitées par les réseaux 
 
 Quand vous utilisez l’application Livi, les catégories suivantes de données personnelles sont collectées :
 
-Informations personnelles,
+*   Informations personnelles,
+    
+*   Détails sur la santé et relatifs à la consultation,
+    
+*   Dossiers médicaux,
+    
+*   Données transmises dans le cadre des échanges avec le support,
+    
+*   Informations de paiement et de transaction.
+    
 
-Détails sur la santé et relatifs à la consultation,
-
-Dossiers médicaux,
-
-Données transmises dans le cadre des échanges avec le support,
-
-Informations de paiement et de transaction.
-
-  
-
-Vos informations seront traitées pour les finalités suivantes : 
+Vos informations seront traitées pour les finalités suivantes :
 
 Prestations de services de santé,
 
-Sécurité, conformité juridique et sécurité,
-
-Assurance qualités et améliorations de services de santé,
-
-Soutien aux patients,
-
-Paiement et remboursement,
-
-Recherche médicale,
-
-Fourniture de statistiques et informations aux autorités.
+*   Sécurité, conformité juridique et sécurité,
+    
+*   Assurance qualités et améliorations de services de santé,
+    
+*   Soutien aux patients,
+    
+*   Paiement et remboursement,
+    
+*   Recherche médicale,
+    
+*   Fourniture de statistiques et informations aux autorités.
+    
 
   
 
@@ -677,7 +677,7 @@ En savoir plus: 
 
 **_Prestataire de soins_** 
 
-_Quand vous utilisez nos services de santé, le prestataire de soins collecte les informations suivantes à votre sujet:_ 
+_Quand vous utilisez nos services de santé, le prestataire de soins collecte les informations suivantes à votre sujet:_
 
 **_Données personnelles_**
 
@@ -695,7 +695,7 @@ _En outre, certaines informations relatives à vos consultations avec les profes
 
 **_Dossiers médicaux_**
 
-_Le Prestataire de soins a l’obligation de conserver votre dossier médical pendant 20 ans à compter de votre dernière consultation. Votre dossier médical comprend un volet administratif avec les informations d’état civil et informations de contact, des informations relatives aux raisons pour lesquelles vous avez sollicité des soins, les notes de consultations ou tout autre contact avec vous, les diagnostics, les informations liées aux résultats des consultations (telles que les prescriptions, vaccinations, certificats médicaux, adressages) et les plans de traitement. Cela peut aussi inclure les photos ou autres documents que vous avez décidé de partager en relation avec votre besoin de soins ou votre  traitement._
+_Le Prestataire de soins a l’obligation de conserver votre dossier médical pendant 20 ans à compter de votre dernière consultation. Votre dossier médical comprend un volet administratif avec les informations d’état civil et informations de contact, des informations relatives aux raisons pour lesquelles vous avez sollicité des soins, les notes de consultations ou tout autre contact avec vous, les diagnostics, les informations liées aux résultats des consultations (telles que les prescriptions, vaccinations, certificats médicaux, adressages) et les plans de traitement. Cela peut aussi inclure les photos ou autres documents que vous avez décidé de partager en relation avec votre besoin de soins ou votre traitement._
 
 **_Données transmises au support_**
 
@@ -709,17 +709,29 @@ _–_
 
 _Le Prestataire de soins utilise vos données personnelles pour les finalités suivantes:_
 
-**_Fourniture de soins,_** _ce qui comprend les activités telles que les conseils médicaux, les prescriptions, la délivrance de certificats médicaux, le dépistage des infections et l’orientation dans le cadre de la prescription de soins, ainsi que la réalisation de tâches administratives  liées aux soins telles que la gestion des paiements et des remboursements._
+_**Fourniture de soins,**_ _conseils médicaux, prescriptions, délivrance de certificats médicaux, dépistage des infections et orientation dans le cadre de la prescription de soins, ainsi que la réalisation de tâches administratives liées aux soins telles que la gestion des paiements et des remboursements._
 
-**_L’exécution d’obligations légales_**_, ce qui inclut le respect d’obligations légales  de fournir des informations de santé par exemple aux autorités publiques au regard d’enquêtes judiciaires, de protection de l’enfance, d’informations vaccinales à fournir au registre national de vaccination._
+_**L’exécution d’obligations légales**__,_ _comme fournir des informations de santé par exemple aux autorités publiques au regard d’enquêtes judiciaires, de protection de l’enfance, d’informations vaccinales à fournir au registre national de vaccination__._
 
-**_Qualité et amélioration des services de santé,_** _ce qui comprend les activités telles que le suivi, la recherche d’utilisateurs et la surveillance de la performance des services de santé pour s’assurer que l’on maintient un niveau de qualité médicale élevé, en réduisant le temps d’attente au minimum pour le traitement des incidents._ 
+_**Qualité et amélioration des services de santé,**_ _pour maintenir la meilleure qualité possible pour les soins que nous dispensons et d'améliorer constamment les outils que nous utilisons grâce à un travail systématique d'assurance qualité et d'amélioration de la qualité._
 
-**_Paiement et remboursement_**_, ce qui inclut les activités telles que vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
+_**La production de statistiques**_ _sur l'utilisation des services de santé et les soins prodigués aux patients, dans le but de planifier, d'organiser et de rationaliser les activités._
 
-**_Recherches médicales,_** _ce qui comprend les activités telles que les projets de recherches, le cas échéant en collaboration avec des chercheurs externes, les établissements de santé du secteur public et les hôpitaux. Selon les cas, ces projets nécessiteront votre consentement explicite ou simplement que vous en soyez informé. Par ailleurs, les formalités auprès de la CNIL seront effectuées à chaque fois que cela est nécessaire._
+_**L'analyse des statistiques et des retours des patients**_ _afin d'assurer le suivi, d'identifier les domaines d'amélioration et de garantir et développer la qualité des processus, des systèmes et des fonctions. L'objectif est d'améliorer continuellement la qualité médicale, la satisfaction des patients, l'accessibilité, la sécurité et l'expérience utilisateur de nos patients._
 
-**_Utilisation à des fins statistiques_**
+_NB: Les consultations Livi ne sont jamais enregistrées, ni en format audio, ni en vidéo.Cependant, les transcriptions, ou fichiers texte qui reproduisent la conversation entre vous et les professionnels de santé, peuvent être stockés et utilisés par nos systèmes pour rationaliser et automatiser notre travail administratif._
+
+_Par exemple, pour générer des résumés de vos symptômes ou demandes afin d'aider à vous mettre en relation avec le professionnel de santé approprié à votre besoin en tant que patient, ou pour faciliter les tâches administratives des professionnels (en fournissant des ébauches de documents), ce qui permet au professionnel de santé de consacrer plus de temps à ses patients._
+
+_Nos logiciels n'interviennent pas dans, ni n'influencent, la prise de décisions médicales, qui reste du ressort exclusif de notre personnel médical._
+
+_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle ici._
+
+_**Paiement et remboursement**__,_ _pour vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
+
+_**Recherches médicales,**_ _pour la participation à des projets de recherches, le cas échéant en collaboration avec des chercheurs externes, les établissements de santé du secteur public et les hôpitaux. Selon les cas, ces projets nécessiteront votre consentement explicite ou simplement que vous en soyez informé. Par ailleurs, les formalités auprès de la CNIL seront effectuées à chaque fois que cela est nécessaire._
+
+_**Utilisation à des fins statistiques**_
 
 _Conformément aux dispositions des articles 5 et 9 du RGPD, des données anonymisées peuvent être réutilisées à des fins d’études statistiques ou scientifiques._
 
@@ -734,44 +746,42 @@ _Si vous souhaitez en savoir plus sur les données personnelles qui sont utilis�
 
 -----------------------------------------------------------------------------
 
-Le fournisseur de soins est tenu à une obligation de confidentialité lorsqu’il vous fournit les soins. Il existe toutefois des situations dans lesquelles le fournisseur de soins va partager vos informations personnelles avec des tiers. 
+Le fournisseur de soins est tenu à une obligation de confidentialité lorsqu’il vous fournit les soins. Il existe toutefois des situations dans lesquelles le fournisseur de soins va partager vos informations personnelles avec des tiers.
 
   
 6.1. Prestataires de services
 
 Nous engageons des prestataires de services pour nous aider à fournir les Services, ils agissent comme des sous-traitants lorsqu’ils traitent vos données à caractère personnel et nous veillons à toujours avoir des contrats et des garanties en place pour assurer la protection de vos informations. Pour obtenir la liste des sous traitants, vous pouvez envoyer votre demande à notre DPO à l'adresse dpo@livi.fr.
 
-  
+En savoir plus:
+
+_Le Prestataire de soins est tenu à une obligation de confidentialité lorsqu’il vous fournit les soins. Il existe toutefois des situations dans lesquelles il peut partager vos données personnelles avec des tiers._
+
+_**Fournisseur de services/ Sous-traitants**_
+
+_Nous avons recours à d’autres sociétés, des prestataires et des sous-traitants pour nous aider à vous fournir les Services. Il peut s’agir par exemple, des services de paiement, d'hébergement ou de maintenance, ou des services nous permettant de vous contacter par e-mail ou de vous envoyer des notifications. Nous pouvons partager vos données personnelles avec eux afin qu’ils puissent les traiter dans le but de délivrer ces services._
+
+_L’activité de ces prestataires de services est strictement encadrée par des contrats qui limitent les cas d’autorisation d’utiliser vos données personnelles: ils ne sont autorisés à traiter vos données qu’en notre nom et en suivant nos instructions et non pour leurs propres finalités. Avant d’engager ces fournisseurs de services, nous examinons leurs pratiques pour nous assurer qu’elles sont conformes à la réglementation et que des mesures de sécurité appropriées sont en place pour protéger vos données personnelles._
 
 6.2. DMS France comme sous traitant
 
 DMS France agit comme sous-traitant pour le Prestataire de soins, en fournissant la plateforme technique que le fournisseur de soins utilise pour fournir les soins.
 
-  
-
 En savoir plus: 
-
-_Le Prestataire de soins est tenu à une obligation de confidentialité lorsqu’il vous fournit les soins. Il existe toutefois des situations dans lesquelles il peut  partager vos données personnelles avec des tiers._ 
-
-**_Fournisseur de services/ Sous-traitants_**
-
-_Nous avons recours à d’autres sociétés, des prestataires et des sous-traitants pour nous aider à vous fournir les Services. Il peut s’agir par exemple, des services de paiement, d'hébergement ou de maintenance, ou des services nous permettant de vous contacter par e-mail ou de vous envoyer des notifications. Nous pouvons partager vos données personnelles avec eux  afin qu’ils puissent les traiter dans le but de délivrer ces services._
-
-_L’activité de ces prestataires de services est strictement encadrée par des contrats qui limitent les cas d’autorisation d’utiliser vos données personnelles: ils ne sont autorisés à traiter vos données qu’en notre nom et en suivant nos instructions et non pour leurs propres finalités.  Avant d’engager ces fournisseurs de services, nous examinons leurs pratiques pour nous assurer qu’elles sont conformes à la réglementation et que des mesures de sécurité appropriées sont en place pour protéger vos données personnelles._
 
 **_DMS France comme sous-traitant du Prestataire de soins_**
 
-_DMS France, en tant que fournisseur de la plateforme et des services, agit comme un sous-traitant pour le compte des Prestataires de soins notamment sur les traitements suivants: l’exploitation, la maintenance, le dépannage, l’assistance dans le travail du Prestataire de soins et l’amélioration de la qualité des soins, ainsi que dans le travail de mise en conformité et de sécurité du Prestataire de soins._
+_DMS France, en tant que fournisseur de la plateforme et des services, agit comme un sous-traitant pour le compte des Prestataires de soins notamment sur les traitements suivants:_
 
-_En qualité de sous-traitant, DMS France ne traite donc vos données personnelles que sur instructions du Prestataire de soins. Différents Prestataire de soins utilisent  la plateforme Livi, et traitent ainsi vos données personnelles lorsque vous utilisez les  services. Même lorsque vous souhaitez avoir une consultation avec le premier médecin disponible, sans l’avoir choisi au préalable, vous aurez toujours connaissance de l’identité du professionnel qui vous prendra en charge avant d'utiliser les services, et vous saurez ainsi toujours qui est responsable du traitement de vos données._
+_l’exploitation, la maintenance, le dépannage, l’assistance dans le travail du Prestataire de soins et l’amélioration de la qualité des soins, ainsi que dans le travail de mise en conformité et de sécurité du Prestataire de soins._
+
+_En qualité de sous-traitant, DMS France ne traite donc vos données personnelles que sur instructions du Prestataire de soins. Différents Prestataire de soins utilisent la plateforme Livi, et traitent ainsi vos données personnelles lorsque vous utilisez les services. Même lorsque vous souhaitez avoir une consultation avec le premier médecin disponible, sans l’avoir choisi au préalable, vous aurez toujours connaissance de l’identité du professionnel qui vous prendra en charge avant d'utiliser les services, et vous saurez ainsi toujours qui est responsable du traitement de vos données._
 
   
 
 6.3. Autres responsables de traitement
 
-Parfois, nous partageons vos données personnelles avec des tiers qui agiront en tant que responsables de traitement indépendants pour leurs traitements ultérieurs. Vous trouverez ci-dessous une liste de catégories de ces tiers. 
-
-  
+Parfois, nous partageons vos données personnelles avec des tiers qui agiront en tant que responsables de traitement indépendants pour leurs traitements ultérieurs. Vous trouverez ci-dessous une liste de catégories de ces tiers.
 
 En savoir plus: 
 
@@ -783,9 +793,7 @@ _Dans certaines situations, nous partageons certaines de vos données personnell
 
 Nous pouvons partager vos données personnelles avec d’autres fournisseurs de soins si cela est nécessaire pour vous fournir les soins dont vous avez besoin. Nous pouvons par exemple partager vos données avec un laboratoire d’analyse ou un spécialiste.
 
-Lorsque les soins sont pris en charge par un tiers payeur (sécurité sociale, complémentaire santé), nous pouvons être amenés à partager des informations avec ce tiers aux fins de remboursement des téléconsultations réalisées.
-
-  
+Lorsque les soins sont pris en charge par un tiers payeur (sécurité sociale, complémentaire santé), nous pouvons être amenés à partager des informations avec ce tiers aux fins de remboursement des téléconsultations réalisées.  
 
 En savoir plus: 
 
@@ -820,11 +828,7 @@ Si nos services vous sont proposés par votre employeur, nous agissons comme res
 
 6.3.4. Autres sociétés au sein du groupe Kry
 
-  
-
 Nous pouvons transférer vos données personnelles à d’autres société au sein du groupe Kry international AB (publ).
-
-  
 
 En savoir plus: 
 
@@ -833,7 +837,7 @@ _Nous pouvons transférer vos données personnelles aux autres sociétés du gro
 7) Transferts internationaux
 ----------------------------
 
-Parfois, pour nous aider à vous délivrer les services, nous collaborons avec des prestataires  basés en dehors de l’Union européenne ou de l'Espace Economique Européen. Si des données à caractère personnel sont transférées en dehors de l’Union européenne ou de l’Espace Économique Européen, nous nous assurons toujours que le transfert est légal.
+Parfois, pour nous aider à vous délivrer les services, nous collaborons avec des prestataires basés en dehors de l’Union européenne ou de l'Espace Economique Européen. Si des données à caractère personnel sont transférées en dehors de l’Union européenne ou de l’Espace Économique Européen, nous nous assurons toujours que le transfert est légal.
 
 Vos dossiers médicaux seront toujours hébergés au sein de l’Union européenne ou de l’Espace Economique Européen.
 
@@ -905,7 +909,7 @@ _Comme indiqué plus haut, vous aurez le droit de vous opposer au partage de vot
 
 Vous devez toujours pouvoir vous sentir en sécurité quand vous nous confiez vos données à caractère personnel. C’est pourquoi nous avons pris les mesures de sécurité appropriées pour les protéger contre tout accès, modification ou suppression non autorisés.
 
-A titre d’exemple, pour assurer sécurité et confidentialité des données, Livi utilise des mécanismes d'authentification à deux facteurs (2FA), un cryptage de bout en bout (E2EE), vidéotransmission cryptée selon la norme AES-128 (cryptage AES avec des clés de 128 bits pour crypter l'audio et la vidéo) et HMAC-SHA1 pour vérifier l'intégrité des données, ou encore la norme Transport Layer Security (TLS) pour la transmission cryptée des données (protocole WebRTC et les processus de cryptage des codecs vidéo VP8, VP9 et H.264).  
+A titre d’exemple, pour assurer sécurité et confidentialité des données, Livi utilise des mécanismes d'authentification à deux facteurs (2FA), un cryptage de bout en bout (E2EE), vidéotransmission cryptée selon la norme AES-128 (cryptage AES avec des clés de 128 bits pour crypter l'audio et la vidéo) et HMAC-SHA1 pour vérifier l'intégrité des données, ou encore la norme Transport Layer Security (TLS) pour la transmission cryptée des données (protocole WebRTC et les processus de cryptage des codecs vidéo VP8, VP9 et H.264).
 
 S’il y a des incidents de sécurité qui peuvent vous affecter ou affecter vos données personnelles de manière plus significative par exemple lorsqu’il existe un risque de fraude ou d’usurpation d’identité, nous vous contacterons et vous indiquerons ce que vous pouvez faire pour réduire le risque.
 
