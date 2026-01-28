@@ -1,6 +1,6 @@
-Updated on 26 Jan 2023.
+Updated on 20 Jan 2026.
 
-Versions: [26 Jan 2023](https://withings.com/fr/fr/legal/legal-notice?version=20230126) , [18 Sep 2018](https://withings.com/fr/fr/legal/legal-notice?version=20180918) .
+Versions: [20 Jan 2026](https://withings.com/fr/fr/legal/legal-notice?version=20260120) , [26 Jan 2023](https://withings.com/fr/fr/legal/legal-notice?version=20230126) , [18 Sep 2018](https://withings.com/fr/fr/legal/legal-notice?version=20180918) .
 
 * * *
 
@@ -24,7 +24,7 @@ Adresse
 Contact
 -------
 
-Par message via [notre support](https://help.withings.com/)
+Par message via [notre support](https://help.withings.com/) ou envoyez un message à support@withings.com
 
 Directeur de publication
 ------------------------
@@ -48,4 +48,4 @@ Cookies
 
   
 
-Reference: legal-notice/20230126
+Reference: legal-notice/20260120
