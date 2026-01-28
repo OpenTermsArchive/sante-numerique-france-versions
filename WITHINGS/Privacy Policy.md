@@ -149,11 +149,13 @@ _A) UTILISATION DES PRODUITS ET SERVICES_
 *   BASE LÉGALE : Exécution du contrat (acceptation des [Conditions Générales d'Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/general-conditions).
 *   DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression de votre compte Withings App.
 
-**3\. Présentation graphique des données vous concernant via Withings App**
+**3\. Mise à disposition des données vous concernant via Withings App**
 
 *   DONNEES TRAITEES : Données physiologiques et techniques collectées lors de l’utilisation de nos Produits et Services. Pour plus de détails concernant les données de santé collectées par nos différents produits, veuillez vous référer à notre [Guide utilisateur](https://support.withings.com/hc/fr/articles/360015730074-Confidentialit%C3%A9-Guide-utilisateur).
-*   BASE LÉGALE : Exécution du contrat (acceptation des [Conditions Générales d'Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/general-conditions).
-*   DURÉE DE CONSERVATION : Les données sont conservées jusqu’à suppression de votre compte Withings. Vous avez aussi la possibilité de supprimer certaines Données via l’application Withings App.
+*   BASE LÉGALE :
+    
+    *   Nécessaire à l’exécution du contrat (acceptation des [Conditions Générales d'Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/general-conditions).
+    *   Consentement de l’utilisateur pour les données de santé.
 
 **4\. Partage facultatif des données personnelles avec des applications tierces**
 
