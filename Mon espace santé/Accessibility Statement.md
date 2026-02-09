@@ -21,8 +21,7 @@ Mon espace santé est partiellement conforme avec le Référentiel général d�
 
 Un audit de conformité a été réalisé en novembre 2025, suivi d’un contre-audit réalisé en janvier 2026.
 
-Résultat des tests
-------------------
+### Résultat des tests
 
 L’audit de conformité réalisé par le service Filière Digitale de l’Assurance maladie en date du 31 janvier 2026 sur le site en production révèle :
 
