@@ -159,6 +159,8 @@ Cette adresse e-mail est uniquement dédiée au sujet de l'accessibilité numér
 
 Pour toutes autres questions liées à Mon espace santé (activation, utilisation du service, …), veuillez contacter le [**3422**](tel:3422) (service gratuit + prix d’un appel).
 
+Depuis l'étranger, composez le [+33 1 64 90 34 22](tel:0033164903422)
+
 Nos conseillers sont disponibles par téléphone de 08h30 à 17h00 du lundi au vendredi.
 
 Vous pouvez également consulter l’[aide en ligne](https://www.monespacesante.fr/questions-frequentes) de Mon espace santé.
