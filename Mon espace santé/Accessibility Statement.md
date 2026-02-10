@@ -3,17 +3,6 @@ Déclaration d’accessibilité
 
 L’Assurance maladie s’engage à rendre son service accessible, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005. Cette déclaration d’accessibilité s’applique au site web : [monespacesante.fr](https://www.monespacesante.fr/).
 
-Identité du déclarant
----------------------
-
-Caisse nationale de l’Assurance Maladie
-
-26-50 avenue du Professeur André Lemierre
-
-75986 Paris Cedex 20
-
-Email : [**accessibilite.monespacesante.cnam@assurance-maladie.fr**](mailto:accessibilite.monespacesante.cnam@assurance-maladie.fr). Cette adresse e-mail est dédiée uniquement au sujet de l’accessibilité numérique du site [monespacesante.fr](https://www.monespacesante.fr/), toute autre demande ne sera pas traitée.
-
 État de conformité
 ------------------
 
@@ -150,8 +139,8 @@ Les vérifications de restitution de contenus ont été réalisées avec les com
     *   Formulaire de contact
 *   Plan du site
 
-Amélioration et contact
------------------------
+Retour d’information et contact
+-------------------------------
 
 Si vous rencontrez un problème en relation avec le handicap ou avec des outils d’adaptation tels que les lecteurs d’écran et synthèse vocale contactez-nous par e-mail à [**accessibilite.monespacesante.cnam@assurance-maladie.fr**](mailto:accessibilite.monespacesante.cnam@assurance-maladie.fr).
 
@@ -163,7 +152,9 @@ Depuis l'étranger, composez le [+33 1 64 90 34 22](tel:0033164903422)
 
 Nos conseillers sont disponibles par téléphone de 08h30 à 17h00 du lundi au vendredi.
 
-Vous pouvez également consulter l’[aide en ligne](https://www.monespacesante.fr/questions-frequentes) de Mon espace santé.
+Vous pouvez également consulter l’[aide en ligne](https://www.monespacesante.fr/questions-frequentes) de Mon espace santé.  
+  
+Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable du site web pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme
 
 Voies de recours
 ----------------
