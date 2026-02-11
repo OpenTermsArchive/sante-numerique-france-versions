@@ -4,7 +4,7 @@ Patients
 
 
 
-Version : Janvier 2026
+Version : Février 2026
 
 
 
@@ -3354,6 +3354,12 @@ Transfert transfrontalier : Afin de fournir ses Services, Doctolib peut avoir re
 
 
 
+Veuillez trouver en cliquant sur ce lien, la représentation des garanties (cartographie des
+
+transferts), conformément aux exigences de la certification Hébergeur de Données de Santé(HDS).
+
+
+
 Autres destinataires: Afin de satisfaire ses obligations légales, Doctolib peut transmettre desDonnées personnelles à des autorités publiques ou judiciaires.
 
 
@@ -3383,8 +3389,6 @@ Droit à la limitation du traitement (article 18 RGPD) : vous disposez du droit 
 
 
 Droit à la portabilité des données (article 20 RGPD): vous avez la possibilité de demander àrécupérer les Données à caractère personnel que vous avez fournies à Doctolib, pour un usagepersonnel ou pour les transmettre à un tiers de votre choix. Uniquement lorsque ces Données àcaractère font l’objet de traitements automatisés fondés sur votre consentement ou sur uncontrat.
-
-
 
 Droit d’opposition (article 21 RGPD) : vous pouvez vous opposer au traitement de vos Données àcaractère personnel à des fins de marketing direct et/ou vous opposer aux traitements effectuéssur le fondement de l’intérêt légitime de Doctolib.
 
@@ -3446,7 +3450,11 @@ Vous pouvez contacter votre Professionnel de santé qui agit comme Responsable d
 
 
 
-Doctolib met en œuvre les mesures techniques et organisationnelles appropriées liées à lasécurité conformément aux dispositions prévues par la Loi Informatique et Libertés et le RGPD, etvisant à garantir un niveau de sécurité approprié face aux risques présentés par le Traitement devos Données à caractère personnel. Pour évaluer le niveau de sécurité approprié, Doctolib tiendracompte des risques pouvant résulter d'une destruction accidentelle ou illicite, d'une corruption,d'une perte, d'une modification, d'une divulgation non autorisée ou de l'accès à des Données àcaractère personnel susceptibles d'être transmises, stockées ou autrement traitées,conformément aux dispositions de l'article 32 du RGPD.
+Doctolib met en œuvre les mesures techniques et organisationnelles appropriées liées à lasécurité conformément aux dispositions prévues par la Loi Informatique et Libertés et le RGPD, et
+
+visant à garantir un niveau de sécurité approprié face aux risques présentés par le Traitement devos Données à caractère personnel. Pour évaluer le niveau de sécurité approprié, Doctolib tiendracompte des risques pouvant résulter d'une destruction accidentelle ou illicite, d'une corruption,d'une perte, d'une modification, d'une divulgation non autorisée ou de l'accès à des Données àcaractère personnel susceptibles d'être transmises, stockées ou autrement traitées,conformément aux dispositions de l'article 32 du RGPD.
+
+
 
 Chaque Professionnel de santé qui reçoit des Données personnelles en lien avec son usage desServices garantit leur sécurité et confidentialité.
 
@@ -3482,8 +3490,6 @@ Dans le cas du rattachement d’un mineur au compte Utilisateur, l’Utilisateur
 
 - la possibilité pour l’Utilisateur mineur de consentir expressément au traitement de sesDonnées personnelles.
 
-
-
 13.QUELLES SONT LES CONDITIONS D’APPLICATION DELA POLITIQUE?
 
 
@@ -3492,9 +3498,7 @@ Doctolib est susceptible de modifier, compléter ou mettre à jour la présente 
 
 
 
-En cas de modifications significatives (relatives aux finalités de traitement, aux Donnéespersonnelles collectées, à l’exercice des droits, au transfert des Données personnelles) des
-
-termes de la présente Politique, Doctolib s’engage à vous en informer par tout moyen écrit dansun délai minimum de quinze (15) jours avant leur date de prise d’effet.
+En cas de modifications significatives (relatives aux finalités de traitement, aux Donnéespersonnelles collectées, à l’exercice des droits, au transfert des Données personnelles) destermes de la présente Politique, Doctolib s’engage à vous en informer par tout moyen écrit dansun délai minimum de quinze (15) jours avant leur date de prise d’effet.
 
 
 
@@ -3566,7 +3570,7 @@ Etats-Unis
 
 Entité contractante :
 
-Irlande
+Luxembourg
 
 
 
