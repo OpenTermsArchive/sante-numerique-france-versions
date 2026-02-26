@@ -152,7 +152,7 @@ _–
   
 DMS France utilise vos informations pour les finalités suivantes :_ 
 
-**_Mise à disposition de la plateforme_**_,_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
+**_Mise à disposition de la plateforme_**_, pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
 _**Support technique et communication,**_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
@@ -166,7 +166,9 @@ _Nous utilisons également des statistiques liées à l’utilisation de nos ser
 
 _**Administration et exécution des contrats,**_ _conclus entre vous et nous, notamment pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Livi, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
 
-_**Maintien d’une présence sur les réseaux sociaux,**_ _pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services.__Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
+_**Maintien d’une présence sur les réseaux sociaux,**_ _pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services.  
+  
+Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
 
 **_Préserver les intérêts juridiques de Livi_** _dans les procédures ou les litiges et pour enquêter sur l’utilisation illégale ou frauduleuse des services, les non paiement._
 
@@ -244,7 +246,7 @@ _Le Prestataire de soins utilise vos données personnelles pour les finalités s
 
 _**Fourniture de soins,**_ _conseils médicaux, prescriptions, délivrance de certificats médicaux, dépistage des infections et orientation dans le cadre de la prescription de soins, ainsi que la réalisation de tâches administratives liées aux soins telles que la gestion des paiements et des remboursements._
 
-_**L’exécution d’obligations légales**__,_ _comme fournir des informations de santé par exemple aux autorités publiques au regard d’enquêtes judiciaires, de protection de l’enfance, d’informations vaccinales à fournir au registre national de vaccination__._
+_**L’exécution d’obligations légales**__, comme fournir des informations de santé par exemple aux autorités publiques au regard d’enquêtes judiciaires, de protection de l’enfance, d’informations vaccinales à fournir au registre national de vaccination._
 
 _**Qualité et amélioration des services de santé,**_ _pour maintenir la meilleure qualité possible pour les soins que nous dispensons et d'améliorer constamment les outils que nous utilisons grâce à un travail systématique d'assurance qualité et d'amélioration de la qualité._
 
@@ -258,9 +260,9 @@ _Par exemple, pour générer des résumés de vos symptômes ou demandes afin d'
 
 _Nos logiciels n'interviennent pas dans, ni n'influencent, la prise de décisions médicales, qui reste du ressort exclusif de notre personnel médical._
 
-_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle ici._
+_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle_ [ici](https://www.livi.fr/livi-nouvelles-technologies/ "ici")_._
 
-_**Paiement et remboursement**__,_ _pour vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
+_**Paiement et remboursement**__, pour vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
 
 _**Recherches médicales,**_ _pour la participation à des projets de recherches, le cas échéant en collaboration avec des chercheurs externes, les établissements de santé du secteur public et les hôpitaux. Selon les cas, ces projets nécessiteront votre consentement explicite ou simplement que vous en soyez informé. Par ailleurs, les formalités auprès de la CNIL seront effectuées à chaque fois que cela est nécessaire._
 
@@ -619,7 +621,7 @@ _–
   
 DMS France utilise vos informations pour les finalités suivantes :_ 
 
-**_Mise à disposition de la plateforme_**_,_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
+**_Mise à disposition de la plateforme_**_, pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
 _**Support technique et communication,**_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
@@ -633,7 +635,9 @@ _Nous utilisons également des statistiques liées à l’utilisation de nos ser
 
 _**Administration et exécution des contrats,**_ _conclus entre vous et nous, notamment pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Livi, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
 
-_**Maintien d’une présence sur les réseaux sociaux,**_ _pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services.__Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
+_**Maintien d’une présence sur les réseaux sociaux,**_ _pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services.  
+  
+Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
 
 **_Préserver les intérêts juridiques de Livi_** _dans les procédures ou les litiges et pour enquêter sur l’utilisation illégale ou frauduleuse des services, les non paiement._
 
@@ -711,7 +715,7 @@ _Le Prestataire de soins utilise vos données personnelles pour les finalités s
 
 _**Fourniture de soins,**_ _conseils médicaux, prescriptions, délivrance de certificats médicaux, dépistage des infections et orientation dans le cadre de la prescription de soins, ainsi que la réalisation de tâches administratives liées aux soins telles que la gestion des paiements et des remboursements._
 
-_**L’exécution d’obligations légales**__,_ _comme fournir des informations de santé par exemple aux autorités publiques au regard d’enquêtes judiciaires, de protection de l’enfance, d’informations vaccinales à fournir au registre national de vaccination__._
+_**L’exécution d’obligations légales**__, comme fournir des informations de santé par exemple aux autorités publiques au regard d’enquêtes judiciaires, de protection de l’enfance, d’informations vaccinales à fournir au registre national de vaccination._
 
 _**Qualité et amélioration des services de santé,**_ _pour maintenir la meilleure qualité possible pour les soins que nous dispensons et d'améliorer constamment les outils que nous utilisons grâce à un travail systématique d'assurance qualité et d'amélioration de la qualité._
 
@@ -725,9 +729,9 @@ _Par exemple, pour générer des résumés de vos symptômes ou demandes afin d'
 
 _Nos logiciels n'interviennent pas dans, ni n'influencent, la prise de décisions médicales, qui reste du ressort exclusif de notre personnel médical._
 
-_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle ici._
+_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle_ [ici](https://www.livi.fr/livi-nouvelles-technologies/ "ici")_._
 
-_**Paiement et remboursement**__,_ _pour vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
+_**Paiement et remboursement**__, pour vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
 
 _**Recherches médicales,**_ _pour la participation à des projets de recherches, le cas échéant en collaboration avec des chercheurs externes, les établissements de santé du secteur public et les hôpitaux. Selon les cas, ces projets nécessiteront votre consentement explicite ou simplement que vous en soyez informé. Par ailleurs, les formalités auprès de la CNIL seront effectuées à chaque fois que cela est nécessaire._
 
