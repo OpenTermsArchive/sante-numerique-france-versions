@@ -14,8 +14,8 @@ Un audit de conformité a été réalisé en novembre 2025, suivi d’un contre-
 
 L’audit de conformité réalisé par le service Filière Digitale de l’Assurance maladie en date du 31 janvier 2026 sur le site en production révèle :
 
-*   Un taux global de conformité du site de 73%
-*   Un taux moyen de conformité par page de 94%
+*   Un taux global de conformité du site de 73 %
+*   Un taux moyen de conformité par page de 94 %
 
 Dans le détail :
 
@@ -154,7 +154,7 @@ Nos conseillers sont disponibles par téléphone de 08h30 à 17h00 du lundi au v
 
 Vous pouvez également consulter l’[aide en ligne](https://www.monespacesante.fr/questions-frequentes) de Mon espace santé.  
   
-Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable du site web pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme
+ 
 
 Voies de recours
 ----------------
