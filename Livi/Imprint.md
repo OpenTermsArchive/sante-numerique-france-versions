@@ -11,7 +11,7 @@ Responsable éditorial : Fredrik Edström
 Hébergeur des données
 ---------------------
 
-Hébergeur du site web et des données de santé : Amazon Web Services EMEA SARL (AWS) 5 Rue Plaetis L-2338 Luxembourg, hébergeur de données de santé certifié. [https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies](https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies "https//esantegouvfr/offres-services/hds/liste-des-herbergeurs-certifies")
+Hébergeur du site web et des données de santé : Amazon Web Services EMEA SARL (AWS) 5 Rue Plaetis L-2338 Luxembourg, hébergeur de données de santé certifié. [https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies](https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies "httpsesantegouvfroffres-serviceshdsliste-des-herbergeurs-certifies")
 
 Propriété intellectuelle
 ------------------------
@@ -41,7 +41,7 @@ Responsable éditorial : Fredrik Edström
 Hébergeur des données
 ---------------------
 
-Hébergeur du site web et des données de santé : Amazon Web Services EMEA SARL (AWS) 5 Rue Plaetis L-2338 Luxembourg, hébergeur de données de santé certifié. [https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies](https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies "https//esantegouvfr/offres-services/hds/liste-des-herbergeurs-certifies")
+Hébergeur du site web et des données de santé : Amazon Web Services EMEA SARL (AWS) 5 Rue Plaetis L-2338 Luxembourg, hébergeur de données de santé certifié. [https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies](https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies "httpsesantegouvfroffres-serviceshdsliste-des-herbergeurs-certifies")
 
 Propriété intellectuelle
 ------------------------
