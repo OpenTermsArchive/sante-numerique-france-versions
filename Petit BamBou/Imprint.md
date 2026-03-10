@@ -16,7 +16,7 @@ E-mail : [info@petitbambou.com](mailto:info@petitbambou.com)
 
 Téléphone : [+33 (0) 3 67 21 32 89](tel:+33367213289)
 
-Numéro d'immatriculation au registre du commerce et des sociétés : 922 300 538 00027
+Numéro d'immatriculation au registre du commerce et des sociétés : 922 300 58 000 35
 
 Numéro d’identification à la TVA: FR 039 223 00538
 
