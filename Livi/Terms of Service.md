@@ -91,7 +91,7 @@ Le coût de la Téléconsultation avec un Prestataire de soins, et les coûts ad
 
 Lorsque Livi facture des coûts additionnels, ceux-ci sont facturés à l'issue de la téléconsultation et sont dus en supplément du prix de celle-ci. Ils ne sont pas pris en charge par les organismes d’assurance maladie obligatoire et complémentaire, contrairement au coût de la téléconsultation lorsque le patient remplit les conditions d'une prise en charge.
 
-Le montant de ces coûts additionnels est indiqué dans les conditions tarifaires figurant sur la page “[tarifs”](https://www.livi.fr/tarifs-et-remboursement/ "tarifs”"), mais aussi à chaque fois qu’un patient choisit une prestation optionnelle, le montant des frais lui est rappelé avant qu’il confirme sa téléconsultation.
+Le montant de ces coûts additionnels est indiqué dans les conditions tarifaires figurant sur la page “[tarifs”](https://www.livi.fr/tarifs-et-remboursement/ "tarifs"), mais aussi à chaque fois qu’un patient choisit une prestation optionnelle, le montant des frais lui est rappelé avant qu’il confirme sa téléconsultation.
 
 Les conditions et modalités d’application de ces frais additionnels dépendent de votre profil utilisateur et de vos droits ouverts ‘par exemple selon les cas :
 
@@ -429,7 +429,7 @@ Le coût de la Téléconsultation avec un Prestataire de soins, et les coûts ad
 
 Lorsque Livi facture des coûts additionnels, ceux-ci sont facturés à l'issue de la téléconsultation et sont dus en supplément du prix de celle-ci. Ils ne sont pas pris en charge par les organismes d’assurance maladie obligatoire et complémentaire, contrairement au coût de la téléconsultation lorsque le patient remplit les conditions d'une prise en charge.
 
-Le montant de ces coûts additionnels est indiqué dans les conditions tarifaires figurant sur la page “[tarifs”](https://www.livi.fr/tarifs-et-remboursement/ "tarifs”"), mais aussi à chaque fois qu’un patient choisit une prestation optionnelle, le montant des frais lui est rappelé avant qu’il confirme sa téléconsultation.
+Le montant de ces coûts additionnels est indiqué dans les conditions tarifaires figurant sur la page “[tarifs”](https://www.livi.fr/tarifs-et-remboursement/ "tarifs"), mais aussi à chaque fois qu’un patient choisit une prestation optionnelle, le montant des frais lui est rappelé avant qu’il confirme sa téléconsultation.
 
 Les conditions et modalités d’application de ces frais additionnels dépendent de votre profil utilisateur et de vos droits ouverts ‘par exemple selon les cas :
 
