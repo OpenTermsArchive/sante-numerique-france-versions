@@ -407,11 +407,11 @@ _Pour plus d’informations sur la durée de la conservation de vos données per
 
 Vous disposez de droits concernant la protection de vos données, comme par exemple, le droit de corriger toute information erronée, le droit de recevoir une copie des données personnelles vous concernant que nous traitons ainsi que le droit de supprimer vos données personnelles.
 
-Pour exercer ces droits, consultez les paramètres de votre profil dans l’application Livi ou contactez-nous à l’adresse [privacy@livi.fr](mailto:privacy@kry.se "privacy@livifr").
+Pour exercer ces droits, consultez les paramètres de votre profil dans l’application Livi ou contactez-nous à l’adresse [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr").
 
 En savoir plus: 
 
-_En tant qu’individu, vous disposez de certains droits en relation avec vos données personnelles, comme décrit ci-dessous. Cependant, veuillez noter que ces droits ne sont pas inconditionnels et peuvent parfois ne pas s’appliquer à certains des  traitements de vos données à caractère personnel notamment ceux réalisées pour le compte des professionnels de santé, tenus à certaines obligations en termes de durée de conservation par exemple. Si vous souhaitez exercer l’un de vos droits,  veuillez visiter les paramètres de votre profil qui vous permettent d’en exercer automatiquement certains d’entre eux, ou contactez-nous à l’adresse_ [privacy@livi.fr](mailto:privacy@kry.se "privacy@livifr")_._
+_En tant qu’individu, vous disposez de certains droits en relation avec vos données personnelles, comme décrit ci-dessous. Cependant, veuillez noter que ces droits ne sont pas inconditionnels et peuvent parfois ne pas s’appliquer à certains des  traitements de vos données à caractère personnel notamment ceux réalisées pour le compte des professionnels de santé, tenus à certaines obligations en termes de durée de conservation par exemple. Si vous souhaitez exercer l’un de vos droits,  veuillez visiter les paramètres de votre profil qui vous permettent d’en exercer automatiquement certains d’entre eux, ou contactez-nous à l’adresse_ [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr")_._
 
 _Nous sommes tenus de répondre à votre demande d’exercice de vos droits dans un délai d’un mois à compter de votre manifestation. Si votre demande est complexe ou si un nombre important de demandes a été envoyé, nous sommes autorisés à prolonger ce délai d’un mois. Si nous estimons que nous ne pouvons pas faire ce que vous attendez de nous, nous vous informerons dans le mois suivant la réception de votre demande des raisons pour lesquelles nous ne pouvons pas y répondre._
 
@@ -456,7 +456,7 @@ Nous utilisons des cookies. Vous pouvez consulter notre politique relative aux c
 12) Comment nous contacter?
 ---------------------------
 
-Nous espérons que cette Politique de confidentialité a répondu à la plupart de vos questions. Cependant, si vous avez des interrogations ou remarques, ou si vous souhaitez exercer les droits décrits ci-dessus, vous pouvez nous contacter ou contacter notre DPO en envoyant un email à [privacy@livi.fr](mailto:privacy@kry.se "privacy@livifr"). Vous pouvez également utiliser les informations de contact ci-dessous.  
+Nous espérons que cette Politique de confidentialité a répondu à la plupart de vos questions. Cependant, si vous avez des interrogations ou remarques, ou si vous souhaitez exercer les droits décrits ci-dessus, vous pouvez nous contacter ou contacter notre DPO en envoyant un email à [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr"). Vous pouvez également utiliser les informations de contact ci-dessous.  
   
 Digital Medical Supply France  
 33 rue du Louvre  
@@ -876,11 +876,11 @@ _Pour plus d’informations sur la durée de la conservation de vos données per
 
 Vous disposez de droits concernant la protection de vos données, comme par exemple, le droit de corriger toute information erronée, le droit de recevoir une copie des données personnelles vous concernant que nous traitons ainsi que le droit de supprimer vos données personnelles.
 
-Pour exercer ces droits, consultez les paramètres de votre profil dans l’application Livi ou contactez-nous à l’adresse [privacy@livi.fr](mailto:privacy@kry.se "privacy@livifr").
+Pour exercer ces droits, consultez les paramètres de votre profil dans l’application Livi ou contactez-nous à l’adresse [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr").
 
 En savoir plus: 
 
-_En tant qu’individu, vous disposez de certains droits en relation avec vos données personnelles, comme décrit ci-dessous. Cependant, veuillez noter que ces droits ne sont pas inconditionnels et peuvent parfois ne pas s’appliquer à certains des  traitements de vos données à caractère personnel notamment ceux réalisées pour le compte des professionnels de santé, tenus à certaines obligations en termes de durée de conservation par exemple. Si vous souhaitez exercer l’un de vos droits,  veuillez visiter les paramètres de votre profil qui vous permettent d’en exercer automatiquement certains d’entre eux, ou contactez-nous à l’adresse_ [privacy@livi.fr](mailto:privacy@kry.se "privacy@livifr")_._
+_En tant qu’individu, vous disposez de certains droits en relation avec vos données personnelles, comme décrit ci-dessous. Cependant, veuillez noter que ces droits ne sont pas inconditionnels et peuvent parfois ne pas s’appliquer à certains des  traitements de vos données à caractère personnel notamment ceux réalisées pour le compte des professionnels de santé, tenus à certaines obligations en termes de durée de conservation par exemple. Si vous souhaitez exercer l’un de vos droits,  veuillez visiter les paramètres de votre profil qui vous permettent d’en exercer automatiquement certains d’entre eux, ou contactez-nous à l’adresse_ [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr")_._
 
 _Nous sommes tenus de répondre à votre demande d’exercice de vos droits dans un délai d’un mois à compter de votre manifestation. Si votre demande est complexe ou si un nombre important de demandes a été envoyé, nous sommes autorisés à prolonger ce délai d’un mois. Si nous estimons que nous ne pouvons pas faire ce que vous attendez de nous, nous vous informerons dans le mois suivant la réception de votre demande des raisons pour lesquelles nous ne pouvons pas y répondre._
 
@@ -925,7 +925,7 @@ Nous utilisons des cookies. Vous pouvez consulter notre politique relative aux c
 12) Comment nous contacter?
 ---------------------------
 
-Nous espérons que cette Politique de confidentialité a répondu à la plupart de vos questions. Cependant, si vous avez des interrogations ou remarques, ou si vous souhaitez exercer les droits décrits ci-dessus, vous pouvez nous contacter ou contacter notre DPO en envoyant un email à [privacy@livi.fr](mailto:privacy@kry.se "privacy@livifr"). Vous pouvez également utiliser les informations de contact ci-dessous.  
+Nous espérons que cette Politique de confidentialité a répondu à la plupart de vos questions. Cependant, si vous avez des interrogations ou remarques, ou si vous souhaitez exercer les droits décrits ci-dessus, vous pouvez nous contacter ou contacter notre DPO en envoyant un email à [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr"). Vous pouvez également utiliser les informations de contact ci-dessous.  
   
 Digital Medical Supply France  
 33 rue du Louvre  
