@@ -130,6 +130,7 @@ Les vérifications de restitution de contenus ont été réalisées avec les com
     *   Nous contacter
     *   Formulaire de contact
 *   Plan du site
+    
 
 Retour d’information et contact
 -------------------------------
@@ -138,15 +139,11 @@ Si vous rencontrez un problème en relation avec le handicap ou avec des outils 
 
 Cette adresse e-mail est uniquement dédiée au sujet de l'accessibilité numérique de Mon espace santé, **aucune autre demande ne sera traitée**.
 
-Pour toutes autres questions liées à Mon espace santé (activation, utilisation du service, …), veuillez contacter le [**3422**](tel:3422) (service gratuit + prix d’un appel).
+En cas de difficulté ou pour toute question relative au service Mon espace santé, vous pouvez contacter le service d’assistance :
 
-Depuis l'étranger, composez le [+33 1 64 90 34 22](tel:0033164903422)
-
-Nos conseillers sont disponibles par téléphone de 08h30 à 17h00 du lundi au vendredi.
-
-Vous pouvez également consulter l’[aide en ligne](https://www.monespacesante.fr/questions-frequentes) de Mon espace santé.  
-  
- 
+*   Par téléphone au numéro [3422](tel:3422) (service gratuit + prix d’un appel, disponible de 08h30 à 17h30 du lundi au vendredi), depuis l'étranger, composez le [+33 1 64 90 34 22](tel: +33164903422) ;
+*   Via ce [lien](https://monespacesante.elioz.fr/3.0/?hash=2463c0eea4bd451816831e4affb28061) pour les personnes sourdes, malentendantes ou aphasiques ;
+*   Par internet via le formulaire dédié disponible depuis la rubrique d’aide après connexion à votre espace Mon espace santé.
 
 Voies de recours
 ----------------
