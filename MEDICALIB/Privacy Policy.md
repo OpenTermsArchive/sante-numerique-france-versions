@@ -581,8 +581,8 @@ Pour la gestion des cookies et de vos choix, la configuration de chaque navigate
 **À titre d’exemple :**  
   
 • Pour **[Safari](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac)**™  
-• Pour Chrome™  
-• Pour Firefox™
+• Pour **[Chrome](https://support.google.com/chrome/answer/95647?hl=fr&co=GENIE.Platform%3DDesktop)**™  
+• Pour **[Firefox](https://support.mozilla.org/fr/kb/effacer-cookies-donnees-site-firefox)**™
 
 20\. Paramétrage du système d’exploitation de votre smartphone  
 
