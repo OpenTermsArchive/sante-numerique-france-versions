@@ -710,7 +710,7 @@ autorisé à accéder.
 
 AUTH_SESSION
 
-\_ID (Doctolib) Ce cookie stocke un identifiant unique pour
+\_ID (Doctolib) Ce Cookie stocke un identifiant unique pour
 
 la session utilisateur en cours. Il garantit la
 
@@ -732,7 +732,7 @@ AUTH_SESSION
 
 (Doctolib)
 
-Ce cookie stocke un identifiant unique pour
+Ce Cookie stocke un identifiant unique pour
 
 la session utilisateur en cours, garantissant
 
@@ -750,7 +750,7 @@ Session
 
 KC_RESTART
 
-(Doctolib) Ce cookie est créé au début du processus
+(Doctolib) Ce Cookie est créé au début du processus
 
 de connexion et contient un jeton qui est
 
@@ -768,7 +768,7 @@ Session
 
 Dl_frcid
 
-(Doctolib) Ce cookie protège le système
+(Doctolib) Ce Cookie protège le système
 
 d’authentification de Doctolib contre les
 
@@ -786,15 +786,37 @@ CAPTCHA à chaque étape
 
 
 
+RevenueCat
+
+SDK (Doctolib) Ce Cookie permet à Doctolib de gérer les
+
+abonnements payants souscrits par
+
+l'utilisateur via l'App Store.
+
+
+
+Données collectées
+
+: voir la Politique de
+
+protection des
+
+données
+
+personnelles.
+
+
+
 Cookies de mesure d’audience
-
-
 
 Doctolib utilise des Cookies de mesure d’audience afin d’adapter la Plateforme Doctolib aux demandes etbesoins des utilisateurs/visiteurs, de mesurer le nombre de visites, le nombre de pages consultées,l’activité des utilisateurs/visiteurs sur la Plateforme Doctolib, ainsi qu’à des fins d’analyses et d’étudesstatistiques.
 
 
 
 Ces Cookies sont utilisés pour les finalités précisées ci-dessous lorsque l’utilisateur/le visiteur accepte lafinalité de mesure d’audience.
+
+
 
 Nom du Cookie et
 
@@ -894,8 +916,6 @@ https://events-logs.doctolib.com/.
 
 Session
 
-
-
 Altid Ce Cookie permet de suivre au cours d’une
 
 session les actions sur les contenus affichés
@@ -910,11 +930,11 @@ services. Les informations collectées par le
 
 Cookie sont remontées via l’adresse
 
+https://events-logs.doctolib.com/.
+
 
 
 13 mois
-
-https://events-logs.doctolib.com/.
 
 
 
@@ -1000,6 +1020,10 @@ Plateforme Doctolib (par
 
 exemple, les vues et les clics), y
 
+
+
+13 mois
+
 compris des données de santé,
 
 lors d’une session, afin de
@@ -1013,10 +1037,6 @@ qualité de nos services. Les
 informations collectées par les
 
 Cookies sont envoyées à
-
-
-
-13 mois
 
 https://events-logs.doctolib.com.
 
@@ -1094,6 +1114,10 @@ session les actions sur les contenus affichés
 
 sur la Plateforme Doctolib (p. ex. vues et
 
+
+
+13 mois
+
 clics) afin de générer des rapports
 
 statistiques communicables à nos
@@ -1107,8 +1131,6 @@ par le cookie sont remontées via l’adresse
 https://events-logs.doctolib.com/.
 
 
-
-13 mois
 
 esid (Doctolib) Ce Cookie permet de suivre au cours d’une
 
@@ -1210,9 +1232,9 @@ Doctolib lorsque l'utilisateur l'a fermée.
 
 15 jours
 
-
-
 Cookies de personnalisation des campagnes deprévention
+
+
 
 Doctolib utilise des Cookies afin d’afficher des campagnes de prévention personnalisées sur laPlateforme Doctolib en fonction des utilisateurs.
 
@@ -1308,13 +1330,13 @@ Doctolib sur Google afin de mesurer la
 
 performance de ces campagnes, une fois
 
-seulement que l'utilisateur a cliqué sur une
-
-publicité.
-
 
 
 30 jours
+
+seulement que l'utilisateur a cliqué sur une
+
+publicité.
 
 
 
@@ -1332,13 +1354,13 @@ Doctolib sur Meta afin de mesurer la
 
 performance de ces campagnes, une fois
 
-
-
-30 jours
-
 seulement que l'utilisateur a cliqué sur une
 
 publicité.
+
+
+
+30 jours
 
 
 
@@ -1388,8 +1410,6 @@ Si votre terminal est utilisé par plusieurs personnes et lorsqu'un même termin
 
 Le partage avec d'autres personnes de l'utilisation de votre terminal et la configuration des paramètres devotre navigateur à l'égard des Cookies, relèvent de votre libre choix et de votre responsabilité.
 
-
-
 Comment désactiver les Cookies ?
 
 
@@ -1401,6 +1421,8 @@ Vous disposez de plusieurs possibilités pour gérer les Cookies.
 Vous pouvez tout d’abord utiliser notre module de Gestion des cookies, dont le lien est rappelé en bas de
 
 chaque page de la Plateforme Doctolib. Ce module vous permet d’indiquer vos préférences soitglobalement pour la Plateforme Doctolib, soit service par service.
+
+
 
 Vous pouvez également configurer votre logiciel de navigation de manière à ce que les Cookies soientrejetés, soit systématiquement, soit selon leur émetteur.
 
@@ -1440,4 +1462,4 @@ Si vous avez des questions ou des réclamations concernant le respect par Doctol
 
 
 
-Date : Octobre 2025
+Date : Avril 2026
