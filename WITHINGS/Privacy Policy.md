@@ -1,11 +1,13 @@
-Updated on 04 Mar 2026.
+Updated on 24 Apr 2026.
 
-Versions: [04 Mar 2026](https://withings.com/fr/fr/legal/privacy-policy?version=20260304) , [05 Jan 2026](https://withings.com/fr/fr/legal/privacy-policy?version=20260105) , [05 Nov 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251105) , [30 Oct 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251030) , [04 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250804) , [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
+Versions: [24 Apr 2026](https://withings.com/fr/fr/legal/privacy-policy?version=20260424) , [04 Mar 2026](https://withings.com/fr/fr/legal/privacy-policy?version=20260304) , [05 Jan 2026](https://withings.com/fr/fr/legal/privacy-policy?version=20260105) , [05 Nov 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251105) , [30 Oct 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20251030) , [04 Aug 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250804) , [26 Jun 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250626) , [19 May 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250519) , [20 Feb 2025](https://withings.com/fr/fr/legal/privacy-policy?version=20250220) , [31 Dec 2024](https://withings.com/fr/fr/legal/privacy-policy?version=20241231) , [11 Aug 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230811) , [23 Feb 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230223) , [26 Jan 2023](https://withings.com/fr/fr/legal/privacy-policy?version=20230126) , [09 Nov 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20211109) , [10 Mar 2021](https://withings.com/fr/fr/legal/privacy-policy?version=20210310) , [16 Dec 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201216) , [03 Nov 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20201103) , [09 Mar 2020](https://withings.com/fr/fr/legal/privacy-policy?version=20200309) , [15 Oct 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20191015) , [06 Mar 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190306) , [31 Jan 2019](https://withings.com/fr/fr/legal/privacy-policy?version=20190131) , [20 Jun 2017](https://withings.com/fr/fr/legal/privacy-policy?version=20170620) .
 
 * * *
 
 POLITIQUE DE CONFIDENTIALITÉ WITHINGS
 =====================================
+
+La politique de confidentialité de Withings (la présente « Politique de confidentialité ») décrit la manière dont Withings SAS (« Withings », « nous », « notre » ou « nos ») collecte, traite, conserve et divulgue vos données à caractère personnel lorsqu’elle fournit des services aux utilisateurs par le biais de son site web, de ses applications, de ses produits et de ses services (nos « Services »).
 
 LE RESPECT DE VOS DONNÉES PERSONNELLES, AU COEUR DE NOS SOLUTIONS
 -----------------------------------------------------------------
@@ -35,7 +37,7 @@ La présente politique vise à vous informer des traitements opérés sur vos Do
 
 _III. VOTRE CONSENTEMENT_
 
-Votre consentement est recueilli pour des traitements spécifiques. Vous pouvez le retirer à tout moment.
+Votre consentement est recueilli pour des traitements spécifiques. Vous pouvez le retirer à tout moment. Conformément à l’article 7 du RGPD, le retrait du consentement ne s’applique qu’à l’avenir et ne compromet pas la licéité du traitement effectué avant ce retrait.
 
 _IV. TRAITEMENT DES DONNÉES PERSONNELLES_
 
@@ -51,7 +53,7 @@ Les Données Personnelles vous concernant sont hébergées en France et les Donn
 
 _VII. EXERCICE DE VOS DROITS_
 
-Vous pouvez exercer vos droits en vertu de RGPD en nous contactant à l'adresse privacy@withings.com. Vous pouvez également déposer une plainte auprès de l'autorité de contrôle de protection des données.
+Vous pouvez exercer vos droits en vertu du RGPD en contactant le délégué à la protection des données à l'adresse : Withings - DPO, 2 rue Maurice Hartmann - 92130 Issy Les Moulineaux ou par mail à privacy@withings.com. Vous pouvez également déposer une plainte auprès de l'autorité de contrôle de protection des données.
 
 _VIII. POLITIQUE DE CONFIDENTIALITÉ DES UTILISATEURS PATIENTS_
 
@@ -117,11 +119,14 @@ Votre consentement est recueilli pour des traitements spécifiques. Vous pouvez 
 
 **3.1. LE RECUEIL DE VOTRE CONSENTEMENT.** Nous recueillons votre consentement pour le traitement des données pour :
 
-*   1.  La création de votre compte Withings
+*   1.  La mise à disposition de vos données de santé (lors de la création de votre compte) ;
 *   2.  La participation à nos programmes de recherche ;
 *   3.  Le partage de vos données à des applications partenaire tierces ;
 *   4.  L’activation de la double authentification (2FA) ;
-*   5.  Les communications marketing.
+*   5.  Les communications marketing;
+*   6.  Affichage du parcours effectué lors d’une activité via l’application Withings App ;
+*   7.  Programmes Withings+ et personnalisation de l’expérience utilisateur ;
+*   8.  L’utilisation d’algorithmes d’intelligence artificielle pour vous permettre une expérience personnalisée.
 
 **3.2. LE RETRAIT DE VOTRE CONSENTEMENT.** tout moment, vous pouvez retirer votre consentement. Pour cela, il vous suffit de :
 
@@ -130,6 +135,9 @@ Votre consentement est recueilli pour des traitements spécifiques. Vous pouvez 
 *   3.  Supprimer la connexion avec les applications tierces ;
 *   4.  Supprimer la double authentification dans les paramètres de votre compte ([Android](https://support.withings.com/hc/fr/articles/4409339333009) / [iOS](https://support.withings.com/hc/fr/articles/5281114453137)) ;
 *   5.  Décocher “Offre promotionnelle” dans votre centre des notifications ([Android](https://support.withings.com/hc/fr/articles/360001399627) / [iOS](https://support.withings.com/hc/fr/articles/360001399187-Health-Mate-App-iOS-G%C3%A9rer-mes-notifications)).
+*   6.  Supprimer le parcours via l’application ;
+*   7.  Se désabonner du service Withings+ via les paramètres de l’application ;
+*   8.  Désactiver cette fonctionnalité via les paramètres de l’application.
 
 ### IV. TRAITEMENT DES DONNÉES PERSONNELLES
 
@@ -151,7 +159,7 @@ _A) UTILISATION DES PRODUITS ET SERVICES_
 
 **3\. Mise à disposition des données vous concernant via Withings App**
 
-*   DONNEES TRAITEES : Données physiologiques et techniques collectées lors de l’utilisation de nos Produits et Services. Pour plus de détails concernant les données de santé collectées par nos différents produits, veuillez vous référer à notre [Guide utilisateur](https://support.withings.com/hc/fr/articles/360015730074-Confidentialit%C3%A9-Guide-utilisateur).
+*   DONNEES TRAITEES : Données physiologiques et techniques collectées lors de l’utilisation de nos Produits et Services. Pour plus de détails concernant les données de santé collectées par nos différents produits, veuillez vous référer à notre [Guide utilisateur](https://support.withings.com/hc/fr/articles/360015730074-Confidentialit%C3%A9-Guide-utilisateur) (section “Données personnelles”).
 *   BASE LÉGALE :
     
     *   Nécessaire à l’exécution du contrat (acceptation des [Conditions Générales d'Utilisation)](https://www.withings.com/fr/fr/legal/sales-conditions#/fr/fr/legal/general-conditions).
@@ -463,4 +471,4 @@ Applicabilité des conditions générales. La présente politique de confidentia
 
   
 
-Reference: privacy-policy/20260304
+Reference: privacy-policy/20260424
