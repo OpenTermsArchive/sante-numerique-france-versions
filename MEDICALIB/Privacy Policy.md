@@ -11,8 +11,8 @@ Pour toute information sur la protection des données personnelles, vous pouvez 
   
 Cette Politique est complétée par :
 
-*   Nos mentions légales : **[lien](https://www.medicalib.fr/mentions-legales/)**
-*   Nos CGU/CGV : **[lien](https://www.medicalib.fr/conditions-generales-utilisation/)**
+1.  Nos mentions légales : **[lien](https://www.medicalib.fr/mentions-legales/)**
+2.  Nos CGU/CGV : **[lien](https://www.medicalib.fr/conditions-generales-utilisation/)**
 
 1\. Quelques définitions :
 --------------------------
@@ -152,20 +152,19 @@ Dans les formulaires de collecte de Données à caractère personnel sur le site
 
 Pour délivrer nos services, nous collectons des Données à caractère personnel sur les individus et sociétés. La collecte de vos Données peut s’effectuer lors de :
 
-*   Votre navigation ou visites sur nos Sites et applications : **[www.medicalib.fr](http://www.medicalib.fr/)** ,**[www.pro.medicalib.fr](https://pro.medicalib.fr/)**, **[www.saas.medicalib.fr](https://saas.medicalib.fr/)** ;
-*   L’utilisation de nos services ;
-*   La création d’une demande de soins en ligne ;
-*   La création d’un Compte professionnel en ligne ;
-*   La connexion à l’espace professionnel en ligne ;
-*   L’utilisation du chat présent sur le site en ligne ;
-*   La réception et le suivi d’avis laissés par nos patients ou des professionnels ;
-*   Votre réponse ou participation à une enquête de satisfaction ;
-*   Nos échanges et vos actions sur nos pages de réseaux sociaux : Facebook, Twitter, LinkedIn et Instagram ;
-*   Une demande de renseignements, d’un échange téléphonique ou d’une prise de contact avec l’un de nos collaborateurs ;
-*   Votre paiement en ligne ;
-*   La visite du Blog **[https://blog.medicalib.fr/](https://www.medicalib.fr/blog/)** et la mise en ligne de commentaires ;
-*   Votre participation à des événements organisés par l’entreprise.   
-    
+1.  Votre navigation ou visites sur nos Sites et applications : **[www.medicalib.fr](https://www.medicalib.fr/)** ,**[www.pro.medicalib.fr](https://pro.medicalib.fr/)**, **[www.saas.medicalib.fr](https://saas.medicalib.fr/)** ;
+2.  L’utilisation de nos services ;
+3.  La création d’une demande de soins en ligne ;
+4.  La création d’un Compte professionnel en ligne ;
+5.  La connexion à l’espace professionnel en ligne ;
+6.  L’utilisation du chat présent sur le site en ligne ;
+7.  La réception et le suivi d’avis laissés par nos patients ou des professionnels ;
+8.  Votre réponse ou participation à une enquête de satisfaction ;
+9.  Nos échanges et vos actions sur nos pages de réseaux sociaux : Facebook, Twitter, LinkedIn et Instagram ;
+10.  Une demande de renseignements, d’un échange téléphonique ou d’une prise de contact avec l’un de nos collaborateurs ;
+11.  Votre paiement en ligne ;
+12.  La visite du Blog **[https://blog.medicalib.fr/](https://www.medicalib.fr/blog/)** et la mise en ligne de commentaires ;
+13.  Votre participation à des événements organisés par l’entreprise.
 
 5\. Vos droits
 --------------
