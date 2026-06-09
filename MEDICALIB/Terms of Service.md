@@ -131,7 +131,7 @@ Les présentes Conditions Générales d'Utilisation s'appliquent à tous les Ser
   
 Les CGU sont à tout moment consultables sur le Site et, le cas-échéant, sur l’Application mobile à l’adresse électronique suivante :
 
-*   [https://www.medicalib.fr/conditions-generales-utilisation](https://www.medicalib.fr/conditions-generales-utilisation)
+*   [https://www.medicalib.fr/conditions-generales-utilisation/](https://www.medicalib.fr/conditions-generales-utilisation/)
 
   
 La simple connexion par toute personne au Site et, le cas-échéant, à l’Application mobile et/ou aux Services implique l'acceptation pleine et entière des CGU.
@@ -390,7 +390,7 @@ Dans le cas où une demande est présentée par un Tiers, l'Utilisateur doit met
 Article 9 - Données personnelles
 --------------------------------
 
-Nous sommes soucieux de la protection des données personnelles qui nous sont confiées. Nous nous engageons à assurer le meilleur niveau de protection de vos données personnelles en conformité avec le RGPD ‘Règlement Général sur la Protection des Données’ Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 et la Loi Informatique et Libertés loi n° 2018-493 du 20 juin 2018, promulguée le 21 juin 2018 qui a modifié la Loi Informatique et Libertés du 6 janvier 1978. Pour toute information sur la protection de vos données personnelles et l’exercice de vos droits, vous pouvez vous reporter à notre politique [www.medicalib.fr/donnees-personnelles](https://www.medicalib.fr/www.medicalib.fr/donnees-personnelles) ou nous adresser un mail à [dpo@medicalib.fr](mailto:dpo@medicalib.fr).
+Nous sommes soucieux de la protection des données personnelles qui nous sont confiées. Nous nous engageons à assurer le meilleur niveau de protection de vos données personnelles en conformité avec le RGPD ‘Règlement Général sur la Protection des Données’ Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 et la Loi Informatique et Libertés loi n° 2018-493 du 20 juin 2018, promulguée le 21 juin 2018 qui a modifié la Loi Informatique et Libertés du 6 janvier 1978. Pour toute information sur la protection de vos données personnelles et l’exercice de vos droits, vous pouvez vous reporter à notre politique [www.medicalib.fr/donnees-personnelles/](https://www.medicalib.fr/www.medicalib.fr/donnees-personnelles/) ou nous adresser un mail à [dpo@medicalib.fr](mailto:dpo@medicalib.fr).
 
   
 Aucune Donnée à caractère personnel n’est collectée à l’insu de l’Utilisateur sur le Site et, le cas-échéant, sur l’Application.
