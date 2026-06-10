@@ -32,7 +32,7 @@ Thomas Fatôme (directeur général)
 
 ### Directeur de publication pour le Ministère de la Santé, des Familles, de l'Autonomie et des Personnes handicapées
 
-Hela Ghariani (Déléguée au numérique en santé)
+ David Sainati (Délégué au numérique en santé par intérim)
 
 ### Hébergement
 
@@ -317,7 +317,7 @@ Il est offert à l’Usager la possibilité de demander, avant la clôture de so
 
 La clôture du profil de l’Usager n’entraine pas la suppression des données qu’il contient, sauf si l’Usager en fait expressément la demande en cochant une case dédiée à cet effet.
 
-Si l’Usager décide de réactiver son profil mon espace santé après l’avoir clôturé sans avoir demandé la suppression des données, il retrouvera les données qu’il contenait lors de sa clôture lors de sa prochaine réactivation.
+Si l’Usager décide de réactiver son profil Mon espace santé après l’avoir clôturé sans avoir demandé la suppression des données, il retrouvera les données qu’il contenait lors de sa clôture lors de sa prochaine réactivation.
 
 Afin de confirmer la demande de clôture du profil Mon espace santé de l’Usager, ce dernier devra saisir son mot de passe.
 
@@ -361,7 +361,7 @@ Le service de messagerie de santé sécurisée mis à la disposition de l’Usag
 *   La réponse au message d’un Professionnel de Santé, avec possibilité d’inclure des pièces jointes issues du terminal de l’Usager (ordinateur, téléphone portable etc.) ou de Mon espace santé ;
 *   L’envoi d’un message ou le partage d’un document avec une pharmacie ayant une messagerie compatible avec Mon espace santé.
 
-L’Usager ou son représentant légal est informé que lorsqu’il échange avec une messagerie partagée entre plusieurs professionnels (boites aux lettres organisationnelle mutualisées pour une pharmacie, un laboratoire, etc.), les professionnels habilités et participant à sa prise en charge peuvent avoir accès à ses messages dans le respect des dispositions du code de la santé publique relatives à l’échange et au partage de données, notamment l’article L.1110-4 du Code de la santé publique.
+L’Usager ou son représentant légal est informé que lorsqu’il échange avec une messagerie partagée entre plusieurs professionnels (boites aux lettres organisationnelles mutualisées pour une pharmacie, un laboratoire, etc.), les professionnels habilités et participant à sa prise en charge peuvent avoir accès à ses messages dans le respect des dispositions du code de la santé publique relatives à l’échange et au partage de données, notamment l’article L.1110-4 du Code de la santé publique.
 
 Les messages reçus dans la Messagerie de santé de Mon espace santé ne peuvent pas être transférés à d’autres messageries hébergées hors de l’espace de confiance. Un Professionnel de santé peut transférer un message vers un autre Professionnel de santé, à la condition d’en informer préalablement l’Usager ou son représentant légal ou de recueillir son consentement préalable, dans les conditions fixées par l’article L.1110-4 du Code de la santé publique relatif au secret médical.
 
@@ -459,7 +459,7 @@ Les Professionnels de santé peuvent uniquement consulter les documents de l'Usa
 La fonctionnalité permet aux Usagers de :
 
 *   Consulter les documents de la rubrique Documents ;
-*   Constituer des dossiers afin de regrouper ses documents;
+*   Constituer des dossiers afin de regrouper ses documents ;
 *   Ajouter, modifier ou supprimer tous leurs documents personnels pour qu’ils soient portés à la connaissance des Professionnels de santé habilités à y accéder. Si l’Usager était titulaire d’un DMP avant la création de Mon espace santé, les documents masqués dans son DMP, préalablement à la création de Mon espace santé, conserveront leurs statuts et ne seront donc pas consultables (sauf par le médecin traitant déclaré par l’Usager, qui conserve la possibilité de consulter l’intégralité du DMP) ;
 *   Partager un document figurant dans la rubrique Documents, avec un Professionnel de santé avec lequel l’Usager a déjà échangé dans la messagerie de santé ou avec une pharmacie ayant une messagerie compatible avec Mon espace santé ;
 *   Demander lors d'une consultation avec un Professionnel de santé pour un Usager mineur, à ce que certaines informations soient masquées et non consultables par ses représentants légaux ;
@@ -557,18 +557,21 @@ La rubrique Prévention de Mon espace santé contient les données suivantes :
 
 *   Examens de prévention et vaccinations à réaliser ;
 *   Les habitudes de vie (alimentation, activité physique, sommeil, écrans, alcool et tabac) ;
-*   Le bilan de prévention aux âges clés  ;
+*   Le bilan de prévention aux âges clés ;
+*   Le questionnaire ICOPE ;
 *   Des articles et conseils de prévention.   
      
 
-Dans le cadre du dispositif « Mon bilan prévention », des Auto-questionnaires sont proposés à l’Usager en fonction de sa tranche d’âge (18-25 ans, 45-50 ans, 60-65 ans, 70-75 ans).
+Dans le cadre du dispositif « Mon bilan prévention », des Auto-questionnaires sont proposés à l’Usager en fonction de sa tranche d’âge (18-25 ans, 45-50 ans, 60-65 ans, 70-75 ans)(article L.1411-6-2 du CSP).
 
-Les Usagers peuvent enregistrer les réponses à ces Auto-questionnaires dans la rubrique « documents de santé » afin de les partager avec leurs professionnels de santé en prévision d’une consultation dite « bilan de prévention ».
+Dans le cadre du programme de dépistage précoce et de prévention de la perte d'autonomie (le programme ICOPE de l’OMS, l’Organisation Mondiale de la Santé), un Auto-questionnaire est proposé aux Usagers âgés de 60 ans et plus (article L.1411-6-3 du CSP).
+
+Les Usagers peuvent enregistrer les réponses à ces Auto-questionnaires dans la rubrique « documents de santé » afin de les partager avec leurs professionnels de santé en prévision d’une consultation.
 
 7 Catalogue de services référencés
 ----------------------------------
 
-Conformément à l’article R1111-27 du code de la santé publique Mon espace santé comprend un catalogue d'outils et services référencés.
+Conformément à l’article R1111-27 du code de la santé publique, Mon espace santé comprend un catalogue d'outils et services référencés.
 
 Ce catalogue a vocation à référencer des outils et services numériques et applications développés pour accompagner les usagers et les aider à mieux gérer leur santé.
 
@@ -645,8 +648,8 @@ Il accède à un formulaire lui permettant de saisir les informations sur ce rap
 
 L’Usager recevra une notification à l’échéance du rappel, par e-mail et sur son smartphone s’il a installé l'application mobile.
 
-9\. Appel au support
---------------------
+9\. Contact du support
+----------------------
 
 ### 9.1 Support pour le service « Mon espace santé »
 
@@ -822,7 +825,9 @@ Si l’Usager constate que les informations présentes dans Mon espace santé ne
 
 L’utilisation frauduleuse de l’identifiant et du mot de passe d’un tiers Usager du service peut causer un préjudice et entraîner des poursuites pénales.
 
-Avant toute utilisation du service, l’Usager doit s’assurer, d’une part, que le navigateur ou le réseau à partir duquel il accèdera au service (réseau domestique ou réseau de l’opérateur de téléphonie mobile) et, d’autre part, que l’environnement d’exploitation des appareils sur lesquels l’application est installée, permettent l’accès dans une configuration sécurisée au service. Il doit également vérifier que la configuration informatique utilisée et l’environnement d’exploitation du ou des appareils utilisés sont sécurisés, et ne contiennent notamment aucun virus, et qu’ils sont en bon état de fonctionnement. La consultation des données de Mon espace santé est réservée à l’Usager, aux membres de l’équipe de soins et à tout Professionnel de santé autorisé par le titulaire ou son représentant légal.
+Avant toute utilisation du service, l’Usager doit s’assurer, d’une part, que le navigateur ou le réseau à partir duquel il accèdera au service (réseau domestique ou réseau de l’opérateur de téléphonie mobile) et, d’autre part, que l’environnement d’exploitation des appareils sur lesquels l’application est installée, permettent l’accès dans une configuration sécurisée au service. Il doit également vérifier que la configuration informatique utilisée et l’environnement d’exploitation du ou des appareils utilisés sont sécurisés, et ne contiennent notamment aucun virus, et qu’ils sont en bon état de fonctionnement.
+
+La consultation des données de Mon espace santé est réservée à l’Usager, aux membres de l’équipe de soins et à tout Professionnel de santé autorisé par le titulaire ou son représentant légal.
 
 Dans le but de sécuriser les données de l’Usager, ce dernier sera automatiquement déconnecté de son profil Mon espace santé s’il n’effectue aucune action sur l’application ou si l’application est en arrière-plan pendant une durée déterminée. L’Usager devra à nouveau se connecter à l’application pour pouvoir l’utiliser.
 
