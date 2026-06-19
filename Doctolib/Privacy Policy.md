@@ -3940,13 +3940,23 @@ Transfert transfrontalier : Afin de fournir ses Services, Doctolib peut avoir re
 
 
 
+Veuillez trouver en cliquant sur ce lien, la représentation des garanties (cartographie des
+
+transferts), conformément aux exigences de la certification Hébergeur de Données de Santé(HDS).
+
+
+
 Autres destinataires:
 
 
 
 - Afin de satisfaire ses obligations légales, Doctolib peut transmettre des Donnéespersonnelles à des autorités publiques ou judiciaires.
 
-- Dans le cadre de l'Assistant Santé, en cas de danger grave vous concernant ouconcernant votre enfant, Doctolib peut, à titre exceptionnel, communiquer lesinformations strictement nécessaires pour vous protéger à des tiers compétents, tels quedes services d'urgence ou des professionnels de santé habilités, afin de sauvegarder vosintérêts vitaux ou ceux de votre enfant.
+- Dans le cadre de l'Assistant Santé, en cas de danger grave vous concernant ouconcernant votre enfant, Doctolib peut, à titre exceptionnel, communiquer lesinformations strictement nécessaires pour vous protéger à des tiers compétents, tels quedes services d'urgence ou des professionnels de santé habilités, afin de sauvegarder vos
+
+intérêts vitaux ou ceux de votre enfant.
+
+
 
 8\. QUELS SONT VOS DROITS SUR VOS DONNÉES ÀCARACTÈRE PERSONNEL ?
 
