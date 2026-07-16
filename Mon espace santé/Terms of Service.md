@@ -681,7 +681,7 @@ Certains cookies peuvent aussi être utilisés pour enregistrer les paramètres 
 
 ### 11.2 Quels sont les cookies utilisés par notre site ?
 
-L’Assurance Maladie s’engage, dans le cadre des missions qui lui sont confiées, à assurer la protection, la confidentialité et la sécurité de l’ensemble de vos données personnelles dans le respect de votre vie privée. Lorsque vous naviguez sur Mon espace santé, nous pouvons être amenés à déposer plusieurs des cookies sur votre équipement informatique (ordinateur, téléphone portable, tablette). Les finalités et durées de conservation de ces cookies sont détaillées ci-dessous.
+L’Assurance Maladie s’engage, dans le cadre des missions qui lui sont confiées, à assurer la protection, la confidentialité et la sécurité de l’ensemble de vos données personnelles dans le respect de votre vie privée. Lorsque vous naviguez sur Mon espace santé, nous pouvons être amenés à déposer plusieurs cookies sur votre équipement informatique (ordinateur, téléphone portable, tablette). Les finalités et durées de conservation de ces cookies sont détaillées ci-dessous.
 
 #### 11.2.a Les cookies strictement nécessaires au fonctionnement du site
 
@@ -690,18 +690,28 @@ Les cookies strictement nécessaires au fonctionnement du site :
 | **Nom des cookies** | **Finalité** | **Durée de conservation** |
 | --- | --- | --- |
 | JSESSIONID | Conserve les informations de session pendant tout le parcours d’activation ou d’opposition à l’activation de « Mon espace santé » | Durée de la session |
-| ZM\_JSESSIONID | Conserve les informations de connexion à la messagerie de santé | Durée de la session |
+| smartbanner\_exited | Retient que l'utilisateur a fermé le bandeau proposant de télécharger l'application mobile Mon espace santé | Durée de la session |
 | Cookie\_ENS-LB | Optimise le taux de réponse entre le visiteur et le site en répartissant la charge de trafic sur plusieurs liaisons réseau ou serveurs | Durée de la session |
-| Groupe de cookies :<br><br>*   154e2137b0fa9b51b8fc1fa0b6a8fae1<br>*   60d444b829ad059d6711e2283a4fd4ab<br>*   84c3c4cbe049f4bc8a3857098d430c69<br>*   1a0139b26967dfbcfd1ca3af00a7284b<br>*   0ca8a17e231e477d6fee5ebbd24d2c15 | Conserve les informations de session pendant la navigation sur Mon espace santé selon les services appelés (Ex. : documents de santé, Profil médical, messagerie de santé) | Durée de la session |
-| oidc.user suivi d'un identifiant alphanumérique | Conserve les informations de session à l'ouverture de Mon espace santé dans plusieurs onglets du navigateur | Durée de la session |
+| Groupe de cookies :<br><br>*   154e2137b0fa9b51b8fc1fa0b6a8fae1<br>*   60d444b829ad059d6711e2283a4fd4ab<br>*   84c3c4cbe049f4bc8a3857098d430c69<br>*   1a0139b26967dfbcfd1ca3af00a7284b<br>*   0ca8a17e231e477d6fee5ebbd24d2c15<br>*   9aac67a94ee2f8be055e689d4067a35e<br>*   19a0826ba7cb45cb8acb9a191d60493b | Conserve les informations de session pendant la navigation sur Mon espace santé selon les services appelés (Ex. : documents de santé, Profil médical, messagerie de santé) | Durée de la session |
 | GRAVITEE\_IO\_AM\_SESSION | Nécessaire à l’authentification | Durée de la session |
 | XSRF-TOKEN | Protection du site | Durée de la session |
 | Cookies IdeoSSO :<br><br>*   KC\_RESTART<br>*   KEYCLOAK\_IDENTITY<br>*   KEYCLOAK\_SESSION<br>*   AUTH\_SESSION\_ID<br>*   CASTGC | Nécessaires à l’authentification | Durée de la session |
-| GRAVITEE\_AM\_DEVICE\_RECOGNITION | Sert à la reconnaissance du type d'appareil utilisé par le visiteur | 12 mois |
-| TC\_PRIVACY\_CENTER | Stocke les finalités Trust Commander acceptées et/ou refusées par le visiteur | 6 mois |
-| TC\_PRIVACY | Stocke les informations se rapportant au choix de l'utilisateur : acceptation/refus, date, etc. | 6 mois |
-| TCPID | Identifiant utilisateur Trust Commander utilisé afin de dédupliquer les clics et impressions de Trust Commander, dans le but d'alimenter des tableaux de bord relatifs à l'usage de l'outil par les visiteurs | 13 mois |
-| at-optout | Indique à AT Internet le refus de suivi exprimé par l'utilisateur dans le cadre du paramétrage exempté de consentement prélable de l'utilisateur proposé par l'outil | 6 mois |
+| TC\_PRIVACY\_CENTER | Enregistre les catégories de consentement sélectionnées par l'utilisateur dans le centre de préférences de confidentialité | 13 mois |
+| TC\_PRIVACY | Stocke les préférences de consentement et les modes de confidentialité appliqués par Piano Analytics pour la gestion des données de mesure d'audience. | 13 mois |
+| TCPID | Identifiant technique utilisé par Piano Analytics pour gérer les préférences de confidentialité et assurer leur persistance entre les visites | 12 mois |
+| oidc.user suivi d'un identifiant alphanumérique | Conserve les informations de session et certaines données techniques d’authentification nécessaires au maintien de la session, notamment lors de l’ouverture de Mon espace santé dans plusieurs onglets du navigateur | Durée de la session |
+| pinia\_oidc\_active\_route | Mémorisation de la route active afin de rediriger l'utilisateur vers la page précédente après authentification OIDC | Durée de la session |
+| yt-icons-last-purged | Nécessaire pour la mise en place et le fonctionnement du contenu vidéo de YouTube sur le site web. | Persistant |
+| yt-player-bandwidth | Détermine la qualité vidéo optimale en fonction de l'appareil et des paramètres réseau du visiteur | Durée de la session |
+| blockInfosHealthKey\_\[\] | Permet d’éviter d’appeler constamment le CMS | Durée de la session |
+| getFaqs\_\[\] | Permet de stocker les réponses du CMS pour les articles de la FAQ | Durée de la session |
+| getUnavailableDomainMessage\_\[\] | Permet de stocker les messages des domaine fonctionnels indisponibles à l’usager | Durée de la session |
+| informativeMessage | Permet de stocker le message du bandeau d’information défini par le CMS | Durée de la session |
+| KeysInCache | Permet de stocker la liste des clés de cache permettant d’éviter les appels redondants aux APIs | Durée de la session |
+| unavailableDomain | Permet d’indiquer la liste des domaines fonctionnels indisponibles | Durée de la session |
+| account | Permet de stocker des informations sur la gestion de profil du compte | Durée de la session |
+| connection | Permet de mémoriser l’acceptation des CGU lors d’une connexion. | Durée de la session |
+| enrolment | Permet de mémoriser des réponses déjà fournies par l’usager des données lors du parcours d’enrôlement. | Durée de la session |
 
 Mon espace santé utilise des cookies qui sont indispensables pour garantir l'accès sécurisé à certaines fonctionnalités, et notamment pour nous assurer que vos données sont bien protégées et accessibles à vous seul. C'est pourquoi ces cookies ne peuvent être désactivés.
 
@@ -709,7 +719,7 @@ Mon espace santé utilise des cookies qui sont indispensables pour garantir l'ac
 
 Il s'agit des cookies qui nous permettent de connaître l'utilisation et les performances de notre site, d'établir des statistiques, des volumes de fréquentation et d'utilisation des divers éléments composant notre site (rubriques et contenus visités, parcours de navigation), nous permettant d'améliorer l'intérêt et l'ergonomie de nos services (par exemple, les pages les plus souvent consultées, les recherches les plus fréquentes...).
 
-Les cookies de mesures d’audience permettent de générer des statistiques anonymes de fréquentation du site via la solution Xiti d’AT Internet (le nombre de visites, les pages les plus vues, etc.).
+Les cookies de mesures d’audience permettent de générer des statistiques anonymes de fréquentation du site via la solution Piano Analytics (le nombre de visites, les pages les plus vues, etc.).
 
 Ces données contribuent à identifier d’éventuels dysfonctionnements sur le site et à améliorer la qualité de nos services.
 
@@ -721,10 +731,9 @@ Les cookies analytiques / de mesure d'audience :
 
 | **Nom des cookies** | **Finalité** | **Durée de conservation** |
 | --- | --- | --- |
-| atauthority | Permet de garder en mémoire le mode de consentement choisi par le visiteur | 13 mois |
-| atid | Identifiant principal du visiteur | 13 mois |
-| atidvisitor | Liste des numsite (identifiants uniques des pages d’un site) rencontrés par le visiteur et stockage des informations de visiteur identifié | 6 mois |
-| atuserid | Identifiant anonyme du visiteur | 13 mois |
+| pa\_privacy | Mémorise le choix de confidentialité de l'utilisateur concernant la collecte des données d'audience (consentement ou opposition au suivi) | 13 mois |
+| \_pctx | Cookie technique utilisé par Piano Analytics pour stocker temporairement le contexte de navigation et certaines informations nécessaires à la collecte des données de mesure d'audience | 6 mois |
+| \_pcid | Identifiant anonyme unique attribué au navigateur afin de reconnaître un visiteur lors de ses différentes visites. Permet la mesure d'audience et l'analyse statistique de la fréquentation du site | 13 mois |
 
 #### 11.2.c Les cookies de mesure de l’efficacité des campagnes
 
@@ -738,27 +747,14 @@ Paramétrage et acceptation des cookies :
 
 | **Nom des cookies** | **Finalité** | **Durée de conservation** |
 | --- | --- | --- |
-| Cookies adform.net : C | Identifie si le navigateur de l'utilisateur accepte les cookies | Si acceptation : 60 jours<br><br>Si refus : 10 ans |
-| Cookies adform.net : TPC | Identifie si le navigateur de l'utilisateur accepte les cookies tiers | 14 jours |
-| Cookies adform.net : GCM, CM | Identifie s'il est nécessaire de revérifier l'existence de la correspondance des cookies du partenaire | 1 jour |
-| Cookies adform.net : CM14 | Identifie s'il est nécessaire de revérifier l'existence de la correspondance des cookies du partenaire | 14 jours |
-| Cookie adform.net : token | Jeton de sécurité pour la fonctionnalité de désactivation | Durée de la session |
-| Cookie adform.net : otsid | Opt-out spécifique à l'annonceur | 10 ans |
+| Cookies adform.net : C\_cookie\_test | Identifie si le navigateur de l'utilisateur accepte les cookies | 1 jour |
+| tc\_test\_cookie | Identifie si le navigateur de l'utilisateur accepte les cookies tiers | Durée de la session |
 
 Statistiques des campagnes :
 
 | **Nom des cookies** | **Finalité** | **Durée de conservation** |
 | --- | --- | --- |
-| Cookie adform.net : SR | Utilisé pour mesurer le nombre total d'impressions, les impressions quotidiennes, le nombre total de clics, les clics quotidiens et la date de la dernière impression | 1 jour |
-| Cookie adform.net : CT | Identifie l'adhésion au dernier clic pour les pixels tiers sur les pages de l'annonceur | 1 heure |
-
-Limitation du nombre d’expositions aux contenus :
-
-| **Nom des cookies** | **Finalité** | **Durée de conservation** |
-| --- | --- | --- |
-| Cookies adform.net : uid | Identifiant unique | 60 jours |
-| Cookies adform.net : EBFCD | Identifie le plafonnement du nombre d'expositions quotidien pour l'expansion de la bannière | 7 jours |
-| Cookies adform.net : CFFC | Limitation du nombre d'expositions des bannières composées | 7 jours |
+| Google Tag Manager : cookies Campaign Manager | Utilisé pour mesurer le nombre total d'impressions, les impressions quotidiennes, le nombre total de clics, les clics quotidiens et la date de la dernière impression | 1 jour |
 
 ### 11.3 Accepter ou refuser les cookies : comment faire ?
 
