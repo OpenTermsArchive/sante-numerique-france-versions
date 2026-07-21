@@ -6,7 +6,7 @@ Informations légales
 
 
 
-Le site est édité par Doctolib, société par actions simplifiées au capital de 179 766,25 euros,immatriculée au RCS de Nanterre sous le numéro 794 598 813, dont le siège social est situé au54 quai Charles Pasqua 92300 Levallois Perret et dont le numéro de TVA intracommunautaireest FR14794598813.
+Le site est édité par Doctolib, société par actions simplifiées au capital de 202 660,15 euros,immatriculée au RCS de Nanterre sous le numéro 794 598 813, dont le siège social est situé au54 quai Charles Pasqua 92300 Levallois Perret et dont le numéro de TVA intracommunautaireest FR14794598813.
 
 
 
@@ -50,19 +50,23 @@ Pour l’hébergement des données de chiffrement, Doctolib a recours à Devotea
 
 
 
+Hébergement des photographies des Acteurs de santé
+
+
+
+Les photographies et images fournies par les Acteurs de santé sont hébergées par Cloudinary,dont le siège social est situé 21c Yegia Kapayim - Petach Tikva 49130 - Israel.
+
+
+
+Version Juin 2026
+
+Doctolib SAS – 54 quai Charles Pasqua 92300 Levallois Perret – RCS : 794 598 813
+
 4. Point de contact Autorités - Article 11 Digital Services Act
 
 
 
-Conformément à l’article 11 du Règlement (UE) 2022/2065 du Parlement européen et duConseil du 19 octobre 2022 relatif à un marché unique des services numériques (Digital
-
-
-
-Version Août 2025
-
-Doctolib SAS – 54 quai Charles Pasqua 92300 Levallois Perret – RCS : 794 598 813
-
-Services Act), Doctolib met à disposition des autorités un point de contact unique pour leur
+Conformément à l’article 11 du Règlement (UE) 2022/2065 du Parlement européen et duConseil du 19 octobre 2022 relatif à un marché unique des services numériques (DigitalServices Act), Doctolib met à disposition des autorités un point de contact unique pour leur
 
 permettre de communiquer directement avec elle : contact-dsa@doctolib.com. Les langues
 
@@ -100,7 +104,7 @@ Doctolib a calculé les destinataires actifs mensuels moyens de son service en s
 
 
 
-Pour la période du 1er février 2025 au 31 juillet 2025, le nombre moyen de destinataires actifsmensuels de la plateforme Doctolib.fr était inférieur au seuil de 45 millions.
+Pour la période du 1er janvier 2026 au 30 juin 2026, le nombre moyen de destinataires actifsmensuels de la plateforme Doctolib.fr était inférieur au seuil de 45 millions.
 
 
 
@@ -112,10 +116,10 @@ Cette information sera actualisée au moins une fois tous les six mois.
 
 
 
-Conformément au DSA, le rapport annuel de transparence pour l'année 2024 est disponible ici.
+Conformément au DSA, le rapport annuel de transparence pour l'année 2025 est disponible ici.
 
 
 
-Version Août 2025
+Version Juin 2026
 
 Doctolib SAS – 54 quai Charles Pasqua 92300 Levallois Perret – RCS : 794 598 813
