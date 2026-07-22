@@ -388,9 +388,13 @@ L’Utilisateur est informé qu’en cas d’exercice de son droit d’oppositio
 
 Les données personnelles collectées sont nécessaires à la fourniture des Services. À défaut, l’Utilisateur ne pourra pas créer de compte ni accéder au Portail.
 
-Lors de la création de son Compte Participant, l’Utilisateur consent expressément à la collecte et au traitement de ses données de santé, dans le cadre du service choisi par le biais d’une case à cocher associée à une convention de preuve \[lien hypertexte vers la notice d’information-consentement\], et ce afin :
+Lors de la création de son Compte Participant, l’Utilisateur consent expressément à la collecte et au traitement de ses données de santé, dans le cadre du service choisi par le biais d’une case à cocher associée à une convention de preuve et ce afin :
+
+•
 
 De bénéficier du programme via le Portail, ses Services et ses Contenus ;
+
+•
 
 De permettre l’évaluation et l’amélioration des Services par des évaluateurs habilités, après une information spécifique portée à sa connaissance en temps utiles par l’Organisme.
 
@@ -437,6 +441,22 @@ Droit de retirer son consentement à tout moment.
 Pour exercer ses droits, l’Utilisateur peut s’adresser, en fournissant une copie d’un justificatif de son identité au service spécifique de l’Organisme en charge de répondre aux demandes d’exercice de droits, à l’adresse postale VIVOPTIM Solutions – DPO – 52 rue du Montparnasse, 75014 Paris ou électronique : dpo@vivoptim-solutions.com.
 
 Le délégué à la protection des données peut être contacté à cette même adresse pour toute question relative aux données personnelles.
+
+Communications électroniques et newsletters
+
+Dans le cadre de ses activités, Vivoptim Solutions peut adresser aux Utilisateurs deux catégories de communications électroniques :
+
+•
+
+Les communications liées à l'accompagnement, nécessaires au suivi du service ou du programme auquel l'Utilisateur est inscrit (informations pratiques, rappels, conseils personnalisés, évolution de l'accompagnement, etc.). Ces communications sont adressées dans le cadre de l'exécution du service et ne font pas l'objet d'un suivi des ouvertures à des fins de personnalisation ou d'analyse marketing.
+
+•
+
+Les newsletters d'information et d'actualité, adressées aux Utilisateurs ayant choisi de les recevoir. Afin d'améliorer la qualité de ces communications et d'adapter les contenus proposés, ces newsletters peuvent comporter des dispositifs permettant de mesurer leur ouverture et les interactions avec leur contenu (tels que des pixels de suivi ou technologies équivalentes).
+
+Lorsque la réglementation applicable l'exige, ce suivi est mis en œuvre uniquement après recueil du consentement de l'Utilisateur. Celui-ci peut retirer son consentement à tout moment ou modifier ses préférences selon les modalités indiquées dans chaque newsletter ou via les paramètres mis à sa disposition.
+
+Les données collectées dans ce cadre sont utilisées exclusivement pour mesurer l'intérêt porté aux communications, améliorer leur contenu et, le cas échéant, personnaliser les informations proposées. Elles ne sont pas utilisées dans le cadre de l'accompagnement santé de l'Utilisateur.
 
 Accès aux informations de santé
 
