@@ -22,15 +22,9 @@ Responsable de la rédaction : Virginie FEMERY
 
 1.2. Hébergeur du Site 
 
-OVH
+CHEOPS TECHNOLOGY RCS Bordeaux 415 050 681 Code APE 63.11Z N° de TVA : FR12415050681 Siège social : 37 RUE THOMAS EDISON, 33610 CANEJAN
 
-RCS Lille Métropole 424 761 419 00045
-
-Code APE 2620Z
-
-N° TVA : FR 22 424 761 419
-
-Siège social : 2 rue Kellermann - 59100 Roubaix - France 
+OVH RCS Lille Métropole 424 761 419 00045 Code APE 2620Z N° TVA : FR 22 424 761 419 Siège social : 2 rue Kellermann - 59100 Roubaix - France 
 
 2\. ACCES AU SITE 
 
@@ -494,7 +488,7 @@ L’Utilisateur peut, à tout moment, demander la clôture de son Compte Partici
 
 •
 
-L’Utilisateur est informé que la fermeture de son Compte Participant n’entraînera pas la suppression automatique des données à caractère personnel le concernant. Elles seront traitées dans le respect des exigences posées par la loi, ce que l’Utilisateur accepte expressément, sous réserve d’exercer les droits dont il dispose sur ses données dans les conditions rappelés (i) au sein de la notice d’information \[lien hypertexte\], et (ii) au sein des présentes CGU, et (iii) au sein de la politique de confidentialité \[lien hypertexte\].
+L’Utilisateur est informé que la fermeture de son Compte Participant n’entraînera pas la suppression automatique des données à caractère personnel le concernant. Elles seront traitées dans le respect des exigences posées par la loi, ce que l’Utilisateur accepte expressément, sous réserve d’exercer les droits dont il dispose sur ses données dans les conditions rappelés (i) au sein de la notice d’information, et (ii) au sein des présentes CGU, et (iii) au sein de la politique de confidentialité.
 
 •
 
