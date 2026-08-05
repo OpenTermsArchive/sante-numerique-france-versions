@@ -681,7 +681,7 @@ Certains cookies peuvent aussi être utilisés pour enregistrer les paramètres 
 
 ### 11.2 Quels sont les cookies utilisés par notre site ?
 
-L’Assurance Maladie s’engage, dans le cadre des missions qui lui sont confiées, à assurer la protection, la confidentialité et la sécurité de l’ensemble de vos données personnelles dans le respect de votre vie privée. Lorsque vous naviguez sur Mon espace santé, nous pouvons être amenés à déposer plusieurs cookies sur votre équipement informatique (ordinateur, téléphone portable, tablette). Les finalités et durées de conservation de ces cookies sont détaillées ci-dessous.
+L’Assurance Maladie et le Ministère chargé de la santé s’engagent, dans le cadre des missions qui leur sont confiées, à assurer la protection, la confidentialité et la sécurité de l’ensemble de vos données personnelles dans le respect de votre vie privée. Lorsque vous naviguez sur Mon espace santé, nous pouvons être amenés à déposer plusieurs cookies sur votre équipement informatique (ordinateur, téléphone portable, tablette). Les finalités et durées de conservation de ces cookies sont détaillées ci-dessous.
 
 #### 11.2.a Les cookies strictement nécessaires au fonctionnement du site
 
@@ -723,9 +723,7 @@ Les cookies de mesures d’audience permettent de générer des statistiques ano
 
 Ces données contribuent à identifier d’éventuels dysfonctionnements sur le site et à améliorer la qualité de nos services.
 
-Ces outils de mesures d’audience sont dispensés du recueil de votre consentement. Les données collectées ne sont pas recoupées avec d’autres traitements (fichiers clients ou statistiques de fréquentation d'autres sites par exemple). Aucun croisement n’est réalisé et aucune donnée n’est transmise à des tiers. Le cookie ne permet pas de suivre la navigation de l’internaute sur d’autres sites.
-
-Vous pouvez refuser le traitement de vos données personnelles de navigation en décochant cette option. Veuillez noter qu’en décochant cette option, nous ne pourrons plus mesurer et améliorer notre site de manière optimale.
+Ces outils de mesures d’audience nécessitent le recueil de votre consentement. Les données collectées ne sont pas recoupées avec d’autres traitements (fichiers clients ou statistiques de fréquentation d'autres sites par exemple). Aucun croisement n’est réalisé et aucune donnée n’est transmise à des tiers. Le cookie ne permet pas de suivre la navigation de l’internaute sur d’autres sites.
 
 Les cookies analytiques / de mesure d'audience :
 
@@ -735,7 +733,30 @@ Les cookies analytiques / de mesure d'audience :
 | \_pctx | Cookie technique utilisé par Piano Analytics pour stocker temporairement le contexte de navigation et certaines informations nécessaires à la collecte des données de mesure d'audience | 6 mois |
 | \_pcid | Identifiant anonyme unique attribué au navigateur afin de reconnaître un visiteur lors de ses différentes visites. Permet la mesure d'audience et l'analyse statistique de la fréquentation du site | 13 mois |
 
-#### 11.2.c Les cookies de mesure de l’efficacité des campagnes
+#### 11.2.c Les cookies tiers liés aux contenus vidéos YouTube
+
+Les cookies tiers permettent d’afficher des tutoriels vidéo hébergés par YouTube et visent à vous accompagner dans l’utilisation du site Mon espace santé. Le dépôt de ces cookies est soumis à votre consentement préalable : vous ne pourrez pas visionner les contenus sans avoir au préalable accepté ces cookies. Le refus de ces cookies n’impacte pas l’accès aux autres services de Mon espace santé.
+
+Ces cookies sont déposés directement par YouTube et servent à permettre l’affichage et le fonctionnement du lecteur vidéo. Les données collectées via ces cookies peuvent être transmises à Google LLC, qui agit en tant que responsable de traitement pour les données traitées sur YouTube.
+
+Pour en savoir plus sur les cookies déposés par YouTube, vous pouvez consulter la politique de gestion des cookies de Google LLC à l’adresse suivante : [https://policies.google.com/technologies/cookies?hl=fr](https://policies.google.com/technologies/cookies?hl=fr)
+
+| **Nom des cookies** | **Finalité** | **Durée de conservation** |
+| --- | --- | --- |
+| YSC | Enregistre un identifiant unique pour conserver des statistiques sur les vidéos de YouTube vues par l'utilisateur. | Durée de la session |
+| VISITOR\_PRIVACY\_METADATA | Enregistre le statut de consentement du visiteur sur le domaine d'affichage de la vidéo | 6 mois |
+| \_SECURE-YEC | Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées | 13 mois |
+| \_Secure-YNID | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | 6 mois |
+| \_Secure-ROLLOUT-TOKEN | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | 6 mois |
+| LAST\_RESULT\_ENTRY\_KEY | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | Durée de la session |
+| VISITOR-INFO1\_LIVE | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré | 6 mois |
+| LogsDatabaseV2:V#\| | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré | Persistant |
+| ServiceWorkerLogsDatabase | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré | Persistant |
+| TESTCOOKIESENABLED | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré | 1 jour |
+| YtIdbMeta#databases | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré | Persistant |
+| ytidb::LAST\_RESULT\_ENTRY\_KEY | Enregistre les préférences du lecteur vidéo de l'utilisateur à l'aide d'une vidéo YouTube intégrée | Persistant |
+
+#### 11.2.d Les cookies de mesure de l’efficacité des campagnes
 
 Ces cookies permettent d’établir des statistiques anonymes de nos campagnes de communication, pour évaluer leur diffusion et leur efficacité.
 
