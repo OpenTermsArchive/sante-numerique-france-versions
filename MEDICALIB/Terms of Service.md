@@ -101,26 +101,26 @@ Désigne toute personne physique ou morale accédant au Site et, le cas échéan
 Article 2 - Objet des conditions générales d’utilisation
 --------------------------------------------------------
 
-Les présentes Conditions Générales ont pour objet de définir les modalités de mise à disposition des Services du Site internet [www.medicalib.fr](https://www.medicalib.fr/www.medicalib.fr) et, le cas échéant, de l’Application mobile et les conditions d'utilisation des Services par l'Utilisateur.  
-  
-En se connectant au Site et, le cas échéant, à l’Application mobile, l’Utilisateur reconnaît expressément avoir pris connaissance des présentes Conditions Générales d’Utilisation et s’engage à les respecter.  
-  
+Les présentes Conditions Générales ont pour objet de définir les modalités de mise à disposition des Services du Site internet [www.medicalib.fr](http://www.medicalib.fr/) et, le cas échéant, de l’Application mobile et les conditions d'utilisation des Services par l'Utilisateur.
+
+En se connectant au Site et, le cas échéant, à l’Application mobile, l’Utilisateur reconnaît expressément avoir pris connaissance des présentes Conditions Générales d’Utilisation et s’engage à les respecter.
+
 Pour toute demande d’informations ou tout contact, l’Utilisateur s’engage à contacter MEDICALIB aux adresses suivantes :
 
-*   Mail : contact@medicalib.fr
+*   Mail : [contact@medicalib.fr](mailto:contact@medicalib.fr)
 *   Adresse postale : Hellosante – 11 Boulevard Delessert, 75016 Paris
 *   Ou par téléphone : 09 77 55 50 99 du lundi au vendredi de 9h30 à 12h30 et de 14h00 à 17h30 (hors jours fériés) (appel non surtaxé).
 
-Ces CGU sont valables jusqu'à annulation dans la version en vigueur et à compter du **03/02/2025.**  
-  
-MEDICALIB se réserve le droit de modifier ces CGU à tout moment. À la suite de cette modification, la poursuite de l'utilisation de l’Application par les Utilisateurs enregistrés est soumise à l’acceptation par l'Utilisateur des CGU modifiées. La version en vigueur des CGU est disponible de façon permanente pour consultation sur l’Application, dans l’onglet « CGU » et sur simple demande formulée auprès de la société MEDICALIB.  
-  
-Seule la version en langue française des présentes CGU a force obligatoire et est opposable à MEDICALIB.  
-  
-Il est entendu que ces conditions générales ne régissent pas les relations entre les Patients et les Professionnels de santé lorsque les Patients ont décidé de recourir à la fourniture de prestations médicales.  
-  
-**Il convient de rappeler que MEDICALIB n’est aucunement un Professionnel de santé et à cet effet, MEDICALIB ne fournit et ne fournira aucune prescription médicale ni prestation de santé à ses Utilisateurs.**  
-  
+Ces CGU sont valables jusqu'à annulation dans la version en vigueur et à compter du 03/02/2025.
+
+MEDICALIB se réserve le droit de modifier ces CGU à tout moment. À la suite de cette modification, la poursuite de l'utilisation de l’Application par les Utilisateurs enregistrés est soumise à l’acceptation par l'Utilisateur des CGU modifiées. La version en vigueur des CGU est disponible de façon permanente pour consultation sur l’Application, dans l’onglet « CGU » et sur simple demande formulée auprès de la société MEDICALIB.
+
+Seule la version en langue française des présentes CGU a force obligatoire et est opposable à MEDICALIB.
+
+Il est entendu que ces conditions générales ne régissent pas les relations entre les Patients et les Professionnels de santé lorsque les Patients ont décidé de recourir à la fourniture de prestations médicales.
+
+**Il convient de rappeler que MEDICALIB n’est aucunement un Professionnel de santé et à cet effet, MEDICALIB ne fournit et ne fournira aucune prescription médicale ni prestation de santé à ses Utilisateurs.**
+
 **Le Service ne consiste qu’en une prestation d’intermédiation entre un Patient et un Professionnel de santé partenaire.**
 
 Article 3 - Acceptation des conditions générales d'utilisation
