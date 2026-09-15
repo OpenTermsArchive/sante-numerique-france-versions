@@ -1,7 +1,7 @@
-KRY / LIVI – Politique sur les cookies
-======================================
+KRY – Politique sur les cookies
+===============================
 
-Le groupe KRY/LIVI (« KRY/LIVI ») utilise des cookies, des balises web et des technologies similaires (ci-dessous « cookies ») pour vous offrir la meilleure expérience possible. Nous pouvons utiliser des cookies dans tous nos canaux numériques tels que nos sites web, e-mails, réseaux sociaux et autres (appelés « services » ci-dessous). L’objectif de la présente politique sur les cookies est de vous fournir des informations sur les cookies que nous utilisons, les raisons pour lesquelles nous les utilisons et vos choix et préférences en matière de cookies.
+Le groupe KRY (« KRY ») utilise des cookies, des balises web et des technologies similaires (ci-dessous « cookies ») pour vous offrir la meilleure expérience possible. Nous pouvons utiliser des cookies dans tous nos canaux numériques tels que nos sites web, e-mails, réseaux sociaux et autres (appelés « services » ci-dessous). L’objectif de la présente politique sur les cookies est de vous fournir des informations sur les cookies que nous utilisons, les raisons pour lesquelles nous les utilisons et vos choix et préférences en matière de cookies.
 
 Qu’est-ce qu’un cookie ?
 ------------------------
@@ -43,7 +43,7 @@ Exploiter certaines fonctions des sites web et applications en fonction de vos c
 
 Afficher des publicités pertinentes dans des canaux tiers (tels que des moteurs de recherche et réseaux sociaux) en se basant sur des cookies publicitaires propriétaires ou tiers qui recueillent des informations concernant votre activité sur nos sites web. Nous n’utilisons pas vos données de santé dans le but de vous proposer des publicités.
 
-Lorsque vous utilisez les sites web KRY/LIVI, il vous sera demandé de donner votre accord pour l’utilisation de cookies qui ne sont pas identifiés comme des cookies nécessaires, c’est-à-dire des cookies indispensables pour vous fournir nos services.
+Lorsque vous utilisez les sites web KRY, il vous sera demandé de donner votre accord pour l’utilisation de cookies qui ne sont pas identifiés comme des cookies nécessaires, c’est-à-dire des cookies indispensables pour vous fournir nos services.
 
 Les cookies que nous utilisons et la manière de les supprimer
 -------------------------------------------------------------
@@ -69,7 +69,7 @@ Vous pouvez également choisir de refuser les cookies en ajustant vos paramètre
 Données personnelles
 --------------------
 
-Dans la mesure où nous collectons ou traitons des données personnelles dans le cadre de la présente politique en matière de cookies, ces informations seront utilisées de la manière décrite dans notre [politique de confidentialité](https://www.livi.fr/legal/politique-de-confidentialite/ "politique-de-confidentialite"). La notification sur la confidentialité contient également des informations sur la société du groupe KRY/LIVI qui est responsable du traitement de vos données personnelles, des informations sur vos droits et la manière de les exercer, ainsi que d’autres informations pertinentes concernant la manière dont nous traitons vos informations.
+Dans la mesure où nous collectons ou traitons des données personnelles dans le cadre de la présente politique en matière de cookies, ces informations seront utilisées de la manière décrite dans notre [politique de confidentialité](https://livi.fr/legal/politique-de-confidentialite/ "politique-de-confidentialite"). La notification sur la confidentialité contient également des informations sur la société du groupe KRY qui est responsable du traitement de vos données personnelles, des informations sur vos droits et la manière de les exercer, ainsi que d’autres informations pertinentes concernant la manière dont nous traitons vos informations.
 
 Modifications de la présente politique
 --------------------------------------
@@ -79,14 +79,14 @@ Vous serez clairement informés en cas de modifications importantes de cette pol
 Questions
 ---------
 
-Contactez-nous à l’adresse privacy@livi.fr si vous avez des questions sur la présente politique en matière de cookies.
+Contactez-nous à l’adresse privacy@kry.fr si vous avez des questions sur la présente politique en matière de cookies.
 
 La présente politique s’applique à compter du 2 février 2022.
 
-KRY / LIVI – Politique sur les cookies
-======================================
+KRY – Politique sur les cookies
+===============================
 
-Le groupe KRY/LIVI (« KRY/LIVI ») utilise des cookies, des balises web et des technologies similaires (ci-dessous « cookies ») pour vous offrir la meilleure expérience possible. Nous pouvons utiliser des cookies dans tous nos canaux numériques tels que nos sites web, e-mails, réseaux sociaux et autres (appelés « services » ci-dessous). L’objectif de la présente politique sur les cookies est de vous fournir des informations sur les cookies que nous utilisons, les raisons pour lesquelles nous les utilisons et vos choix et préférences en matière de cookies.
+Le groupe KRY (« KRY ») utilise des cookies, des balises web et des technologies similaires (ci-dessous « cookies ») pour vous offrir la meilleure expérience possible. Nous pouvons utiliser des cookies dans tous nos canaux numériques tels que nos sites web, e-mails, réseaux sociaux et autres (appelés « services » ci-dessous). L’objectif de la présente politique sur les cookies est de vous fournir des informations sur les cookies que nous utilisons, les raisons pour lesquelles nous les utilisons et vos choix et préférences en matière de cookies.
 
 Qu’est-ce qu’un cookie ?
 ------------------------
@@ -128,7 +128,7 @@ Exploiter certaines fonctions des sites web et applications en fonction de vos c
 
 Afficher des publicités pertinentes dans des canaux tiers (tels que des moteurs de recherche et réseaux sociaux) en se basant sur des cookies publicitaires propriétaires ou tiers qui recueillent des informations concernant votre activité sur nos sites web. Nous n’utilisons pas vos données de santé dans le but de vous proposer des publicités.
 
-Lorsque vous utilisez les sites web KRY/LIVI, il vous sera demandé de donner votre accord pour l’utilisation de cookies qui ne sont pas identifiés comme des cookies nécessaires, c’est-à-dire des cookies indispensables pour vous fournir nos services.
+Lorsque vous utilisez les sites web KRY, il vous sera demandé de donner votre accord pour l’utilisation de cookies qui ne sont pas identifiés comme des cookies nécessaires, c’est-à-dire des cookies indispensables pour vous fournir nos services.
 
 Les cookies que nous utilisons et la manière de les supprimer
 -------------------------------------------------------------
@@ -154,7 +154,7 @@ Vous pouvez également choisir de refuser les cookies en ajustant vos paramètre
 Données personnelles
 --------------------
 
-Dans la mesure où nous collectons ou traitons des données personnelles dans le cadre de la présente politique en matière de cookies, ces informations seront utilisées de la manière décrite dans notre [politique de confidentialité](https://www.livi.fr/legal/politique-de-confidentialite/ "politique-de-confidentialite"). La notification sur la confidentialité contient également des informations sur la société du groupe KRY/LIVI qui est responsable du traitement de vos données personnelles, des informations sur vos droits et la manière de les exercer, ainsi que d’autres informations pertinentes concernant la manière dont nous traitons vos informations.
+Dans la mesure où nous collectons ou traitons des données personnelles dans le cadre de la présente politique en matière de cookies, ces informations seront utilisées de la manière décrite dans notre [politique de confidentialité](https://livi.fr/legal/politique-de-confidentialite/ "politique-de-confidentialite"). La notification sur la confidentialité contient également des informations sur la société du groupe KRY qui est responsable du traitement de vos données personnelles, des informations sur vos droits et la manière de les exercer, ainsi que d’autres informations pertinentes concernant la manière dont nous traitons vos informations.
 
 Modifications de la présente politique
 --------------------------------------
@@ -164,6 +164,6 @@ Vous serez clairement informés en cas de modifications importantes de cette pol
 Questions
 ---------
 
-Contactez-nous à l’adresse privacy@livi.fr si vous avez des questions sur la présente politique en matière de cookies.
+Contactez-nous à l’adresse privacy@kry.fr si vous avez des questions sur la présente politique en matière de cookies.
 
 La présente politique s’applique à compter du 2 février 2022.
