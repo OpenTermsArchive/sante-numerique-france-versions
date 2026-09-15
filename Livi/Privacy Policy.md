@@ -6,7 +6,7 @@ Version 16 janvier 2026
 1) Introduction
 ---------------
 
-Livi est une Application (« App ») disponible sur support mobile (smartphone et tablette) et sur le web à partir du site internet livi.fr dédiée à la mise en relation entre des utilisateurs et des professionnels de santé. Livi a vocation à fournir des services de soins à distance (télémédecine, télésoin) et de soins présentiels.
+Kry est une Application (« App ») disponible sur support mobile (smartphone et tablette) et sur le web à partir du site internet kry.fr dédiée à la mise en relation entre des utilisateurs et des professionnels de santé. Kry, opérant préalablement sous le nom de Livi, a vocation à fournir des services de soins à distance (télémédecine, télésoin) et de soins présentiels.
 
 Dans le cadre de cette mission, nous souhaitons être transparents et vous expliquer nos mesures et pratiques de protection des données personnelles afin que vous, en tant qu’individu, utilisateur et patient, vous vous sentiez toujours à l’aise lorsque vous utilisez nos services et nous confiez vos données personnelles. La présente politique de confidentialité explique qui est responsable des traitements de données personnelles effectués en relation avec votre utilisation des services et comment sont utilisées vos données ”utilisateur” et “patient” : quelles données nous collectons lorsque vous utilisez les services et à quelles fins, avec qui elles sont partagées, quels sont vos droits concernant le traitement de vos données personnelles, comment vous pouvez les exercer et comment vous pouvez contrôler l’utilisation de vos données. Nous y indiquons la base légale des traitements et qui sont les tiers qui peuvent traiter vos données à caractère personnel dans le but de vous fournir les services.
 
@@ -28,9 +28,9 @@ Cette politique de confidentialité vous concerne si vous :
 2) Les services
 ---------------
 
-Grâce aux outils numériques Livi mis à dispositon sur le site livi.fr ou sur support mobile (smartphone) (“l’**App Livi**”), vous pouvez être mis en relation avec des professionnels de santé ou avec des tiers dans un but de soins.
+Grâce aux outils numériques Kry mis à dispositon sur le site kry.fr ou sur support mobile (smartphone) (“l’**App Kry**”), vous pouvez être mis en relation avec des professionnels de santé ou avec des tiers dans un but de soins.
 
-Les prestataires de soins utilisateurs de la plateforme Livi fournissent aux patients des services de soins tels que des consultations médicales, des prescriptions, etc… (Les services de soins). La fourniture de la plateforme Livi et les services de soins sont ensemble dénommés “les services” dans cette politique de confidentialité.
+Les prestataires de soins utilisateurs de la plateforme Kry fournissent aux patients des services de soins tels que des consultations médicales, des prescriptions, etc… (Les services de soins). La fourniture de la plateforme Kry et les services de soins sont ensemble dénommés “les services” dans cette politique de confidentialité.
 
 Pour utiliser les services, vous devez accepter nos Conditions Générales d’Utilisations et autres conditions disponibles.
 
@@ -43,23 +43,23 @@ Pour utiliser les services, vous devez accepter nos Conditions Générales d’U
 
 _En savoir plus:_ 
 
-_DMS France est la filiale française du groupe Kry international AB (publ) (“Kry”). Kry International AB (publ) a concédé à DMS France une licence d’utilisation de l’App Livi pour le territoire français. Vous trouverez les informations de contact de Kry international AB (publ) et de DMS France à la fin de cette politique de confidentialité._
+_DMS France est la filiale française du groupe Kry international AB (publ) (“Kry”). Kry International AB (publ) a concédé à DMS France une licence d’utilisation de l’App Kry pour le territoire français. Vous trouverez les informations de contact de Kry international AB (publ) et de DMS France à la fin de cette politique de confidentialité._
 
-_Il s’agit par exemple de vous permettre d’installer l’application, de vous authentifier ou de vous enregistrer, de faciliter les contacts avec les professionnels de santé et de vous fournir du contenu informatif via la plateforme Livi. Ces informations sont désignées comme “données utilisateurs”._
+_Il s’agit par exemple de vous permettre d’installer l’application, de vous authentifier ou de vous enregistrer, de faciliter les contacts avec les professionnels de santé et de vous fournir du contenu informatif via la plateforme Kry. Ces informations sont désignées comme “données utilisateurs”._
 
   
 
 **DMS France agit**, concernant vos données de santé, uniquement en tant que sous-traitant du Prestataire de soins au sens du RGPD. Cela signifie que vos données à caractère personnel sont traitées uniquement selon les instructions du Prestataire de soins, qui est responsable du traitement au sens du RGPD.
 
-Lorsque vous consultez un **Prestataire de soins** sur Livi, celui-ci est responsable de tous les traitements de vos données personnelles qui ont lieu dans le cadre de cette interaction, et pour conserver des informations relatives à vos consultations.
+Lorsque vous consultez un **Prestataire de soins** sur Kry, celui-ci est responsable de tous les traitements de vos données personnelles qui ont lieu dans le cadre de cette interaction, et pour conserver des informations relatives à vos consultations.
 
 En savoir plus: 
 
 _Le “_**_Prestataire de soins_**_” est :_
 
-_Soit un professionnel ou une structure de santé que vous avez recherché sur l’App Livi;_
+_Soit un professionnel ou une structure de santé que vous avez recherché sur l’App Kry;_
 
-_Soit un professionnel ou une structure de santé qui vous est proposé par l’App Livi en fonction de votre situation. Dans ce dernier cas, vous serez informé de l’identité du professionnel de santé avant le début de la consultation, ce qui vous permettra d’avoir connaissance du Prestataire de soins responsable de vos données personnelles._
+_Soit un professionnel ou une structure de santé qui vous est proposé par l’App Kry en fonction de votre situation. Dans ce dernier cas, vous serez informé de l’identité du professionnel de santé avant le début de la consultation, ce qui vous permettra d’avoir connaissance du Prestataire de soins responsable de vos données personnelles._
 
 _Il peut s'agir d’un professionnel libéral ou d’une structure de type centre de santé._
 
@@ -67,22 +67,22 @@ _Il peut s'agir d’un professionnel libéral ou d’une structure de type centr
 
 **Les interactions entre les membres de l’équipe de soins**
 
-Les professionnels de santé qui interviennent dans la prise en charge d’un patient sur Livi constituent une équipe de soins au sens de l’article L. 1110-12 du Code de la santé publique. A ce titre, pour les besoins de votre prise en charge et pour s’assurer de la coordination et de la qualité des soins qui vous sont prodigués, les membres de l’équipe de soin peuvent accéder à votre dossier médical, le partager entre eux et échanger des informations personnelles vous concernant et qui leur semblent pertinentes.
+Les professionnels de santé qui interviennent dans la prise en charge d’un patient sur Kry constituent une équipe de soins au sens de l’article L. 1110-12 du Code de la santé publique. A ce titre, pour les besoins de votre prise en charge et pour s’assurer de la coordination et de la qualité des soins qui vous sont prodigués, les membres de l’équipe de soin peuvent accéder à votre dossier médical, le partager entre eux et échanger des informations personnelles vous concernant et qui leur semblent pertinentes.
 
-Lorsque vous demandez une téléconsultation sur Livi, vous acceptez de partager vos informations personnelles et votre dossier médical avec le médecin ou autre prestataire de soins qui va réaliser la téléconsultation. Vous disposez du droit de refuser de partager tout ou partie de vos informations avec un ou plusieurs membres de l’équipe de soins telle que décrite ci-dessus. Dans cette hypothèse, il se peut que le médecin ne puisse pas procéder à la téléconsultation en raison de l’absence de partage du dossier médical.
+Lorsque vous demandez une téléconsultation sur Kry, vous acceptez de partager vos informations personnelles et votre dossier médical avec le médecin ou autre prestataire de soins qui va réaliser la téléconsultation. Vous disposez du droit de refuser de partager tout ou partie de vos informations avec un ou plusieurs membres de l’équipe de soins telle que décrite ci-dessus. Dans cette hypothèse, il se peut que le médecin ne puisse pas procéder à la téléconsultation en raison de l’absence de partage du dossier médical.
 
 4) Où et quand collectons-nous des informations à votre sujet ?
 ---------------------------------------------------------------
 
 Nous collectons les informations directement auprès de vous, par exemple, les informations que vous soumettez lorsque vous vous inscrivez, remplissez un formulaire et quand vous utilisez nos produits et services.
 
-Nous pouvons également obtenir des informations vous concernant par l'intermédiaire de tiers vous ayant redirigé vers l’App Livi pour bénéficier des services.
+Nous pouvons également obtenir des informations vous concernant par l'intermédiaire de tiers vous ayant redirigé vers l’App Kry pour bénéficier des services.
 
 En savoir plus: 
 
 _Nous collectons les informations directement auprès de vous, par exemple quand vous vous inscrivez pour bénéficier d’un service, prenez rendez-vous dans un centre de santé, modifiez votre profil, soumettez des informations avant et pendant les consultations avec les prestataires de soins._
 
-_Par ailleurs, si un autre prestataire de soins vous a invité à utiliser nos services, il peut nous transmettre les informations qu’il juge nécessaire pour votre utilisation des services. Livi peut également traiter vos données personnelles relatives à des soins réalisés par d'autres prestataires de soins extérieurs à Livi. Si ces données sont considérées comme pertinentes pour la réalisation des soins dans le cadre des services Livi, elles peuvent être traitées et enregistrées dans vos dossiers médicaux par le Prestataire de soins qui vous prend en charge sur Livi._
+_Par ailleurs, si un autre prestataire de soins vous a invité à utiliser nos services, il peut nous transmettre les informations qu’il juge nécessaire pour votre utilisation des services. Kry peut également traiter vos données personnelles relatives à des soins réalisés par d'autres prestataires de soins extérieurs à Kry. Si ces données sont considérées comme pertinentes pour la réalisation des soins dans le cadre des services Kry, elles peuvent être traitées et enregistrées dans vos dossiers médicaux par le Prestataire de soins qui vous prend en charge sur Kry._
 
 _Si vous utilisez nos services dans le cadre d’un avantage fourni par votre assurance complémentaire ou employeur, ces derniers peuvent nous transmettre certaines informations basiques nécessaires à la vérification de votre identité afin de vérifier que vous bénéficiez de cet avantage._
 
@@ -91,7 +91,7 @@ _Si vous utilisez nos services dans le cadre d’un avantage fourni par votre as
 
 **DMS France** 
 
-Quand vous utilisez l’App Livi, les catégories suivantes de données sont collectées:
+Quand vous utilisez l’App Kry, les catégories suivantes de données sont collectées:
 
 *   Informations personnelles,
     
@@ -106,7 +106,7 @@ Quand vous utilisez l’App Livi, les catégories suivantes de données sont col
 
 Vos données personnelles sont traitées pour les finalités suivantes :
 
-*   Pour fournir l’accès aux services de la plateforme Livi,
+*   Pour fournir l’accès aux services de la plateforme Kry,
     
 *   Pour le support technique et la communication,
     
@@ -127,22 +127,22 @@ En savoir plus: 
 
 **_DMS France_**
 
-_Quand vous vous identifiez et que vous utilisez l’application Livi, DMS France recueille les informations suivantes à votre sujet._ 
+_Quand vous vous identifiez et que vous utilisez l’application Kry, DMS France recueille les informations suivantes à votre sujet._ 
 
 **_Données personnelles_** 
 
-_Quand vous créez un compte dans l’application Livi, DMS France va recueillir certaines informations basiques à votre sujet. Cela inclut votre nom, adresse, nationalité, email, numéro de téléphone. Si vous ajoutez un enfant à votre profil, nous recueillerons les mêmes informations à son sujet, ainsi que la vérification de votre autorité parentale._
+_Quand vous créez un compte dans l’application Kry, DMS France va recueillir certaines informations basiques à votre sujet. Cela inclut votre nom, adresse, nationalité, email, numéro de téléphone. Si vous ajoutez un enfant à votre profil, nous recueillerons les mêmes informations à son sujet, ainsi que la vérification de votre autorité parentale._
 
 **_Détails techniques - utilisation de l’App_**
 
-_Quand vous utilisez les services Livi, DMS France collecte automatiquement des informations complémentaires à votre sujet, telles que votre langue, l’heure, les paramètres d’écran et de localisation, le type de système d’exploitation, l’appareil utilisé et le navigateur, l’adresse IP. Quand vous utilisez nos services, DMS France collecte automatiquement des informations sur la façon dont vous avez utilisé notre application et notre site internet, les jours et heures de vos visites et les fonctionnalités et services que vous avez utilisés, vos paramètres d’application ou de service, comme vos options marketing et vos notifications._
+_Quand vous utilisez les services Kry, DMS France collecte automatiquement des informations complémentaires à votre sujet, telles que votre langue, l’heure, les paramètres d’écran et de localisation, le type de système d’exploitation, l’appareil utilisé et le navigateur, l’adresse IP. Quand vous utilisez nos services, DMS France collecte automatiquement des informations sur la façon dont vous avez utilisé notre application et notre site internet, les jours et heures de vos visites et les fonctionnalités et services que vous avez utilisés, vos paramètres d’application ou de service, comme vos options marketing et vos notifications._
 
 **_Cookies et traceurs_** 
 
 _Nous utilisons également des cookies pour comprendre quels sites internet, publicités et services vous avez visités et comment vous les avez utilisés.  
 Les cookies sont des fichiers sauvegardés sur votre téléphone, tablette ou ordinateur quand vous utilisez des sites internet, publicités ou services. Nous n’utilisons pas de cookies pour collecter des informations médicales ou relatives à la santé._
 
-_Pour en savoir plus sur la façon dont nous utilisons les cookies, consultez notre_ [politique en matière de cookies](https://www.livi.fr/legal/cookies/ "politique-en-matiere-de-cookies")_._
+_Pour en savoir plus sur la façon dont nous utilisons les cookies, consultez notre_ [politique en matière de cookies](https://livi.fr/legal/cookies/ "politique-en-matiere-de-cookies")_._
 
 **_Données de communication et marketing_**
 
@@ -156,27 +156,27 @@ DMS France utilise vos informations pour les finalités suivantes :_ 
 
 _**Support technique et communication,**_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
-_**Marketing**_ _qui, si vous avez choisi de recevoir du contenu marketing et promotionnel, implique que Livi vous envoie des newsletters, les mises à jour du produit, des contenus promotionnels par courrier, email ou notification push. Vous pouvez toujours refuser de recevoir ce type de marketing en ajustant les préférences de votre application._
+_**Marketing**_ _qui, si vous avez choisi de recevoir du contenu marketing et promotionnel, implique que Kry vous envoie des newsletters, les mises à jour du produit, des contenus promotionnels par courrier, email ou notification push. Vous pouvez toujours refuser de recevoir ce type de marketing en ajustant les préférences de votre application._
 
-**_Analyses et développement de produits,_** _pour analyser la façon dont vous utilisez la plateforme Livi afin de mieux comprendre comment nous pouvons améliorer l’expérience utilisateur et développer de meilleures fonctionnalités. Cela peut aussi inclure la participation à des études de marché et d’utilisateurs si vous voulez en faire partie._
+**_Analyses et développement de produits,_** _pour analyser la façon dont vous utilisez la plateforme Kry afin de mieux comprendre comment nous pouvons améliorer l’expérience utilisateur et développer de meilleures fonctionnalités. Cela peut aussi inclure la participation à des études de marché et d’utilisateurs si vous voulez en faire partie._
 
 _Nous utilisons également des statistiques liées à l’utilisation de nos services pour nous assurer que nous avons suffisamment de ressources et d’expertise et savoir comment nous pouvons améliorer et développer les services pour mieux répondre aux besoins de nos utilisateurs._
 
 **_Recherches et statistiques,_** _vos données à caractère personnel peuvent faire l’objet d’un traitement d’anonymisation en vue de réaliser des études statistiques ou des recherches scientifiques, dans le respect des articles 5 et 9 du RGPD._  
 
-_**Administration et exécution des contrats,**_ _conclus entre vous et nous, notamment pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Livi, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
+_**Administration et exécution des contrats,**_ _conclus entre vous et nous, notamment pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Kry, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
 
 _**Maintien d’une présence sur les réseaux sociaux,**_ _pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services.  
   
 Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
 
-**_Préserver les intérêts juridiques de Livi_** _dans les procédures ou les litiges et pour enquêter sur l’utilisation illégale ou frauduleuse des services, les non paiement._
+**_Préserver les intérêts juridiques de Kry_** _dans les procédures ou les litiges et pour enquêter sur l’utilisation illégale ou frauduleuse des services, les non paiement._
 
 **_Opérations en relation avec les fusions, acquisitions_** _ou toutes autres  opérations de restructuration de fournisseur de soins._  
 
 **Prestataire de soins** 
 
-Quand vous utilisez l’application Livi, les catégories suivantes de données personnelles sont collectées :
+Quand vous utilisez l’application Kry, les catégories suivantes de données personnelles sont collectées :
 
 *   Informations personnelles,
     
@@ -218,9 +218,9 @@ _Quand vous utilisez nos services de santé, le prestataire de soins collecte le
 
 _Les informations mentionnées sous “DMS France / Données personnelles” sont également collectées par le Prestataire de soins, pour constituer le volet administratif de votre dossier médical._
 
-_Si vous recherchez des prestations de santé directement auprès des centres de santé ou en dehors de l’application Livi, ces informations sont renseignées directement par vous ou par les membres du personnel du prestataire de soins._ 
+_Si vous recherchez des prestations de santé directement auprès des centres de santé ou en dehors de l’application Kry, ces informations sont renseignées directement par vous ou par les membres du personnel du prestataire de soins._ 
 
-_Si vous prenez contact via l’application Livi, les informations sont collectées par DMS France._
+_Si vous prenez contact via l’application Kry, les informations sont collectées par DMS France._
 
 **_Informations relatives à la santé et à la consultation_**
 
@@ -254,13 +254,13 @@ _**La production de statistiques**_ _sur l'utilisation des services de santé et
 
 _**L'analyse des statistiques et des retours des patients**_ _afin d'assurer le suivi, d'identifier les domaines d'amélioration et de garantir et développer la qualité des processus, des systèmes et des fonctions. L'objectif est d'améliorer continuellement la qualité médicale, la satisfaction des patients, l'accessibilité, la sécurité et l'expérience utilisateur de nos patients._
 
-_NB: Les consultations Livi ne sont jamais enregistrées, ni en format audio, ni en vidéo.Cependant, les transcriptions, ou fichiers texte qui reproduisent la conversation entre vous et les professionnels de santé, peuvent être stockés et utilisés par nos systèmes pour rationaliser et automatiser notre travail administratif._
+_NB: Les consultations Kry ne sont jamais enregistrées, ni en format audio, ni en vidéo.Cependant, les transcriptions, ou fichiers texte qui reproduisent la conversation entre vous et les professionnels de santé, peuvent être stockés et utilisés par nos systèmes pour rationaliser et automatiser notre travail administratif._
 
 _Par exemple, pour générer des résumés de vos symptômes ou demandes afin d'aider à vous mettre en relation avec le professionnel de santé approprié à votre besoin en tant que patient, ou pour faciliter les tâches administratives des professionnels (en fournissant des ébauches de documents), ce qui permet au professionnel de santé de consacrer plus de temps à ses patients._
 
 _Nos logiciels n'interviennent pas dans, ni n'influencent, la prise de décisions médicales, qui reste du ressort exclusif de notre personnel médical._
 
-_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle_ [ici](https://www.livi.fr/livi-nouvelles-technologies/ "ici")_._
+_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle_ [ici](https://livi.fr/kry-nouvelles-technologies/ "ici")_._
 
 _**Paiement et remboursement**__, pour vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
 
@@ -286,7 +286,7 @@ Le fournisseur de soins est tenu à une obligation de confidentialité lorsqu’
   
 6.1. Prestataires de services
 
-Nous engageons des prestataires de services pour nous aider à fournir les Services, ils agissent comme des sous-traitants lorsqu’ils traitent vos données à caractère personnel et nous veillons à toujours avoir des contrats et des garanties en place pour assurer la protection de vos informations. Pour obtenir la liste des sous traitants, vous pouvez envoyer votre demande à notre DPO à l'adresse dpo@livi.fr.
+Nous engageons des prestataires de services pour nous aider à fournir les Services, ils agissent comme des sous-traitants lorsqu’ils traitent vos données à caractère personnel et nous veillons à toujours avoir des contrats et des garanties en place pour assurer la protection de vos informations. Pour obtenir la liste des sous traitants, vous pouvez envoyer votre demande à notre DPO à l'adresse dpo@kry.fr.
 
 En savoir plus:
 
@@ -310,7 +310,7 @@ _DMS France, en tant que fournisseur de la plateforme et des services, agit comm
 
 _l’exploitation, la maintenance, le dépannage, l’assistance dans le travail du Prestataire de soins et l’amélioration de la qualité des soins, ainsi que dans le travail de mise en conformité et de sécurité du Prestataire de soins._
 
-_En qualité de sous-traitant, DMS France ne traite donc vos données personnelles que sur instructions du Prestataire de soins. Différents Prestataire de soins utilisent la plateforme Livi, et traitent ainsi vos données personnelles lorsque vous utilisez les services. Même lorsque vous souhaitez avoir une consultation avec le premier médecin disponible, sans l’avoir choisi au préalable, vous aurez toujours connaissance de l’identité du professionnel qui vous prendra en charge avant d'utiliser les services, et vous saurez ainsi toujours qui est responsable du traitement de vos données._
+_En qualité de sous-traitant, DMS France ne traite donc vos données personnelles que sur instructions du Prestataire de soins. Différents Prestataire de soins utilisent la plateforme Kry, et traitent ainsi vos données personnelles lorsque vous utilisez les services. Même lorsque vous souhaitez avoir une consultation avec le premier médecin disponible, sans l’avoir choisi au préalable, vous aurez toujours connaissance de l’identité du professionnel qui vous prendra en charge avant d'utiliser les services, et vous saurez ainsi toujours qui est responsable du traitement de vos données._
 
   
 
@@ -320,7 +320,7 @@ Parfois, nous partageons vos données personnelles avec des tiers qui agiront en
 
 En savoir plus: 
 
-_Dans certaines situations, nous partageons certaines de vos données personnelles avec des tiers qui traiteront vos données pour leurs propres finalités en tant que responsables de traitement indépendants. Ce peut être le cas notamment lorsque vous êtes un assuré d’une complémentaire santé partenaire de Livi. Veuillez noter que cette politique de confidentialité ne s’applique pas aux traitements de données effectués par ces tiers. Pour plus d’informations sur la manière dont ces tiers traitent vos données, nous vous invitons à vous rapprocher de ces derniers._
+_Dans certaines situations, nous partageons certaines de vos données personnelles avec des tiers qui traiteront vos données pour leurs propres finalités en tant que responsables de traitement indépendants. Ce peut être le cas notamment lorsque vous êtes un assuré d’une complémentaire santé partenaire de Kry. Veuillez noter que cette politique de confidentialité ne s’applique pas aux traitements de données effectués par ces tiers. Pour plus d’informations sur la manière dont ces tiers traitent vos données, nous vous invitons à vous rapprocher de ces derniers._
 
   
 
@@ -357,7 +357,7 @@ En savoir plus: 
 _Si nos services vous sont proposés par votre assurance complémentaire, nous pouvons, notamment aux fins de remboursement, révéler à votre assurance complémentaire certaines de vos données personnelles, notamment le fait que vous avez utilisé les services. Aucune information de santé n’est partagée avec votre assureur. Cette politique de confidentialité ne s’applique pas aux traitements de données effectués par votre assurance complémentaire. Pour plus d’informations sur la manière dont votre assurance complémentaire traite vos données, vous pouvez contacter votre assurance complémentaire._
 
 _  
-Si nos services vous sont proposés par votre employeur, nous agissons comme responsable de traitement pour les données personnelles que nous recevons de la part de votre employeur (telles que votre nom et celui de votre employeur afin de vérifier votre éligibilité aux services via votre employeur) avec votre consentement (lorsque vous choisissez d’utiliser les services Livi proposés par votre employeur, vous consentez à ce partage de données), et les données personnelles que nous collectons à votre sujet lorsque vous utilisez les services. Ces  données personnelles collectées lors de votre utilisation des services ne sont pas partagées avec votre employeur. Les seules informations que nous partageons à votre employeur le sont sous forme de statistiques agrégées et anonymes portant sur l’utilisation des services par les salariés dudit employeur._
+Si nos services vous sont proposés par votre employeur, nous agissons comme responsable de traitement pour les données personnelles que nous recevons de la part de votre employeur (telles que votre nom et celui de votre employeur afin de vérifier votre éligibilité aux services via votre employeur) avec votre consentement (lorsque vous choisissez d’utiliser les services Kry proposés par votre employeur, vous consentez à ce partage de données), et les données personnelles que nous collectons à votre sujet lorsque vous utilisez les services. Ces  données personnelles collectées lors de votre utilisation des services ne sont pas partagées avec votre employeur. Les seules informations que nous partageons à votre employeur le sont sous forme de statistiques agrégées et anonymes portant sur l’utilisation des services par les salariés dudit employeur._
 
   
 
@@ -384,7 +384,7 @@ _Les mécanismes de transfert que nous utilisons sont :_
 
 _Les décisions d’adéquation_
 
-[Les clauses contractuelles standards](https://docs.google.com/document/d/1LXOA-43jUFGRAxftNmKL38ba5A4C3R2v/edit#bookmark=id.gjdgxs "les-clauses-contractuelles-standards")
+[Les clauses contractuelles standards](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_fr "les-clauses-contractuelles-standards")
 
   
 
@@ -398,7 +398,7 @@ En savoir plus: 
 
 _Vos données à caractère personnel ne sont conservées que pour la durée nécessaire à la réalisation des finalités du traitement ou répondre à des obligations légales._
 
-_Pour plus d’informations sur la durée de la conservation de vos données personnelles pour chaque finalité, s’il vous plaît, cliquez_ [ici](https://www.livi.fr/eula/tableau-des-finalites-et-duree-de-conservation-des-donnees/ "ici")
+_Pour plus d’informations sur la durée de la conservation de vos données personnelles pour chaque finalité, s’il vous plaît, cliquez_ [ici](https://livi.fr/eula/tableau-des-finalites-et-duree-de-conservation-des-donnees/ "ici")
 
   
 
@@ -407,11 +407,11 @@ _Pour plus d’informations sur la durée de la conservation de vos données per
 
 Vous disposez de droits concernant la protection de vos données, comme par exemple, le droit de corriger toute information erronée, le droit de recevoir une copie des données personnelles vous concernant que nous traitons ainsi que le droit de supprimer vos données personnelles.
 
-Pour exercer ces droits, consultez les paramètres de votre profil dans l’application Livi ou contactez-nous à l’adresse [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr").
+Pour exercer ces droits, consultez les paramètres de votre profil dans l’application Kry ou contactez-nous à l’adresse [privacy@kry.fr](mailto:privacy@kry.se "privacykryfr").
 
 En savoir plus: 
 
-_En tant qu’individu, vous disposez de certains droits en relation avec vos données personnelles, comme décrit ci-dessous. Cependant, veuillez noter que ces droits ne sont pas inconditionnels et peuvent parfois ne pas s’appliquer à certains des  traitements de vos données à caractère personnel notamment ceux réalisées pour le compte des professionnels de santé, tenus à certaines obligations en termes de durée de conservation par exemple. Si vous souhaitez exercer l’un de vos droits,  veuillez visiter les paramètres de votre profil qui vous permettent d’en exercer automatiquement certains d’entre eux, ou contactez-nous à l’adresse_ [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr")_._
+_En tant qu’individu, vous disposez de certains droits en relation avec vos données personnelles, comme décrit ci-dessous. Cependant, veuillez noter que ces droits ne sont pas inconditionnels et peuvent parfois ne pas s’appliquer à certains des  traitements de vos données à caractère personnel notamment ceux réalisées pour le compte des professionnels de santé, tenus à certaines obligations en termes de durée de conservation par exemple. Si vous souhaitez exercer l’un de vos droits,  veuillez visiter les paramètres de votre profil qui vous permettent d’en exercer automatiquement certains d’entre eux, ou contactez-nous à l’adresse_ [privacy@kry.fr](mailto:privacy@kry.se "privacykryfr")_._
 
 _Nous sommes tenus de répondre à votre demande d’exercice de vos droits dans un délai d’un mois à compter de votre manifestation. Si votre demande est complexe ou si un nombre important de demandes a été envoyé, nous sommes autorisés à prolonger ce délai d’un mois. Si nous estimons que nous ne pouvons pas faire ce que vous attendez de nous, nous vous informerons dans le mois suivant la réception de votre demande des raisons pour lesquelles nous ne pouvons pas y répondre._
 
@@ -433,9 +433,9 @@ _Droit à la portabilité - le droit de demander une copie de vos données perso
 
 _Droit de ne pas être soumis à une prise de décision automatisée - le droit de ne pas être sujet à une décision basée uniquement sur une décision automatisée, y compris le profiling, lorsque la décision peut avoir un effet juridique sur vous ou produire un effet similaire significatif ._
 
-_Pour en savoir plus sur les droits applicables à quel traitement en cliquant_ [ici](https://www.livi.fr/eula/tableau-des-finalites-et-duree-de-conservation-des-donnees/ "ici")
+_Pour en savoir plus sur les droits applicables à quel traitement en cliquant_ [ici](https://livi.fr/eula/tableau-des-finalites-et-duree-de-conservation-des-donnees/ "ici")
 
-_Comme indiqué plus haut, vous aurez le droit de vous opposer au partage de votre dossier médical avec d’autres professionnels de santé ou prestataires de soins. Pour obtenir des informations ou de l’aide, veuillez contacter le support à privacy@livi.fr_
+_Comme indiqué plus haut, vous aurez le droit de vous opposer au partage de votre dossier médical avec d’autres professionnels de santé ou prestataires de soins. Pour obtenir des informations ou de l’aide, veuillez contacter le support à privacy@kry.fr_
 
   
 
@@ -444,19 +444,19 @@ _Comme indiqué plus haut, vous aurez le droit de vous opposer au partage de vot
 
 Vous devez toujours pouvoir vous sentir en sécurité quand vous nous confiez vos données à caractère personnel. C’est pourquoi nous avons pris les mesures de sécurité appropriées pour les protéger contre tout accès, modification ou suppression non autorisés.
 
-A titre d’exemple, pour assurer sécurité et confidentialité des données, Livi utilise des mécanismes d'authentification à deux facteurs (2FA), un cryptage de bout en bout (E2EE), vidéotransmission cryptée selon la norme AES-128 (cryptage AES avec des clés de 128 bits pour crypter l'audio et la vidéo) et HMAC-SHA1 pour vérifier l'intégrité des données, ou encore la norme Transport Layer Security (TLS) pour la transmission cryptée des données (protocole WebRTC et les processus de cryptage des codecs vidéo VP8, VP9 et H.264).
+A titre d’exemple, pour assurer sécurité et confidentialité des données, Kry utilise des mécanismes d'authentification à deux facteurs (2FA), un cryptage de bout en bout (E2EE), vidéotransmission cryptée selon la norme AES-128 (cryptage AES avec des clés de 128 bits pour crypter l'audio et la vidéo) et HMAC-SHA1 pour vérifier l'intégrité des données, ou encore la norme Transport Layer Security (TLS) pour la transmission cryptée des données (protocole WebRTC et les processus de cryptage des codecs vidéo VP8, VP9 et H.264).
 
 S’il y a des incidents de sécurité qui peuvent vous affecter ou affecter vos données personnelles de manière plus significative par exemple lorsqu’il existe un risque de fraude ou d’usurpation d’identité, nous vous contacterons et vous indiquerons ce que vous pouvez faire pour réduire le risque.
 
 11) Et les cookies?
 -------------------
 
-Nous utilisons des cookies. Vous pouvez consulter notre politique relative aux cookies [ici](https://www.livi.fr/legal/cookies/ "ici").
+Nous utilisons des cookies. Vous pouvez consulter notre politique relative aux cookies [ici](https://livi.fr/legal/cookies/ "ici").
 
 12) Comment nous contacter?
 ---------------------------
 
-Nous espérons que cette Politique de confidentialité a répondu à la plupart de vos questions. Cependant, si vous avez des interrogations ou remarques, ou si vous souhaitez exercer les droits décrits ci-dessus, vous pouvez nous contacter ou contacter notre DPO en envoyant un email à [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr"). Vous pouvez également utiliser les informations de contact ci-dessous.  
+Nous espérons que cette Politique de confidentialité a répondu à la plupart de vos questions. Cependant, si vous avez des interrogations ou remarques, ou si vous souhaitez exercer les droits décrits ci-dessus, vous pouvez nous contacter ou contacter notre DPO en envoyant un email à [privacy@kry.fr](mailto:privacy@kry.se "privacykryfr"). Vous pouvez également utiliser les informations de contact ci-dessous.  
   
 Digital Medical Supply France  
 33 rue du Louvre  
@@ -475,7 +475,7 @@ Version 16 janvier 2026
 1) Introduction
 ---------------
 
-Livi est une Application (« App ») disponible sur support mobile (smartphone et tablette) et sur le web à partir du site internet livi.fr dédiée à la mise en relation entre des utilisateurs et des professionnels de santé. Livi a vocation à fournir des services de soins à distance (télémédecine, télésoin) et de soins présentiels.
+Kry est une Application (« App ») disponible sur support mobile (smartphone et tablette) et sur le web à partir du site internet kry.fr dédiée à la mise en relation entre des utilisateurs et des professionnels de santé. Kry, opérant préalablement sous le nom de Livi, a vocation à fournir des services de soins à distance (télémédecine, télésoin) et de soins présentiels.
 
 Dans le cadre de cette mission, nous souhaitons être transparents et vous expliquer nos mesures et pratiques de protection des données personnelles afin que vous, en tant qu’individu, utilisateur et patient, vous vous sentiez toujours à l’aise lorsque vous utilisez nos services et nous confiez vos données personnelles. La présente politique de confidentialité explique qui est responsable des traitements de données personnelles effectués en relation avec votre utilisation des services et comment sont utilisées vos données ”utilisateur” et “patient” : quelles données nous collectons lorsque vous utilisez les services et à quelles fins, avec qui elles sont partagées, quels sont vos droits concernant le traitement de vos données personnelles, comment vous pouvez les exercer et comment vous pouvez contrôler l’utilisation de vos données. Nous y indiquons la base légale des traitements et qui sont les tiers qui peuvent traiter vos données à caractère personnel dans le but de vous fournir les services.
 
@@ -497,9 +497,9 @@ Cette politique de confidentialité vous concerne si vous :
 2) Les services
 ---------------
 
-Grâce aux outils numériques Livi mis à dispositon sur le site livi.fr ou sur support mobile (smartphone) (“l’**App Livi**”), vous pouvez être mis en relation avec des professionnels de santé ou avec des tiers dans un but de soins.
+Grâce aux outils numériques Kry mis à dispositon sur le site kry.fr ou sur support mobile (smartphone) (“l’**App Kry**”), vous pouvez être mis en relation avec des professionnels de santé ou avec des tiers dans un but de soins.
 
-Les prestataires de soins utilisateurs de la plateforme Livi fournissent aux patients des services de soins tels que des consultations médicales, des prescriptions, etc… (Les services de soins). La fourniture de la plateforme Livi et les services de soins sont ensemble dénommés “les services” dans cette politique de confidentialité.
+Les prestataires de soins utilisateurs de la plateforme Kry fournissent aux patients des services de soins tels que des consultations médicales, des prescriptions, etc… (Les services de soins). La fourniture de la plateforme Kry et les services de soins sont ensemble dénommés “les services” dans cette politique de confidentialité.
 
 Pour utiliser les services, vous devez accepter nos Conditions Générales d’Utilisations et autres conditions disponibles.
 
@@ -512,23 +512,23 @@ Pour utiliser les services, vous devez accepter nos Conditions Générales d’U
 
 _En savoir plus:_ 
 
-_DMS France est la filiale française du groupe Kry international AB (publ) (“Kry”). Kry International AB (publ) a concédé à DMS France une licence d’utilisation de l’App Livi pour le territoire français. Vous trouverez les informations de contact de Kry international AB (publ) et de DMS France à la fin de cette politique de confidentialité._
+_DMS France est la filiale française du groupe Kry international AB (publ) (“Kry”). Kry International AB (publ) a concédé à DMS France une licence d’utilisation de l’App Kry pour le territoire français. Vous trouverez les informations de contact de Kry international AB (publ) et de DMS France à la fin de cette politique de confidentialité._
 
-_Il s’agit par exemple de vous permettre d’installer l’application, de vous authentifier ou de vous enregistrer, de faciliter les contacts avec les professionnels de santé et de vous fournir du contenu informatif via la plateforme Livi. Ces informations sont désignées comme “données utilisateurs”._
+_Il s’agit par exemple de vous permettre d’installer l’application, de vous authentifier ou de vous enregistrer, de faciliter les contacts avec les professionnels de santé et de vous fournir du contenu informatif via la plateforme Kry. Ces informations sont désignées comme “données utilisateurs”._
 
   
 
 **DMS France agit**, concernant vos données de santé, uniquement en tant que sous-traitant du Prestataire de soins au sens du RGPD. Cela signifie que vos données à caractère personnel sont traitées uniquement selon les instructions du Prestataire de soins, qui est responsable du traitement au sens du RGPD.
 
-Lorsque vous consultez un **Prestataire de soins** sur Livi, celui-ci est responsable de tous les traitements de vos données personnelles qui ont lieu dans le cadre de cette interaction, et pour conserver des informations relatives à vos consultations.
+Lorsque vous consultez un **Prestataire de soins** sur Kry, celui-ci est responsable de tous les traitements de vos données personnelles qui ont lieu dans le cadre de cette interaction, et pour conserver des informations relatives à vos consultations.
 
 En savoir plus: 
 
 _Le “_**_Prestataire de soins_**_” est :_
 
-_Soit un professionnel ou une structure de santé que vous avez recherché sur l’App Livi;_
+_Soit un professionnel ou une structure de santé que vous avez recherché sur l’App Kry;_
 
-_Soit un professionnel ou une structure de santé qui vous est proposé par l’App Livi en fonction de votre situation. Dans ce dernier cas, vous serez informé de l’identité du professionnel de santé avant le début de la consultation, ce qui vous permettra d’avoir connaissance du Prestataire de soins responsable de vos données personnelles._
+_Soit un professionnel ou une structure de santé qui vous est proposé par l’App Kry en fonction de votre situation. Dans ce dernier cas, vous serez informé de l’identité du professionnel de santé avant le début de la consultation, ce qui vous permettra d’avoir connaissance du Prestataire de soins responsable de vos données personnelles._
 
 _Il peut s'agir d’un professionnel libéral ou d’une structure de type centre de santé._
 
@@ -536,22 +536,22 @@ _Il peut s'agir d’un professionnel libéral ou d’une structure de type centr
 
 **Les interactions entre les membres de l’équipe de soins**
 
-Les professionnels de santé qui interviennent dans la prise en charge d’un patient sur Livi constituent une équipe de soins au sens de l’article L. 1110-12 du Code de la santé publique. A ce titre, pour les besoins de votre prise en charge et pour s’assurer de la coordination et de la qualité des soins qui vous sont prodigués, les membres de l’équipe de soin peuvent accéder à votre dossier médical, le partager entre eux et échanger des informations personnelles vous concernant et qui leur semblent pertinentes.
+Les professionnels de santé qui interviennent dans la prise en charge d’un patient sur Kry constituent une équipe de soins au sens de l’article L. 1110-12 du Code de la santé publique. A ce titre, pour les besoins de votre prise en charge et pour s’assurer de la coordination et de la qualité des soins qui vous sont prodigués, les membres de l’équipe de soin peuvent accéder à votre dossier médical, le partager entre eux et échanger des informations personnelles vous concernant et qui leur semblent pertinentes.
 
-Lorsque vous demandez une téléconsultation sur Livi, vous acceptez de partager vos informations personnelles et votre dossier médical avec le médecin ou autre prestataire de soins qui va réaliser la téléconsultation. Vous disposez du droit de refuser de partager tout ou partie de vos informations avec un ou plusieurs membres de l’équipe de soins telle que décrite ci-dessus. Dans cette hypothèse, il se peut que le médecin ne puisse pas procéder à la téléconsultation en raison de l’absence de partage du dossier médical.
+Lorsque vous demandez une téléconsultation sur Kry, vous acceptez de partager vos informations personnelles et votre dossier médical avec le médecin ou autre prestataire de soins qui va réaliser la téléconsultation. Vous disposez du droit de refuser de partager tout ou partie de vos informations avec un ou plusieurs membres de l’équipe de soins telle que décrite ci-dessus. Dans cette hypothèse, il se peut que le médecin ne puisse pas procéder à la téléconsultation en raison de l’absence de partage du dossier médical.
 
 4) Où et quand collectons-nous des informations à votre sujet ?
 ---------------------------------------------------------------
 
 Nous collectons les informations directement auprès de vous, par exemple, les informations que vous soumettez lorsque vous vous inscrivez, remplissez un formulaire et quand vous utilisez nos produits et services.
 
-Nous pouvons également obtenir des informations vous concernant par l'intermédiaire de tiers vous ayant redirigé vers l’App Livi pour bénéficier des services.
+Nous pouvons également obtenir des informations vous concernant par l'intermédiaire de tiers vous ayant redirigé vers l’App Kry pour bénéficier des services.
 
 En savoir plus: 
 
 _Nous collectons les informations directement auprès de vous, par exemple quand vous vous inscrivez pour bénéficier d’un service, prenez rendez-vous dans un centre de santé, modifiez votre profil, soumettez des informations avant et pendant les consultations avec les prestataires de soins._
 
-_Par ailleurs, si un autre prestataire de soins vous a invité à utiliser nos services, il peut nous transmettre les informations qu’il juge nécessaire pour votre utilisation des services. Livi peut également traiter vos données personnelles relatives à des soins réalisés par d'autres prestataires de soins extérieurs à Livi. Si ces données sont considérées comme pertinentes pour la réalisation des soins dans le cadre des services Livi, elles peuvent être traitées et enregistrées dans vos dossiers médicaux par le Prestataire de soins qui vous prend en charge sur Livi._
+_Par ailleurs, si un autre prestataire de soins vous a invité à utiliser nos services, il peut nous transmettre les informations qu’il juge nécessaire pour votre utilisation des services. Kry peut également traiter vos données personnelles relatives à des soins réalisés par d'autres prestataires de soins extérieurs à Kry. Si ces données sont considérées comme pertinentes pour la réalisation des soins dans le cadre des services Kry, elles peuvent être traitées et enregistrées dans vos dossiers médicaux par le Prestataire de soins qui vous prend en charge sur Kry._
 
 _Si vous utilisez nos services dans le cadre d’un avantage fourni par votre assurance complémentaire ou employeur, ces derniers peuvent nous transmettre certaines informations basiques nécessaires à la vérification de votre identité afin de vérifier que vous bénéficiez de cet avantage._
 
@@ -560,7 +560,7 @@ _Si vous utilisez nos services dans le cadre d’un avantage fourni par votre as
 
 **DMS France** 
 
-Quand vous utilisez l’App Livi, les catégories suivantes de données sont collectées:
+Quand vous utilisez l’App Kry, les catégories suivantes de données sont collectées:
 
 *   Informations personnelles,
     
@@ -575,7 +575,7 @@ Quand vous utilisez l’App Livi, les catégories suivantes de données sont col
 
 Vos données personnelles sont traitées pour les finalités suivantes :
 
-*   Pour fournir l’accès aux services de la plateforme Livi,
+*   Pour fournir l’accès aux services de la plateforme Kry,
     
 *   Pour le support technique et la communication,
     
@@ -596,22 +596,22 @@ En savoir plus: 
 
 **_DMS France_**
 
-_Quand vous vous identifiez et que vous utilisez l’application Livi, DMS France recueille les informations suivantes à votre sujet._ 
+_Quand vous vous identifiez et que vous utilisez l’application Kry, DMS France recueille les informations suivantes à votre sujet._ 
 
 **_Données personnelles_** 
 
-_Quand vous créez un compte dans l’application Livi, DMS France va recueillir certaines informations basiques à votre sujet. Cela inclut votre nom, adresse, nationalité, email, numéro de téléphone. Si vous ajoutez un enfant à votre profil, nous recueillerons les mêmes informations à son sujet, ainsi que la vérification de votre autorité parentale._
+_Quand vous créez un compte dans l’application Kry, DMS France va recueillir certaines informations basiques à votre sujet. Cela inclut votre nom, adresse, nationalité, email, numéro de téléphone. Si vous ajoutez un enfant à votre profil, nous recueillerons les mêmes informations à son sujet, ainsi que la vérification de votre autorité parentale._
 
 **_Détails techniques - utilisation de l’App_**
 
-_Quand vous utilisez les services Livi, DMS France collecte automatiquement des informations complémentaires à votre sujet, telles que votre langue, l’heure, les paramètres d’écran et de localisation, le type de système d’exploitation, l’appareil utilisé et le navigateur, l’adresse IP. Quand vous utilisez nos services, DMS France collecte automatiquement des informations sur la façon dont vous avez utilisé notre application et notre site internet, les jours et heures de vos visites et les fonctionnalités et services que vous avez utilisés, vos paramètres d’application ou de service, comme vos options marketing et vos notifications._
+_Quand vous utilisez les services Kry, DMS France collecte automatiquement des informations complémentaires à votre sujet, telles que votre langue, l’heure, les paramètres d’écran et de localisation, le type de système d’exploitation, l’appareil utilisé et le navigateur, l’adresse IP. Quand vous utilisez nos services, DMS France collecte automatiquement des informations sur la façon dont vous avez utilisé notre application et notre site internet, les jours et heures de vos visites et les fonctionnalités et services que vous avez utilisés, vos paramètres d’application ou de service, comme vos options marketing et vos notifications._
 
 **_Cookies et traceurs_** 
 
 _Nous utilisons également des cookies pour comprendre quels sites internet, publicités et services vous avez visités et comment vous les avez utilisés.  
 Les cookies sont des fichiers sauvegardés sur votre téléphone, tablette ou ordinateur quand vous utilisez des sites internet, publicités ou services. Nous n’utilisons pas de cookies pour collecter des informations médicales ou relatives à la santé._
 
-_Pour en savoir plus sur la façon dont nous utilisons les cookies, consultez notre_ [politique en matière de cookies](https://www.livi.fr/legal/cookies/ "politique-en-matiere-de-cookies")_._
+_Pour en savoir plus sur la façon dont nous utilisons les cookies, consultez notre_ [politique en matière de cookies](https://livi.fr/legal/cookies/ "politique-en-matiere-de-cookies")_._
 
 **_Données de communication et marketing_**
 
@@ -625,27 +625,27 @@ DMS France utilise vos informations pour les finalités suivantes :_ 
 
 _**Support technique et communication,**_ _pour vous permettre de vous inscrire (et vous désinscrire), vérifier votre éligibilité pour les services, pour vous authentifier et vous connecter dans l’application et pour créer et modifier votre profil, réglages et préférence_
 
-_**Marketing**_ _qui, si vous avez choisi de recevoir du contenu marketing et promotionnel, implique que Livi vous envoie des newsletters, les mises à jour du produit, des contenus promotionnels par courrier, email ou notification push. Vous pouvez toujours refuser de recevoir ce type de marketing en ajustant les préférences de votre application._
+_**Marketing**_ _qui, si vous avez choisi de recevoir du contenu marketing et promotionnel, implique que Kry vous envoie des newsletters, les mises à jour du produit, des contenus promotionnels par courrier, email ou notification push. Vous pouvez toujours refuser de recevoir ce type de marketing en ajustant les préférences de votre application._
 
-**_Analyses et développement de produits,_** _pour analyser la façon dont vous utilisez la plateforme Livi afin de mieux comprendre comment nous pouvons améliorer l’expérience utilisateur et développer de meilleures fonctionnalités. Cela peut aussi inclure la participation à des études de marché et d’utilisateurs si vous voulez en faire partie._
+**_Analyses et développement de produits,_** _pour analyser la façon dont vous utilisez la plateforme Kry afin de mieux comprendre comment nous pouvons améliorer l’expérience utilisateur et développer de meilleures fonctionnalités. Cela peut aussi inclure la participation à des études de marché et d’utilisateurs si vous voulez en faire partie._
 
 _Nous utilisons également des statistiques liées à l’utilisation de nos services pour nous assurer que nous avons suffisamment de ressources et d’expertise et savoir comment nous pouvons améliorer et développer les services pour mieux répondre aux besoins de nos utilisateurs._
 
 **_Recherches et statistiques,_** _vos données à caractère personnel peuvent faire l’objet d’un traitement d’anonymisation en vue de réaliser des études statistiques ou des recherches scientifiques, dans le respect des articles 5 et 9 du RGPD._  
 
-_**Administration et exécution des contrats,**_ _conclus entre vous et nous, notamment pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Livi, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
+_**Administration et exécution des contrats,**_ _conclus entre vous et nous, notamment pour assurer le respect des conditions générales d’utilisations applicables à la plateforme Kry, en particulier pour éviter les mésusages et utilisations frauduleuses de la plateforme, les non paiement. En cas de défauts de paiement de votre part, il se peut que nous transmettions vos informations à un sous-traitant chargé du recouvrement de nos créances._
 
 _**Maintien d’une présence sur les réseaux sociaux,**_ _pour communiquer avec nos utilisateurs et les parties intéressées, entre autres, et pour diffuser les informations relatives à nos services.  
   
 Les données de nos utilisateurs sont généralement traitées par les réseaux sociaux concernés à des fins d’étude de marché et de publicité. De cette façon, des profils d’utilisateurs peuvent être créés en fonction des intérêts des utilisateurs. A cette fin, des cookies et autres identifiants sont stockés sur votre ordinateur. Sur la base de ces profils d’utilisation, des publicités de tiers des réseaux sociaux sont toutefois également envoyées à des sites web tiers. Dans le cadre de notre présence en ligne, il est possible que nous puissions accéder à des informations telles que des statistiques sur l’utilisation de notre présence en ligne, qui sont fournies par les réseaux sociaux. Ces statistiques sont agrégées et peuvent contenir des informations démographiques particulières et des statistiques sur l’interaction avec notre présence en ligne ainsi que les contributions et contenus associés._
 
-**_Préserver les intérêts juridiques de Livi_** _dans les procédures ou les litiges et pour enquêter sur l’utilisation illégale ou frauduleuse des services, les non paiement._
+**_Préserver les intérêts juridiques de Kry_** _dans les procédures ou les litiges et pour enquêter sur l’utilisation illégale ou frauduleuse des services, les non paiement._
 
 **_Opérations en relation avec les fusions, acquisitions_** _ou toutes autres  opérations de restructuration de fournisseur de soins._  
 
 **Prestataire de soins** 
 
-Quand vous utilisez l’application Livi, les catégories suivantes de données personnelles sont collectées :
+Quand vous utilisez l’application Kry, les catégories suivantes de données personnelles sont collectées :
 
 *   Informations personnelles,
     
@@ -687,9 +687,9 @@ _Quand vous utilisez nos services de santé, le prestataire de soins collecte le
 
 _Les informations mentionnées sous “DMS France / Données personnelles” sont également collectées par le Prestataire de soins, pour constituer le volet administratif de votre dossier médical._
 
-_Si vous recherchez des prestations de santé directement auprès des centres de santé ou en dehors de l’application Livi, ces informations sont renseignées directement par vous ou par les membres du personnel du prestataire de soins._ 
+_Si vous recherchez des prestations de santé directement auprès des centres de santé ou en dehors de l’application Kry, ces informations sont renseignées directement par vous ou par les membres du personnel du prestataire de soins._ 
 
-_Si vous prenez contact via l’application Livi, les informations sont collectées par DMS France._
+_Si vous prenez contact via l’application Kry, les informations sont collectées par DMS France._
 
 **_Informations relatives à la santé et à la consultation_**
 
@@ -723,13 +723,13 @@ _**La production de statistiques**_ _sur l'utilisation des services de santé et
 
 _**L'analyse des statistiques et des retours des patients**_ _afin d'assurer le suivi, d'identifier les domaines d'amélioration et de garantir et développer la qualité des processus, des systèmes et des fonctions. L'objectif est d'améliorer continuellement la qualité médicale, la satisfaction des patients, l'accessibilité, la sécurité et l'expérience utilisateur de nos patients._
 
-_NB: Les consultations Livi ne sont jamais enregistrées, ni en format audio, ni en vidéo.Cependant, les transcriptions, ou fichiers texte qui reproduisent la conversation entre vous et les professionnels de santé, peuvent être stockés et utilisés par nos systèmes pour rationaliser et automatiser notre travail administratif._
+_NB: Les consultations Kry ne sont jamais enregistrées, ni en format audio, ni en vidéo.Cependant, les transcriptions, ou fichiers texte qui reproduisent la conversation entre vous et les professionnels de santé, peuvent être stockés et utilisés par nos systèmes pour rationaliser et automatiser notre travail administratif._
 
 _Par exemple, pour générer des résumés de vos symptômes ou demandes afin d'aider à vous mettre en relation avec le professionnel de santé approprié à votre besoin en tant que patient, ou pour faciliter les tâches administratives des professionnels (en fournissant des ébauches de documents), ce qui permet au professionnel de santé de consacrer plus de temps à ses patients._
 
 _Nos logiciels n'interviennent pas dans, ni n'influencent, la prise de décisions médicales, qui reste du ressort exclusif de notre personnel médical._
 
-_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle_ [ici](https://www.livi.fr/livi-nouvelles-technologies/ "ici")_._
+_Pour en savoir plus sur notre travail avec l'automatisation et l'intelligence artificielle_ [ici](https://livi.fr/kry-nouvelles-technologies/ "ici")_._
 
 _**Paiement et remboursement**__, pour vous permettre de payer vos téléconsultations et obtenir le remboursement auprès des organismes d’assurance maladie (Régime obligatoire et régime complémentaire)._
 
@@ -755,7 +755,7 @@ Le fournisseur de soins est tenu à une obligation de confidentialité lorsqu’
   
 6.1. Prestataires de services
 
-Nous engageons des prestataires de services pour nous aider à fournir les Services, ils agissent comme des sous-traitants lorsqu’ils traitent vos données à caractère personnel et nous veillons à toujours avoir des contrats et des garanties en place pour assurer la protection de vos informations. Pour obtenir la liste des sous traitants, vous pouvez envoyer votre demande à notre DPO à l'adresse dpo@livi.fr.
+Nous engageons des prestataires de services pour nous aider à fournir les Services, ils agissent comme des sous-traitants lorsqu’ils traitent vos données à caractère personnel et nous veillons à toujours avoir des contrats et des garanties en place pour assurer la protection de vos informations. Pour obtenir la liste des sous traitants, vous pouvez envoyer votre demande à notre DPO à l'adresse dpo@kry.fr.
 
 En savoir plus:
 
@@ -779,7 +779,7 @@ _DMS France, en tant que fournisseur de la plateforme et des services, agit comm
 
 _l’exploitation, la maintenance, le dépannage, l’assistance dans le travail du Prestataire de soins et l’amélioration de la qualité des soins, ainsi que dans le travail de mise en conformité et de sécurité du Prestataire de soins._
 
-_En qualité de sous-traitant, DMS France ne traite donc vos données personnelles que sur instructions du Prestataire de soins. Différents Prestataire de soins utilisent la plateforme Livi, et traitent ainsi vos données personnelles lorsque vous utilisez les services. Même lorsque vous souhaitez avoir une consultation avec le premier médecin disponible, sans l’avoir choisi au préalable, vous aurez toujours connaissance de l’identité du professionnel qui vous prendra en charge avant d'utiliser les services, et vous saurez ainsi toujours qui est responsable du traitement de vos données._
+_En qualité de sous-traitant, DMS France ne traite donc vos données personnelles que sur instructions du Prestataire de soins. Différents Prestataire de soins utilisent la plateforme Kry, et traitent ainsi vos données personnelles lorsque vous utilisez les services. Même lorsque vous souhaitez avoir une consultation avec le premier médecin disponible, sans l’avoir choisi au préalable, vous aurez toujours connaissance de l’identité du professionnel qui vous prendra en charge avant d'utiliser les services, et vous saurez ainsi toujours qui est responsable du traitement de vos données._
 
   
 
@@ -789,7 +789,7 @@ Parfois, nous partageons vos données personnelles avec des tiers qui agiront en
 
 En savoir plus: 
 
-_Dans certaines situations, nous partageons certaines de vos données personnelles avec des tiers qui traiteront vos données pour leurs propres finalités en tant que responsables de traitement indépendants. Ce peut être le cas notamment lorsque vous êtes un assuré d’une complémentaire santé partenaire de Livi. Veuillez noter que cette politique de confidentialité ne s’applique pas aux traitements de données effectués par ces tiers. Pour plus d’informations sur la manière dont ces tiers traitent vos données, nous vous invitons à vous rapprocher de ces derniers._
+_Dans certaines situations, nous partageons certaines de vos données personnelles avec des tiers qui traiteront vos données pour leurs propres finalités en tant que responsables de traitement indépendants. Ce peut être le cas notamment lorsque vous êtes un assuré d’une complémentaire santé partenaire de Kry. Veuillez noter que cette politique de confidentialité ne s’applique pas aux traitements de données effectués par ces tiers. Pour plus d’informations sur la manière dont ces tiers traitent vos données, nous vous invitons à vous rapprocher de ces derniers._
 
   
 
@@ -826,7 +826,7 @@ En savoir plus: 
 _Si nos services vous sont proposés par votre assurance complémentaire, nous pouvons, notamment aux fins de remboursement, révéler à votre assurance complémentaire certaines de vos données personnelles, notamment le fait que vous avez utilisé les services. Aucune information de santé n’est partagée avec votre assureur. Cette politique de confidentialité ne s’applique pas aux traitements de données effectués par votre assurance complémentaire. Pour plus d’informations sur la manière dont votre assurance complémentaire traite vos données, vous pouvez contacter votre assurance complémentaire._
 
 _  
-Si nos services vous sont proposés par votre employeur, nous agissons comme responsable de traitement pour les données personnelles que nous recevons de la part de votre employeur (telles que votre nom et celui de votre employeur afin de vérifier votre éligibilité aux services via votre employeur) avec votre consentement (lorsque vous choisissez d’utiliser les services Livi proposés par votre employeur, vous consentez à ce partage de données), et les données personnelles que nous collectons à votre sujet lorsque vous utilisez les services. Ces  données personnelles collectées lors de votre utilisation des services ne sont pas partagées avec votre employeur. Les seules informations que nous partageons à votre employeur le sont sous forme de statistiques agrégées et anonymes portant sur l’utilisation des services par les salariés dudit employeur._
+Si nos services vous sont proposés par votre employeur, nous agissons comme responsable de traitement pour les données personnelles que nous recevons de la part de votre employeur (telles que votre nom et celui de votre employeur afin de vérifier votre éligibilité aux services via votre employeur) avec votre consentement (lorsque vous choisissez d’utiliser les services Kry proposés par votre employeur, vous consentez à ce partage de données), et les données personnelles que nous collectons à votre sujet lorsque vous utilisez les services. Ces  données personnelles collectées lors de votre utilisation des services ne sont pas partagées avec votre employeur. Les seules informations que nous partageons à votre employeur le sont sous forme de statistiques agrégées et anonymes portant sur l’utilisation des services par les salariés dudit employeur._
 
   
 
@@ -853,7 +853,7 @@ _Les mécanismes de transfert que nous utilisons sont :_
 
 _Les décisions d’adéquation_
 
-[Les clauses contractuelles standards](https://docs.google.com/document/d/1LXOA-43jUFGRAxftNmKL38ba5A4C3R2v/edit#bookmark=id.gjdgxs "les-clauses-contractuelles-standards")
+[Les clauses contractuelles standards](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_fr "les-clauses-contractuelles-standards")
 
   
 
@@ -867,7 +867,7 @@ En savoir plus: 
 
 _Vos données à caractère personnel ne sont conservées que pour la durée nécessaire à la réalisation des finalités du traitement ou répondre à des obligations légales._
 
-_Pour plus d’informations sur la durée de la conservation de vos données personnelles pour chaque finalité, s’il vous plaît, cliquez_ [ici](https://www.livi.fr/eula/tableau-des-finalites-et-duree-de-conservation-des-donnees/ "ici")
+_Pour plus d’informations sur la durée de la conservation de vos données personnelles pour chaque finalité, s’il vous plaît, cliquez_ [ici](https://livi.fr/eula/tableau-des-finalites-et-duree-de-conservation-des-donnees/ "ici")
 
   
 
@@ -876,11 +876,11 @@ _Pour plus d’informations sur la durée de la conservation de vos données per
 
 Vous disposez de droits concernant la protection de vos données, comme par exemple, le droit de corriger toute information erronée, le droit de recevoir une copie des données personnelles vous concernant que nous traitons ainsi que le droit de supprimer vos données personnelles.
 
-Pour exercer ces droits, consultez les paramètres de votre profil dans l’application Livi ou contactez-nous à l’adresse [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr").
+Pour exercer ces droits, consultez les paramètres de votre profil dans l’application Kry ou contactez-nous à l’adresse [privacy@kry.fr](mailto:privacy@kry.se "privacykryfr").
 
 En savoir plus: 
 
-_En tant qu’individu, vous disposez de certains droits en relation avec vos données personnelles, comme décrit ci-dessous. Cependant, veuillez noter que ces droits ne sont pas inconditionnels et peuvent parfois ne pas s’appliquer à certains des  traitements de vos données à caractère personnel notamment ceux réalisées pour le compte des professionnels de santé, tenus à certaines obligations en termes de durée de conservation par exemple. Si vous souhaitez exercer l’un de vos droits,  veuillez visiter les paramètres de votre profil qui vous permettent d’en exercer automatiquement certains d’entre eux, ou contactez-nous à l’adresse_ [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr")_._
+_En tant qu’individu, vous disposez de certains droits en relation avec vos données personnelles, comme décrit ci-dessous. Cependant, veuillez noter que ces droits ne sont pas inconditionnels et peuvent parfois ne pas s’appliquer à certains des  traitements de vos données à caractère personnel notamment ceux réalisées pour le compte des professionnels de santé, tenus à certaines obligations en termes de durée de conservation par exemple. Si vous souhaitez exercer l’un de vos droits,  veuillez visiter les paramètres de votre profil qui vous permettent d’en exercer automatiquement certains d’entre eux, ou contactez-nous à l’adresse_ [privacy@kry.fr](mailto:privacy@kry.se "privacykryfr")_._
 
 _Nous sommes tenus de répondre à votre demande d’exercice de vos droits dans un délai d’un mois à compter de votre manifestation. Si votre demande est complexe ou si un nombre important de demandes a été envoyé, nous sommes autorisés à prolonger ce délai d’un mois. Si nous estimons que nous ne pouvons pas faire ce que vous attendez de nous, nous vous informerons dans le mois suivant la réception de votre demande des raisons pour lesquelles nous ne pouvons pas y répondre._
 
@@ -902,9 +902,9 @@ _Droit à la portabilité - le droit de demander une copie de vos données perso
 
 _Droit de ne pas être soumis à une prise de décision automatisée - le droit de ne pas être sujet à une décision basée uniquement sur une décision automatisée, y compris le profiling, lorsque la décision peut avoir un effet juridique sur vous ou produire un effet similaire significatif ._
 
-_Pour en savoir plus sur les droits applicables à quel traitement en cliquant_ [ici](https://www.livi.fr/eula/tableau-des-finalites-et-duree-de-conservation-des-donnees/ "ici")
+_Pour en savoir plus sur les droits applicables à quel traitement en cliquant_ [ici](https://livi.fr/eula/tableau-des-finalites-et-duree-de-conservation-des-donnees/ "ici")
 
-_Comme indiqué plus haut, vous aurez le droit de vous opposer au partage de votre dossier médical avec d’autres professionnels de santé ou prestataires de soins. Pour obtenir des informations ou de l’aide, veuillez contacter le support à privacy@livi.fr_
+_Comme indiqué plus haut, vous aurez le droit de vous opposer au partage de votre dossier médical avec d’autres professionnels de santé ou prestataires de soins. Pour obtenir des informations ou de l’aide, veuillez contacter le support à privacy@kry.fr_
 
   
 
@@ -913,19 +913,19 @@ _Comme indiqué plus haut, vous aurez le droit de vous opposer au partage de vot
 
 Vous devez toujours pouvoir vous sentir en sécurité quand vous nous confiez vos données à caractère personnel. C’est pourquoi nous avons pris les mesures de sécurité appropriées pour les protéger contre tout accès, modification ou suppression non autorisés.
 
-A titre d’exemple, pour assurer sécurité et confidentialité des données, Livi utilise des mécanismes d'authentification à deux facteurs (2FA), un cryptage de bout en bout (E2EE), vidéotransmission cryptée selon la norme AES-128 (cryptage AES avec des clés de 128 bits pour crypter l'audio et la vidéo) et HMAC-SHA1 pour vérifier l'intégrité des données, ou encore la norme Transport Layer Security (TLS) pour la transmission cryptée des données (protocole WebRTC et les processus de cryptage des codecs vidéo VP8, VP9 et H.264).
+A titre d’exemple, pour assurer sécurité et confidentialité des données, Kry utilise des mécanismes d'authentification à deux facteurs (2FA), un cryptage de bout en bout (E2EE), vidéotransmission cryptée selon la norme AES-128 (cryptage AES avec des clés de 128 bits pour crypter l'audio et la vidéo) et HMAC-SHA1 pour vérifier l'intégrité des données, ou encore la norme Transport Layer Security (TLS) pour la transmission cryptée des données (protocole WebRTC et les processus de cryptage des codecs vidéo VP8, VP9 et H.264).
 
 S’il y a des incidents de sécurité qui peuvent vous affecter ou affecter vos données personnelles de manière plus significative par exemple lorsqu’il existe un risque de fraude ou d’usurpation d’identité, nous vous contacterons et vous indiquerons ce que vous pouvez faire pour réduire le risque.
 
 11) Et les cookies?
 -------------------
 
-Nous utilisons des cookies. Vous pouvez consulter notre politique relative aux cookies [ici](https://www.livi.fr/legal/cookies/ "ici").
+Nous utilisons des cookies. Vous pouvez consulter notre politique relative aux cookies [ici](https://livi.fr/legal/cookies/ "ici").
 
 12) Comment nous contacter?
 ---------------------------
 
-Nous espérons que cette Politique de confidentialité a répondu à la plupart de vos questions. Cependant, si vous avez des interrogations ou remarques, ou si vous souhaitez exercer les droits décrits ci-dessus, vous pouvez nous contacter ou contacter notre DPO en envoyant un email à [privacy@livi.fr](mailto:privacy@kry.se "privacylivifr"). Vous pouvez également utiliser les informations de contact ci-dessous.  
+Nous espérons que cette Politique de confidentialité a répondu à la plupart de vos questions. Cependant, si vous avez des interrogations ou remarques, ou si vous souhaitez exercer les droits décrits ci-dessus, vous pouvez nous contacter ou contacter notre DPO en envoyant un email à [privacy@kry.fr](mailto:privacy@kry.se "privacykryfr"). Vous pouvez également utiliser les informations de contact ci-dessous.  
   
 Digital Medical Supply France  
 33 rue du Louvre  
