@@ -1,6 +1,8 @@
 Conditions générales d’utilisation et de vente
 ==============================================
 
+Version 16012026
+
 _Version 15.09.2026_
 
 Les présentes conditions générales d'utilisation et de vente (CGUV) sont destinées à encadrer l'utilisation de la solution Kry et les services qui y sont liés. Avant de commencer à utiliser les services Kry, opérant préalablement sous le nom de Livi sur l'application Kry (App Kry) ou le site internet (web App), veuillez lire ces conditions générales qui contiennent des informations importantes, notamment :
@@ -306,16 +308,13 @@ Cette réclamation est qualifiée par l'équipe support de Kry, qui l'oriente ve
 
 Si, après examen par DMS France, le désaccord persiste, l'Utilisateur dispose des voies de recours suivantes, selon la nature de sa réclamation :
 
-1° Litige déontologique portant sur les soins médicaux délivrés
+1° Litige déontologique portant sur les soins médicaux délivrés Si la réclamation porte sur un manquement déontologique du médecin ayant délivré la Téléconsultation, l'Utilisateur peut saisir le Conseil départemental de l'Ordre des médecins (CDOM) dont dépend ce médecin. Cette démarche relève de la seule relation entre l'Utilisateur et le médecin concerné et ne saurait impliquer DMS France, qui n'est pas soumise, en sa qualité de prestataire technologique, au code de déontologie médicale.
 
-Si la réclamation porte sur un manquement déontologique du médecin ayant délivré la Téléconsultation, l'Utilisateur peut saisir le Conseil départemental de l'Ordre des médecins (CDOM) dont dépend ce médecin. Cette démarche relève de la seule relation entre l'Utilisateur et le médecin concerné et ne saurait impliquer DMS France, qui n'est pas soumise, en sa qualité de prestataire technologique, au code de déontologie médicale.
+2° Demande d'indemnisation pour un dommage résultant d'une faute médicale Les médecins délivrant les Téléconsultations sont salariés de DMS France dans le cadre de son agrément de société de téléconsultation. Conformément aux règles de la responsabilité civile applicables aux commettants (article 1242, alinéa 5, du Code civil) et à l'article L.1142-1 du code de la santé publique, lorsqu'un dommage résulte d'une faute commise par un médecin salarié de DMS France dans l'exercice normal de sa mission de Téléconsultation, sans qu'il en ait excédé les limites, la demande d'indemnisation est portée contre la Société de téléconsultation, qui répond des conséquences dommageables de cette faute en sa qualité d'employeur. Cette voie s'exerce sans préjudice de la faculté pour l'Utilisateur de saisir le CDOM au titre du 1° ci-dessus, ainsi que des voies de règlement amiable (notamment la Commission de conciliation et d'indemnisation) ou juridictionnelles de droit commun.
 
-2° Demande d'indemnisation pour un dommage résultant d'une faute médicale
+3° Litige de consommation 
 
-Les médecins délivrant les Téléconsultations sont salariés de DMS France dans le cadre de son agrément de société de téléconsultation. Conformément aux règles de la responsabilité civile applicables aux commettants (article 1242, alinéa 5, du Code civil) et à l'article L.1142-1 du code de la santé publique, lorsqu'un dommage résulte d'une faute commise par un médecin salarié de DMS France dans l'exercice normal de sa mission de Téléconsultation, sans qu'il en ait excédé les limites, la demande d'indemnisation est portée contre la Société de téléconsultation, qui répond des conséquences dommageables de cette faute en sa qualité d'employeur. Cette voie s'exerce sans préjudice de la faculté pour l'Utilisateur de saisir le CDOM au titre du 1° ci-dessus, ainsi que des voies de règlement amiable (notamment la Commission de conciliation et d'indemnisation) ou juridictionnelles de droit commun.
-
-3° Litige de consommation  
-   
+  
 Si la réclamation porte sur un litige de consommation résultant des services fournis par DMS France dans le cadre de l'exploitation de sa plateforme de téléconsultation (notamment l'accès au service, le fonctionnement de la plateforme, les conditions tarifaires, la facturation, le remboursement et les autres aspects contractuels du service), à l'exclusion des litiges mentionnés aux 1° et 2° ci-dessus, lesquels ne relèvent pas de la médiation de la consommation conformément à l'article L.611-4 du Code de la consommation, l'Utilisateur, en sa qualité de consommateur, peut recourir gratuitement au médiateur de la consommation désigné par DMS France : le Centre de Médiation et d'Arbitrage de Paris (CMAP), médiateur agréé par la Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC). Conformément à l'article L.612-2 du Code de la consommation, le CMAP ne peut être saisi qu'à la condition que l'Utilisateur ait préalablement tenté de résoudre son litige directement auprès de Kry par une réclamation écrite, dans les conditions prévues à l'article 14.1 ci-dessus, et dans un délai maximum d'un an à compter de cette réclamation écrite. Le CMAP peut être saisi selon l'une des modalités suivantes :
 
 *   en ligne, via le formulaire disponible à l'adresse : [www.cmap.fr/consommateurs](https://www.cmap.fr/consommateurs "wwwcmapfrconsommateurs")
@@ -330,6 +329,8 @@ Le recours à la médiation de la consommation est gratuit pour l'Utilisateur.
 Conditions générales d’utilisation et de vente
 ==============================================
 
+Version 16012026
+
 _Version 15.09.2026_
 
 Les présentes conditions générales d'utilisation et de vente (CGUV) sont destinées à encadrer l'utilisation de la solution Kry et les services qui y sont liés. Avant de commencer à utiliser les services Kry, opérant préalablement sous le nom de Livi sur l'application Kry (App Kry) ou le site internet (web App), veuillez lire ces conditions générales qui contiennent des informations importantes, notamment :
@@ -635,16 +636,13 @@ Cette réclamation est qualifiée par l'équipe support de Kry, qui l'oriente ve
 
 Si, après examen par DMS France, le désaccord persiste, l'Utilisateur dispose des voies de recours suivantes, selon la nature de sa réclamation :
 
-1° Litige déontologique portant sur les soins médicaux délivrés
+1° Litige déontologique portant sur les soins médicaux délivrés Si la réclamation porte sur un manquement déontologique du médecin ayant délivré la Téléconsultation, l'Utilisateur peut saisir le Conseil départemental de l'Ordre des médecins (CDOM) dont dépend ce médecin. Cette démarche relève de la seule relation entre l'Utilisateur et le médecin concerné et ne saurait impliquer DMS France, qui n'est pas soumise, en sa qualité de prestataire technologique, au code de déontologie médicale.
 
-Si la réclamation porte sur un manquement déontologique du médecin ayant délivré la Téléconsultation, l'Utilisateur peut saisir le Conseil départemental de l'Ordre des médecins (CDOM) dont dépend ce médecin. Cette démarche relève de la seule relation entre l'Utilisateur et le médecin concerné et ne saurait impliquer DMS France, qui n'est pas soumise, en sa qualité de prestataire technologique, au code de déontologie médicale.
+2° Demande d'indemnisation pour un dommage résultant d'une faute médicale Les médecins délivrant les Téléconsultations sont salariés de DMS France dans le cadre de son agrément de société de téléconsultation. Conformément aux règles de la responsabilité civile applicables aux commettants (article 1242, alinéa 5, du Code civil) et à l'article L.1142-1 du code de la santé publique, lorsqu'un dommage résulte d'une faute commise par un médecin salarié de DMS France dans l'exercice normal de sa mission de Téléconsultation, sans qu'il en ait excédé les limites, la demande d'indemnisation est portée contre la Société de téléconsultation, qui répond des conséquences dommageables de cette faute en sa qualité d'employeur. Cette voie s'exerce sans préjudice de la faculté pour l'Utilisateur de saisir le CDOM au titre du 1° ci-dessus, ainsi que des voies de règlement amiable (notamment la Commission de conciliation et d'indemnisation) ou juridictionnelles de droit commun.
 
-2° Demande d'indemnisation pour un dommage résultant d'une faute médicale
+3° Litige de consommation 
 
-Les médecins délivrant les Téléconsultations sont salariés de DMS France dans le cadre de son agrément de société de téléconsultation. Conformément aux règles de la responsabilité civile applicables aux commettants (article 1242, alinéa 5, du Code civil) et à l'article L.1142-1 du code de la santé publique, lorsqu'un dommage résulte d'une faute commise par un médecin salarié de DMS France dans l'exercice normal de sa mission de Téléconsultation, sans qu'il en ait excédé les limites, la demande d'indemnisation est portée contre la Société de téléconsultation, qui répond des conséquences dommageables de cette faute en sa qualité d'employeur. Cette voie s'exerce sans préjudice de la faculté pour l'Utilisateur de saisir le CDOM au titre du 1° ci-dessus, ainsi que des voies de règlement amiable (notamment la Commission de conciliation et d'indemnisation) ou juridictionnelles de droit commun.
-
-3° Litige de consommation  
-   
+  
 Si la réclamation porte sur un litige de consommation résultant des services fournis par DMS France dans le cadre de l'exploitation de sa plateforme de téléconsultation (notamment l'accès au service, le fonctionnement de la plateforme, les conditions tarifaires, la facturation, le remboursement et les autres aspects contractuels du service), à l'exclusion des litiges mentionnés aux 1° et 2° ci-dessus, lesquels ne relèvent pas de la médiation de la consommation conformément à l'article L.611-4 du Code de la consommation, l'Utilisateur, en sa qualité de consommateur, peut recourir gratuitement au médiateur de la consommation désigné par DMS France : le Centre de Médiation et d'Arbitrage de Paris (CMAP), médiateur agréé par la Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC). Conformément à l'article L.612-2 du Code de la consommation, le CMAP ne peut être saisi qu'à la condition que l'Utilisateur ait préalablement tenté de résoudre son litige directement auprès de Kry par une réclamation écrite, dans les conditions prévues à l'article 14.1 ci-dessus, et dans un délai maximum d'un an à compter de cette réclamation écrite. Le CMAP peut être saisi selon l'une des modalités suivantes :
 
 *   en ligne, via le formulaire disponible à l'adresse : [www.cmap.fr/consommateurs](https://www.cmap.fr/consommateurs "wwwcmapfrconsommateurs")
