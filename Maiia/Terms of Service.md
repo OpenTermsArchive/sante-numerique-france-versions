@@ -184,8 +184,10 @@ L’identité de chaque Utilisateur pourra être vérifiée notamment par CEGEDI
 
 ### 7.2 Accès et gestion du Compte Patient
 
-Une fois le Compte Patient créé, le Patient accède à son Compte Patient en cliquant sur la Rubrique « Connexion/Inscription », puis en complétant le formulaire avec ses Identifiants.  
-  
+Une fois le Compte Patient créé, le Patient accède à son Compte Patient en cliquant sur la Rubrique « Connexion/Inscription », puis en complétant le formulaire avec ses Identifiants.
+
+Le Patient peut choisir d’activer l’authentification biométrique de son téléphone (Face ID ou Touch ID) afin de faciliter sa connexion à l’Application. Cette fonctionnalité est gérée directement par le système d’exploitation de l’appareil du Patient sans que CEGEDIM SANTE ne collecte les données du Patient et ne puisse à ce titre, voir sa responsabilité engagée. En activant cette fonctionnalité, le Patient accepte les conditions d’utilisation applicables au système d’exploitation de son téléphone.  
+
 Le Patient connecté à son Compte Patient peut accéder aux Services dédiés aux Patients, tels que le bénéfice d’une Téléconsultation dans les conditions des présentes CGU. Par le biais de son Compte Patient, le Patient peut également :
 
 *   consulter et modifier les coordonnées qu’il a communiquées lors de la création de son Compte Patient ;
@@ -246,7 +248,9 @@ Le Patient accepte également de recevoir sur l’adresse e-mail et/ou le numér
   
 Le Patient a notamment la possibilité de consulter, modifier et annuler les rendez-vous de Consultation pris en ligne sur l’Application/le Site via son Compte Patient.  
   
-Dans tous les cas, le Patient reconnaît et accepte être exclusivement responsable vis-à-vis du PS de tout retard, absence, annulation, report d’un rendez-vous de Consultation réservé en ligne via le Site/l’Application. CEGEDIM SANTE ne saurait notamment être responsable d’éventuels frais qui seraient facturés par le PS au Patient en cas d’annulation ou modification du rendez-vous de Consultation, par exemple parce qu’elle serait jugée par le PS comme trop tardive ou abusive car répétée. CEGEDIM SANTE ne saurait pas plus être responsable du refus d’accepter/d’honorer ou de l’annulation d’un rendez-vous de Consultation par le PS, ni d’un quelconque retard de ce dernier audit rendez-vous.
+Dans tous les cas, le Patient reconnaît et accepte être exclusivement responsable vis-à-vis du PS de tout retard, absence, annulation, report d’un rendez-vous de Consultation réservé en ligne via le Site/l’Application. CEGEDIM SANTE ne saurait notamment être responsable d’éventuels frais qui seraient facturés par le PS au Patient en cas d’annulation ou modification du rendez-vous de Consultation, par exemple parce qu’elle serait jugée par le PS comme trop tardive ou abusive car répétée. CEGEDIM SANTE ne saurait pas plus être responsable du refus d’accepter/d’honorer ou de l’annulation d’un rendez-vous de Consultation par le PS, ni d’un quelconque retard de ce dernier audit rendez-vous.  
+  
+Lors de la Consultation, le PS peut être amené à solliciter une demande de téléexpertise ou d’avis médical auprès de professionnels de santé tiers. Certaines données administratives ainsi que des documents médicaux vous concernant peuvent ainsi être partagés avec ces professionnels de santé. Comme pour tout acte médical, le PS doit obligatoirement vous informer des conditions de réalisation de la téléexpertise et doit recueillir votre consentement préalable à la réalisation de l’acte. La téléexpertise est facturée en tiers payant, prise en charge à 100% par l’assurance maladie obligatoire (AMO).  
 
 **ARTICLE 10 – Téléconsultations**
 ----------------------------------
@@ -336,25 +340,50 @@ o Transmission de documents au Patient par le PS.
   
 Le PS peut adresser, à sa seule discrétion, une ordonnance et/ou tout autre document convenu (tel qu’un certificat médical ou éventuellement le compte-rendu de l’acte), au Patient via l’Application mobile. Le Patient peut télécharger, consulter et partager ces documents à l’adresse courriel de son choix depuis son Compte Patient. Compte tenu de la confidentialité de ces documents et des données sensibles qu’elles contiennent, l’Utilisateur reconnait et accepte que le transfert/partage, direct ou indirect, de tout ou partie de ces documents, à un tiers est fait sous sa seule et entière responsabilité. Dans la mesure où la téléconsultation est un service strictement réglementé, le Patient est informé que certaines consultations du PS ne peuvent pas être réalisées dans le cadre de la Téléconsultation.
 
-**ARTICLE 11 – Accès aux soins**
---------------------------------
+**ARTICLE 11 – Messagerie Maiia**
+---------------------------------
+
+La messagerie Maiia permet au Patient et au PS de communiquer par message directement depuis le Site ou l’Application. La messagerie Maiia n’est pas une Messagerie Sécurisée de Santé (MSSanté) et ne remplace en aucun cas une consultation médicale. Si le Patient souhaite un avis médical concernant toute situation considérée comme urgente, il doit utiliser les services adaptés (notamment composer le 15 ou le 112 pour joindre les services d’urgence). Le Patient est averti que les données partagées au travers de la messagerie Maiia seront automatiquement supprimées au bout de trois (3) mois.
+
+Le Patient peut être à l’initiative de la discussion : le Patient sélectionne un PS depuis sa fiche Maiia ou depuis la messagerie. Lorsque le PS a activé sa messagerie, le Patient peut lui envoyer un message en cliquant sur « Contacter ce praticien ».
+
+Le PS peut être à l’initiative de la discussion : le Patient reçoit un message de la part de son PS ou d’un tiers autorisé par le PS telle qu’un secrétaire ou un remplaçant. Le Patient est notifié par mail ou par notification push sur l’Application. Le PS est seul responsable du recueil du consentement du Patient lorsque celui-ci est requis par la réglementation applicable.
+
+Le Patient ne peut envoyer qu’un seul message entre chaque réponse du PS qui peut décider à tout moment de ne pas autoriser de réponse. Le Patient peut à tout moment bloquer la conversation avec un PS qui ne verra pas qu’il a été bloqué. Le Patient peut à tout moment débloquer la conversation avec le PS. Le Patient s’engage à ne pas diffuser de contenus illicites, diffamatoires, injurieux ou contraires à l’ordre public. CEGEDIM SANTE ne pourra être tenue responsable du contenu, de la licéité et de l’opportunité des messages, documents et informations adressés par la messagerie Maiia. CEGEDIM SANTE ne pourra non plus être tenue responsable en cas de blocage de la conversation par le Patient ou le PS ni des délais de réponse de l’un ou l’autre. 
+
+**ARTICLE 12 – **UTILISATION BASE CLAUDE BERNARD****
+----------------------------------------------------
+
+12.1 Objet de la Base Claude Bernard
+
+L’Utilisateur pourra accéder à la Base Claude Bernard en version accessible au public et gratuite (ci-après « BCB »). La BCB est la propriété de la société RESIP. Les mises-à-jour comme les informations de la BCB mises à la disposition de l’Utilisateur sont et demeurent la propriété exclusive de la société RESIP. Le contenu de la BCB doit être considéré comme un ouvrage scientifique faisant l’objet d’une consultation critique laissant aux professionnels de santé les responsabilités de la prescription, de la dispensation ou de l’administration que le code de santé leur reconnaît.
+
+12.2 Limites à l’usage de la Base Claude Bernard et responsabilité
+
+Il est rappelé que la BCB n’a aucunement pour objet d’encourager l’automédication, ni de se substituer aux recommandations des médecins et pharmaciens. RESIP rappelle explicitement que la prise d’un médicament n’est jamais sans risque et qu’il est donc important de demander conseil à son médecin et son pharmacien et de bien lire la notice du médicament. RESIP ne saurait garantir l´exactitude et l´exhaustivité des informations contenues au sein de la BCB. En effet, bien que les données et les fonctionnalités de la BCB soient élaborées avec extrêmement de vigilance, l’Utilisateur est informé que du fait de la complexité de cette base de données sur les médicaments et les interactions médicamenteuses, RESIP décline toute responsabilité pour les conséquences éventuelles pouvant résulter d’une erreur de prescription, de délivrance, d’administration ou plus généralement d’utilisation de la BCB ou d’un bug ou d’une erreur de la BCB. Il en résulte que RESIP ne peut être tenue pour responsable des conséquences découlant pour l’Utilisateur ou plus généralement pour tous tiers de l’utilisation de la BCB. RESIP n’assume aucune responsabilité des dommages indirects et également concernant notamment les préjudices financiers ou commerciaux, directs ou indirects tels que la perte de données, le manque à gagner, l’augmentation de frais généraux, la perturbation des plannings, la perte de profit, de clientèle ou d’économie escomptée, des dysfonctionnements du fait de tiers, les erreurs de posologie ou de délivrance, la non détection des interactions médicamenteuses, des allergies, des contre-indications et plus généralement de toute fonction de contrôle des délivrances, et leurs conséquences éventuelles etc. Il est rappelé que certains outils informatiques pouvant être fournis par CEGEDIM SANTE, qu’il s’agisse de logiciel et/ou de base de données, qui pourraient être considérés comme des outils d’aide à la gestion et à la prescription médicale doivent faire l’objet d’une consultation critique laissant aux professionnels de santé les responsabilités notamment de conseil, de prescription et de délivrance que le code de la sante publique leur reconnait. En conséquence, CEGEDIM SANTE décline toute responsabilité pour les conséquences éventuelles pouvant résulter notamment d’une erreur de prescription, de délivrance ou plus généralement de l’utilisation du logiciel/d’une base de données par un professionnel de santé ou d’un bug du logiciel/d’une base de données.
+
+12.3 L’Assistant Patient par ClaudeBernardIA
+
+CEGEDIM SANTE met à disposition des Utilisateurs, un outil de recherche documentaire édité par la société RESIP, dénommé « L’Assistant Patient par ClaudeBernardIA », ou « l’Assistant » qui s’appuie sur des technologies d’intelligence artificielle pour restituer l’information présente dans la Base de Données Publique des Médicaments, ou le cas échéant dans le calendrier vaccinal français en vigueur, à l’exclusion de toute connaissance générée par le modèle d’IA utilisé.
+
+L’Assistant n’est pas un dispositif de diagnostic médical ni d’aide à la décision thérapeutique et il ne remplace pas l’avis d’un professionnel de santé (médecin, pharmacien, entre autres), sa fonction unique se limite à communiquer une information accessible au public. Aussi, l’Assistant ne peut répondre qu’à une question portant sur un médicament ou un vaccin précis et nommé. N’étant pas habilité à répondre à une question concernant l’état de santé du patient ou sa situation personnelle, toute question faisant référence à ces éléments ne sera pas traitée par l’Assistant. En tout état de cause, les questions posées ne sont ni réutilisées ni stockées par l’Assistant ClaudeBernardIA.
+
+L’Utilisateur reconnait avoir connaissance des limites inhérentes à l’Assistant Patient par ClaudeBernardIA et notamment du fait qu’il ne peut pas poser de diagnostic, prescrire, modifier ou adapter un traitement, ni donner un avis sur sa situation personnelle. Ce type de réponses demande de connaître l’état de santé de l’Utilisateur et relève de la compétence exclusive d’un professionnel de santé. Si l’Utilisateur souhaite un avis médical, il est invité à consulter son médecin ou son pharmacien. En cas de situation susceptible de présenter un caractère urgent, l’Utilisateur doit contacter les services adaptés (notamment composer le 15 ou le 112 pour joindre les services d’urgence). L’Assistant utilisant les ressources de la Base de Données Publique des Médicaments et du Calendrier vaccinal officiel, CEGEDIM SANTE ne saurait être tenue responsable de l’exactitude, de l’exhaustivité, de la disponibilité ou de l’actualisation de ces ressources. Les limites définies à l’article 12.2 ci-dessus quant à l’usage de la BCB sont à ce titre pleinement applicables dans le cadre de l’utilisation de l’Assistant. Par ailleurs, l’Assistant reposant sur un système d’intelligence artificielle, les réponses fournies ont donc un caractère strictement informatif, elles dépendent de la requête de l’Utilisateur et peuvent s’avérer imprécises, incomplètes ou erronées. A ce titre, l’Utilisateur demeure seul responsable de l’utilisation qu’il fait des réponses produites par l’Assistant Patient et s’engage à vérifier toutes ces informations.
+
+**ARTICLE 13** **– Accès au soins**
+-----------------------------------
 
 Il est rappelé à l’Utilisateur que le refus de soins est discriminatoire et donc interdit. Lorsqu’un professionnel de santé refuse de recevoir ou traite moins bien un patient ou une patiente du fait, par exemple, de sa nationalité, son état de santé, sa religion, son handicap, son orientation sexuelle ou parce qu’il est bénéficiaire d’une prestation santé comme la CMU-C, l’ACS ou encore l’AME, cela constitue une pratique illégale et contraire notamment aux articles L.1110-3 et L.1110-5 du Code de la santé publique. Si l’utilisateur se trouve confronté à un cas de discrimination cité supra, l’Utilisateur est invité à signaler ce comportement en contactant CEGEDIM SANTE via la rubrique « Aide & Contact » ou directement à l’adresse suivante : [https://www.defenseurdesdroits.fr/fr/saisir-le-defenseur-des-droits](https://www.defenseurdesdroits.fr/fr/saisir-le-defenseur-des-droits).
 
-**ARTICLE 12 – Accès aux Ressources**
--------------------------------------
+**ARTICLE 1**4 **– Accès a**ux ressources
+-----------------------------------------
 
 CEGEDIM SANTE peut mettre à la disposition de l’Utilisateur des Ressources sur le Site/l’Application à son entière discrétion. L’accès à certaines Ressources, tels que des questionnaires/tests de santé peut nécessiter de compléter au préalable un formulaire par le biais de cases à cocher, ce, afin de permettre à CEGEDIM SANTE de communiquer les résultats dudit test/questionnaire à l’Utilisateur.
 
-**ARTICLE 13** **– UTILISATION BASE CLAUDE BERNARD**
-----------------------------------------------------
-
-L’Utilisateur pourra accéder à la Base Claude Bernard en version accessible au public et gratuite (ci-après « BCB »). La BCB est la propriété de la société RESIP. Les mises-à-jour comme les informations de la BCB mises à la disposition de l’Utilisateur sont et demeurent la propriété exclusive de la société RESIP. Le contenu de la BCB doit être considéré comme un ouvrage scientifique faisant l’objet d’une consultation critique laissant aux professionnels de santé les responsabilités de la prescription, de la dispensation ou de l’administration que le code de santé leur reconnaît. Il est rappelé que la BCB n’a aucunement pour objet d’encourager l’automédication, ni de se substituer aux recommandations des médecins et pharmaciens. RESIP rappelle explicitement que la prise d’un médicament n’est jamais sans risque et qu’il est donc important de demander conseil à son médecin et son pharmacien et de bien lire la notice du médicament. RESIP ne saurait garantir l´exactitude et l´exhaustivité des informations contenues au sein de la BCB. En effet, bien que les données et les fonctionnalités de la BCB soient élaborées avec extrêmement de vigilance, l’Utilisateur est informé que du fait de la complexité de cette base de données sur les médicaments et les interactions médicamenteuses, RESIP décline toute responsabilité pour les conséquences éventuelles pouvant résulter d’une erreur de prescription, de délivrance, d’administration ou plus généralement d’utilisation de la BCB ou d’un bug ou d’une erreur de la BCB. Il en résulte que RESIP ne peut être tenue pour responsable des conséquences découlant pour l’Utilisateur ou plus généralement pour tous tiers de l’utilisation de la BCB. RESIP n’assume aucune responsabilité des dommages indirects et également concernant notamment les préjudices financiers ou commerciaux, directs ou indirects tels que la perte de données, le manque à gagner, l’augmentation de frais généraux, la perturbation des plannings, la perte de profit, de clientèle ou d’économie escomptée, des dysfonctionnements du fait de tiers, les erreurs de posologie ou de délivrance, la non détection des interactions médicamenteuses, des allergies, des contre-indications et plus généralement de toute fonction de contrôle des délivrances, et leurs conséquences éventuelles etc. Il est rappelé que certains outils informatiques pouvant être fournis par CEGEDIM SANTE, qu’il s’agisse de logiciel et/ou de base de données, qui pourraient être considérés comme des outils d’aide à la gestion et à la prescription médicale doivent faire l’objet d’une consultation critique laissant aux professionnels de santé les responsabilités notamment de conseil, de prescription et de délivrance que le code de la sante publique leur reconnait. En conséquence, CEGEDIM SANTE décline toute responsabilité pour les conséquences éventuelles pouvant résulter notamment d’une erreur de prescription, de délivrance ou plus généralement de l’utilisation du logiciel/d’une base de données par un professionnel de santé ou d’un bug du logiciel/d’une base de données.
-
-**ARTICLE 14 – Tarification**
+**ARTICLE 15 – Tarification**
 -----------------------------
 
-### 14.1 Généralités
+### 15.1 Généralités
 
 L’accès et l’utilisation du Site/de l’Application stricto sensu sont gratuits pour l’Utilisateur, CEGEDIM SANTE ne lui demandant aucune redevance à ce titre.  
   
@@ -365,7 +394,7 @@ Toutefois, l’Utilisateur reconnaît et accepte que restent à sa charge exclus
 
 Pour toute information concernant la prise en charge du ticket modérateur et de la dispense d’avance de frais, nous vous invitons à consulter notamment le site www.ameli.fr ainsi que le site [www.complementaire-sante-solidaire.gouv.fr](https://www.complementaire-sante-solidaire.gouv.fr/) (Fond CMU-C).
 
-### 14.2 Simulation de reste à charge
+### 15.2 Simulation de reste à charge
 
 CEGEDIM SANTE met à disposition de l’Utilisateur un service de simulation de reste à charge via le Site/Application accessible uniquement pour les bénéficiaires d’une AMC partenaire de CEGEDIM SANTE. Ce service permet d’estimer le coût du reste à charge de la Consultation en fonction du tarif indiqué par le PS. Il est rappelé que le montant de la Consultation est indicatif et est susceptible d’être modifié par le PS lors de la Consultation. Le reste à charge est donc susceptible d’évoluer.
 
@@ -379,15 +408,15 @@ A partir des informations indiquées par l’Utilisateur et des tarifs indiqués
 
 Le Professionnel de santé est le seul responsable des tarifs de ses honoraires pratiqués pour une Consultation et peut les modifier à sa discrétion lors de la Consultation au regard notamment de l’acte réalisé. De ce fait, CEGEDIM SANTE ne garantit pas le montant indiqué lors de la simulation de reste à charge par l’Utilisateur qui reste entièrement à titre indicatif. En conséquence, CEGEDIM SANTE n’est pas responsable de toute erreur éventuelle dans le montant annoncé de la Téléconsultation qui peut évoluer en fonction des tarifs des honoraires du Professionnel de santé ou des organismes d’assurance maladie etc.
 
-### 14.3 Paiement des Téléconsultations
+### 15.3 Paiement des Téléconsultations
 
-#### **14.3.1 Prix des Téléconsultations**
+#### **15.3.1 Prix des Téléconsultations**
 
 Les tarifs des honoraires des Professionnels de Santé sont indiqués en euros (€) dans la Rubrique « Tarifs » avant le démarrage de la Téléconsultation.  
   
 Toutefois, le Patient est averti et accepte que CEGEDIM SANTE n’a pas de contrôle sur le montant de la Téléconsultation qui sera effectivement saisi et validé par le PS à l’issue de la Téléconsultation réalisée et ne saurait en aucun cas être responsable si le tarif facturé par le PS est différent de celui indiqué.
 
-#### **14.3.2 Paiement par carte bancaire via la plateforme STRIPE**
+#### **15.3.2 Paiement par carte bancaire via la plateforme STRIPE**
 
 Pour des raisons de sécurité et en vue d’assurer un règlement effectif des Téléconsultations par le Patient au PS, le paiement d’une Téléconsultation est effectué, par carte bancaire par l’intermédiaire du prestataire de services de paiement Stripe Payments Europe, Limited C/O A&L Goodbody, Ifsc, North Wall Quay, Dublin 1 (ci-après « STRIPE »). Le Patient doit préalablement lire, comprendre et accepter les conditions générales d’utilisation de STRIPE ([https://stripe.com/fr/legal](https://stripe.com/fr/legal)).  
   
@@ -397,20 +426,20 @@ Il est précisé que CEGEDIM SANTE n’a jamais accès aux informations bancaire
   
 Si CEGEDIM SANTE ne saurait être responsable d’une erreur sur le tarif appliqué et/ou le montant à prélever saisi par le PS ou sur le montant effectivement débité par la plateforme STRIPE. En cas d’échec du paiement réalisé sur la plateforme STRIPE, le Patient se mettra en relation avec le PS afin de s’accorder pour régler la somme due (par exemple lors du prochain rendez-vous de Consultation en présentiel, par voie postale) ce, sous leur entière responsabilité. Le Patient s’engage à respecter les règles et éventuels délais de paiement complémentaires qui seront convenus avec le PS.
 
-#### **14.3.3 Sécurité sociale et assurances complémentaires santé**
+#### **15.3.3 Sécurité sociale et assurances complémentaires santé**
 
 CEGEDIM SANTE n’intervient pas dans les formalités de prise en charge de la Téléconsultation. Le PS et le Patient restent responsables des formalités de prise en charge par la sécurité sociale et les tiers payants/assurances complémentaires de santé. CEGEDIM SANTE ne saurait être responsable d’une éventuelle erreur dans la prise en charge des frais de Téléconsultation.
 
-#### **14.3.4 Règlement du PS tiers assistant**
+#### **15.3.4 Règlement du PS tiers assistant**
 
 Si un PS tiers assiste le Patient au moment de la Téléconsultation, celui-ci peut facturer une consultation au Patient selon ses conditions de paiement propres.
 
-**ARTICLE 15 – Comportement/Obligations de l’Utilisateur**
+**ARTICLE 16 – Comportement/Obligations de l’Utilisateur**
 ----------------------------------------------------------
 
 Outre les obligations qui lui incombent par ailleurs au titre des CGU, l’Utilisateur s’engage à respecter les dispositions du présent article.
 
-### 15.1 Généralités
+### 16.1 Généralités
 
 L’Utilisateur s’engage à respecter les Conditions Générales d’Utilisation applicables pendant toute la durée d’utilisation des Services.  
   
@@ -428,7 +457,7 @@ L’Utilisateur renseigne sous sa seule responsabilité, les informations demand
   
 A cette fin, l’Utilisateur s’engage particulièrement à respecter les droits de propriété intellectuelle de CEGEDIM SANTE sur les Ressources. À tout moment et pour quelque raison que ce soit, CEGEDIM SANTE peut mettre en œuvre tout moyen permettant de mettre un terme et ce, sans préavis, à l’utilisation par un Utilisateur du Site et/ou de l’Application, selon le cas, pour toute conduite violant les présentes Conditions Générales d’Utilisation, sans préjudice de tout dommage et intérêt que CEGEDIM SANTE se réserve le droit de réclamer en cas de non-respect des présentes CGU.
 
-### 15.2 Dispositions propres au Patient
+### 16.2 Dispositions propres au Patient
 
 Sauf disposition expresse contraire, le Patient reconnaît et accepte que les Services réalisés ou accessibles via le Compte Patient sont limités strictement à un usage privé et personnel du Patient. En cas de modification des données susceptibles d’interférer sur la bonne réalisation des Services, le Patient s’engage à en informer immédiatement CEGEDIM SANTE soit par la mise à jour de ses données dans le Compte Patient soit via la Rubrique « Contact ». Concernant l’ajout des coordonnées d’un proche, le Patient s’engage à détenir l’autorisation dudit proche pour saisir ses données si celle-ci est requise par la règlementation en vigueur et, disposer du pouvoir/de l’habilitation légalement requise pour ce faire. Le Patient reste responsable de tout comportement dudit proche et assure notamment, dans la limite de la réglementation applicable, le respect par celui-ci des conditions des présentes CGU, en particulier si ledit proche bénéficie d’un rendez-vous de Consultation réservé via le Site/l’Application. Il est rappelé que l’ajout des coordonnées d’un proche n’est possible qu’à condition que l’Utilisateur exerce l’autorité parentale sur le proche ou la tutelle ou curatelle du proche conformément au droit français. CEGEDIM SANTE se réserve le droit de vérifier que ces conditions sont respectées et à défaut d’engager des poursuites envers l’Utilisateur.  
   
@@ -441,31 +470,31 @@ Le Patient :
 *   s’engage, dans le cadre des Téléconsultations, à ne pas tenir ou diffuser, de quelle que manière que ce soit, des propos ou contenus pouvant violer les droits de tiers ou présentant un caractère d’injure, de diffamation, de discrimination, de violence ou similaire ;
 *   s’engage ainsi à utiliser la Téléconsultation et les documents adressés par le PS conformément à la finalité décrite dans les CGU, aux instructions dudit PS et dans le respect du droit en vigueur.
 
-**ARTICLE 16 – Responsabilité de l’Utilisateur/du Patient**
+**ARTICLE 17 – Responsabilité de l’Utilisateur/du Patient**
 -----------------------------------------------------------
 
 L’Utilisateur est seul responsable du bon fonctionnement de son équipement informatique tout comme de son accès à internet. L’Utilisateur fait son affaire personnelle de la mise en place des moyens informatiques et de télécommunications permettant l’accès au Site/à l’Application et des connaissances nécessaires à l’utilisation d’internet et à l’accès au Site/Application. L’Utilisateur reconnaît avoir vérifié que la configuration informatique qu’il utilise ne contient aucun virus et qu’elle est en parfait état de fonctionnement. L’Utilisateur s’engage à mettre en œuvre tout moyen ou procédure permettant d’assurer la sécurité du matériel et des logiciels lui permettant d’utiliser le Site/l’Application.  
   
 L’Utilisateur s’engage à ne pas perturber l’usage que pourraient faire les autres utilisateurs du Site/de l’Application. L’Utilisateur s’engage à ne commettre aucun acte pouvant mettre en cause la sécurité informatique de CEGEDIM SANTE ou des autres utilisateurs, à tenter de s’introduire sur les serveurs hébergeant la plateforme, à récupérer, détruire et/ou modifier les données du Site/de l’Application sans l’autorisation expresse de CEGEDIM SANTE. De façon générale, l’Utilisateur s’engage à ne pas interférer ou interrompre le fonctionnement normal du Site/de l’Application. L’Utilisateur s’engage à indemniser CEGEDIM SANTE, en cas de plainte, action, poursuite, condamnation de cette dernière résultant du non-respect par l’Utilisateur des Conditions Générales d’Utilisation. Le Patient est le seul responsable de l’utilisation du Site/de l’Application et de toutes les activités effectuées sous ses Identifiants. Il est seul responsable de l’utilisation des Ressources proposées via le Site/l’Application, de toute décision prise et de toute action mise en œuvre à partir des informations contenues ou obtenues par le biais des Services. En outre, il est rappelé que l’Utilisateur est seul responsable de la qualité, de la licéité, de la pertinence des données, déclarations et contenus qu’il transmet/fait aux fins et dans le cadre de l’utilisation du Site/de l’Application et des Services. L’Utilisateur garantit CEGEDIM SANTE contre toute demande/réclamation de tiers à ce titre.
 
-**ARTICLE 17 – Obligations de CEGEDIM SANTE**
+**ARTICLE 18 – Obligations de CEGEDIM SANTE**
 ---------------------------------------------
 
-### 17.1 Disponibilité, maintenance et sécurité du Site/de l’Application
+### 18.1 Disponibilité, maintenance et sécurité du Site/de l’Application
 
-#### **17.1.1 Disponibilité**
+#### **18.1.1 Disponibilité**
 
 En raison de la nature et de la complexité du réseau internet, et en particulier, de ses performances techniques et des temps de réponse pour consulter, interroger ou transférer des données d’informations, CEGEDIM SANTE fait ses meilleurs efforts, conformément aux règles de l’art, pour permettre l’accès et l’utilisation du Site/de l’Application. CEGEDIM SANTE ne saurait en effet assurer une accessibilité ou disponibilité absolue du Site/de l’Application.
 
-#### **17.1.2 Mise à jour et maintenance**
+#### **18.1.2 Mise à jour et maintenance**
 
 CEGEDIM SANTE s’engage à mettre en œuvre tous les moyens à sa disposition pour assurer l’accès et la disponibilité du Site/de l’Application 24h/24 et 7j/7 et en limiter les perturbations. Toutefois, CEGEDIM SANTE se réserve le droit, sans préavis, ni indemnité, de fermer temporairement ou définitivement tout ou partie du Site/de l’Application ou l’accès à une ou plusieurs de ses Rubriques, notamment en cas de force majeure, fait(s) de tiers, pour effectuer une mise à jour, des opérations de maintenance, des modifications ou changements sur les méthodes opérationnelles, les serveurs et les heures d’accessibilité, sans que cette liste ne soit limitative. En cas d’interruption planifiée, celle-ci sera notifiée au moyen d’un avertissement figurant sur la page d’accueil du Site/de l’Application mobile, selon le cas, ou par tout autre procédé. L’Utilisateur déclare connaître les caractéristiques et les limites d’Internet, en particulier ses performances techniques, les temps de réponse pour consulter ou envoyer des données et les risques liés à la sécurité des communications. CEGEDIM SANTE n’est pas responsable des dommages de toute nature qui peuvent résulter de ces changements et/ou d’une indisponibilité temporaire ou encore de la fermeture définitive de tout ou partie du Site/de l’Application ou des Rubriques qui y sont associées.
 
-#### **17.1.3 Sécurité**
+#### **18.1.3 Sécurité**
 
 CEGEDIM SANTE fait ses meilleurs efforts, au regard de l’état de l’art et la règlementation applicable, pour sécuriser le Site et l’Application ainsi que les traitements de données réalisés au travers de son utilisation.
 
-### 17.2 Fourniture des Services et limite de responsabilité
+### 18.2 Fourniture des Services et limite de responsabilité
 
 L’Utilisateur est informé et accepte que CEGEDIM SANTE intervient comme simple intermédiaire de mise en relation d’un Patient avec un PS. Le Site/l’Application ne se substitue en aucun cas au libre choix d’un PS ni à la responsabilité qui incombe au PS. Avant toute décision ou en cas de doute, il incombe au Patient de consulter les professionnels de santé compétents ou son médecin traitant.
 
@@ -484,69 +513,69 @@ CEGEDIM SANTE ne pourra en aucun cas être tenue responsable des conséquences d
 
 Les Eléments contenus sur le Site/l’Application figurent à titre informatif et non exhaustif et ne sauraient notamment se subsister à un conseil médical ou encore une consultation d’un PS. De façon générale, les Eléments et toutes informations accessibles par le biais du Site/l’Application et/ou apparaissant sur le Site/l’Application sont fournies à l’Utilisateur sans garantie d’aucune sorte, qu’elle soit implicite ou explicite, concernant notamment leur intégrité, leur exactitude, leur actualité, leur disponibilité, leur fiabilité ou leur exhaustivité ou leur adéquation à l’utilisation que l’Utilisateur projette d’en faire. En particulier, CEGEDIM SANTE ne garantit pas l’exactitude, l’exhaustivité et l’adéquation des Eléments avec les besoins de l’Utilisateur. CEGEDIM SANTE ne peut être tenue responsable de l’interprétation ou de l’utilisation des Ressources et autres Eléments diffusés par l’intermédiaire du Site/de l’Application ni de leurs conséquences. Par ailleurs, le Site/l’Application contient des informations fournies par des tiers, en particulier des Professionnels de Santé dans le cadre des Téléconsultations. CEGEDIM SANTE n’exerce aucun contrôle sur ces informations. En conséquence, CEGEDIM SANTE décline toute responsabilité en cas d’erreur ou d’omission dans ces informations mais aussi en cas de dommage résultant de l’utilisation, de l’accès à ou de l’incapacité à utiliser ces informations La responsabilité de CEGEDIM SANTE, quelle qu’en soit la cause, est limitée aux dommages directs et ne pourra excéder 10 centimes (0,10) d’euros par an par Utilisateur. Toute action relative à un éventuel dommage est prescrite sous un mois à compter de sa survenance.
 
-**ARTICLE 18 – Propriété intellectuelle**
+**ARTICLE 19 – Propriété intellectuelle**
 -----------------------------------------
 
-### 18.1 Eléments de CEGEDIM SANTE
+### 19.1 Eléments de CEGEDIM SANTE
 
-#### **18.1.1 Dispositions générales**
+#### **19.1.1 Dispositions générales**
 
 Les présentes CGU n’emportent aucune cession d’aucune sorte de droits de propriété intellectuelle sur les Eléments et plus généralement tout contenu inclus ou accessibles sur et/ou à travers le Site/l’Application, notamment tous graphismes, images, photos, dessins, cartographies, logos, noms, marques, textes et autres documentations, y compris les Ressources, bases de données, et tout autre matériel appartenant à CEGEDIM SANTE ou ses sociétés sœurs ou filiales ou toute autre société du Groupe CEGEDIM (ci-après les « Eléments de CEGEDIM») au bénéfice de l’Utilisateur. Les Eléments figurant sur le Site ou l’Application sont la propriété exclusive de CEGEDIM, de l’une de ses filiales ou d’un de ses partenaires. Ces Eléments sont protégés par le droit de la propriété intellectuelle et soumis aux lois et règlementations applicables en la matière. Toute reproduction, distribution, modification, retransmission ou publication de ces différents éléments, en tout ou partie, est strictement interdite, hors des cas éventuellement et expressément autorisés par CEGEDIM SANTE et hors certains cas d’utilisation à des fins privées, et ce, conformément au Code de la propriété intellectuelle français ou toute autre règles de droit applicables.  
   
 De manière générale, CEGEDIM SANTE accorde à l’Utilisateur un droit gratuit, personnel, non-exclusif et non-transférable d’accès et d’utilisation du Site/de l’Application, sous réserve de l’acceptation préalable et du respect des présentes CGU par l’Utilisateur. Tout autre droit est expressément exclu, sauf accord préalable et écrit de CEGEDIM SANTE. En outre, l’impression des présentes Conditions Générales d’Utilisation n’est autorisée que dans le cadre d’un usage strictement personnel et privé.
 
-#### **18.1.2 Dispositions particulières relatives aux données issues de la Base Claude Bernard**
+#### **19.1.2 Dispositions particulières relatives aux données issues de la Base Claude Bernard**
 
 Le Site/l’Application, en particulier les Ressources qui y sont accessibles, peuvent comporter des données issues de BCB. La société RESIP, société du Groupe CEGEDIM, est propriétaire des droits sur la Base Claude Bernard, sur les fonds documentaires qui la composent ainsi que sur ses mises à jour.  
   
 L’Utilisateur reconnaît que la BCB constitue un élément substantiel du patrimoine de cette dernière et est l’expression de son savoir-faire. Toute représentation ou reproduction totale ou partielle, par quelque procédé que ce soit du Site/de l’Application, de la BCB sans l’autorisation expresse de RESIP affiliée de CEGEDIM SANTE est interdite et constituerait une contrefaçon voire un acte de concurrence déloyale/parasitaire sanctionné(s) notamment par les articles L.335-2 et suivants du Code de la propriété intellectuelle 1240 et 1241 du Code civil.
 
-### 18.2 Eléments des tiers
+### 19.2 Eléments des tiers
 
 Les Eléments appartenant à des tiers, telle que marques, dessins, modèles, images, textes, photos, logos, bases de données sans que cette liste ne soit exhaustive, sont la propriété exclusive de leur auteur et sont protégés à ce titre par les droits de propriété intellectuelle qui leur sont reconnus par la législation en vigueur.  
   
 L’Utilisateur s’interdit de porter atteinte, directement ou indirectement, aux droits de propriété de tiers, dont les Eléments sont présents sur le Site/l’Application et s’interdit d’exploiter, de quelque manière que ce soit, les noms, les marques, les logos, les informations et tous les documents qui lui sont communiqués, d’une manière générale, dans le cadre de l’exécution des présentes. L’Utilisateur s’engage à respecter l’intégralité des droits de tiers, dont des éléments sont présents sur le Site/l’Application et s’interdit de susciter toute analogie dans l’esprit du public à quelque fin que ce soit. A cet effet, l’Utilisateur s’engage à prendre toutes les mesures nécessaires à la protection desdits droits à l’égard de tout tiers et, notamment, maintiendra en état toutes les mentions de propriété qui seront portées sur l’ensemble des données, informations et plus généralement sur les éléments consultables sur le Site/l’Application ou rendus accessibles par un tiers.
 
-### 18.3 Liens hypertextes/sources externes
+### 19.3 Liens hypertextes/sources externes
 
 Le Site/l’Application peut inclure des liens vers des sites Internet ou d’autres sources Internet. Dans la mesure où CEGEDIM SANTE ne peut contrôler ces sites et ces sources externes, elle ne peut être tenue pour responsable de la mise à disposition de ces sites et des sources externes, et sa responsabilité ne pourra en aucun cas être engagée à raison du contenu, des publicités, des produits, des services ou de toute autre information ou donnée disponible sur ou à partir de ces sites ou sources externes. Il appartient à l’Utilisateur de procéder à toute vérification utile. De plus, CEGEDIM SANTE ne pourra être tenue responsable de tous dommages ou pertes avérés ou allégués consécutifs ou en relation avec l’utilisation ou le fait d’avoir fait confiance au contenu, à des biens ou des services disponibles sur ces sites ou sources externes. Toute création de liens vers le Site et/ou l’Application et, de façon générale, toute utilisation d’un élément composant ledit Site/ladite Application mobile est soumise à l’autorisation préalable et expresse de CEGEDIM SANTE, qui pourra être révoquée à tout moment à sa seule discrétion. CEGEDIM SANTE se réserve le droit de (i) demander la suppression de tout lien vers le Site/l’Application qui n’aurait pas été, ou ne serait plus, autorisé et de (ii) demander des dommages et intérêts en réparation du préjudice subi de ce fait.
 
-**ARTICLE 19 – Sécurité**
+**ARTICLE 20 – Sécurité**
 -------------------------
 
 Eu égard à la nature sensible des données de l’Utilisateur, dont certaines sont protégées par les lois et règlements (données à caractère personnel, données de prescription, données patients…), et pour pouvoir assurer la maintenance des produits, l’Utilisateur consent à ce que CEGEDIM SANTE procède régulièrement à des vérifications de leur sécurité et intégrité et à des mises à jour évolutives ou correctives afin de prévenir ou de corriger d’éventuelles intrusions, pertes de données et fichiers ou atteintes à la confidentialité des données et fichiers. A ce titre, CEGEDIM SANTE pourra être amenée à mettre en œuvre toute mesure utile afin de sécuriser les produits et traitements de données, et notamment à supprimer tout logiciel susceptible de nuire à la sécurité, l’efficacité, l’intégrité ou la confidentialité des produits et données et fichiers traités, dans le respect de la confidentialité et de l’intégrité des données et fichiers de l’Utilisateur.
 
-**ARTICLE 20 – Données personnelles et cookies**
+**ARTICLE 21 – Données personnelles et cookies**
 ------------------------------------------------
 
-### 20.1 Cookies
+### 21.1 Cookies
 
 Lorsque l’Utilisateur navigue sur le Site/l’Application, celui-ci est susceptible de déposer des « cookies », fichiers textes très simples, sur l’ordinateur ou autre support de connexion au Site/l’Application. La page dédiée « Cookies » est accessible sur [www.maiia.com/donnees-personnelles](https://maiia.com/donnees-personnelles).
 
-### 20.2 Données personnelles
+### 21.2 Données personnelles
 
 Les données collectées via les formulaires du Site/l’Application ou l’utilisation des Services font l’objet d’un traitement automatisé de données. Vous pouvez consulter la page dédiée aux données personnelles [« Politique de données »](https://maiia.com/donnees-personnelles).
 
-### 20.3 Certification hébergeur de données de santé
+### 21.3 Certification hébergeur de données de santé
 
-CEGEDIM SANTE confie la prestation d’hébergement des Données à un hébergeur tiers : la société cegedim.cloud ou tout autre hébergeur certifié auquel CEGEDIM SANTE pourrait faire appel. L’Hébergeur est certifié hébergeur de données de santé dans les conditions fixées par le décret n°2018-137 du 26 février 2018.
+CEGEDIM SANTE confie la prestation d’hébergement des Données à un hébergeur tiers : la société cegedim.cloud ou tout autre hébergeur certifié auquel CEGEDIM SANTE pourrait faire appel. L’Hébergeur est certifié hébergeur de données de santé dans les conditions fixées par le décret n°2018-137 du 26 février 2018. La certification HDS a été délivré par l’Afnor et est accessible sur le site [https://www.cegedim.fr/groupe/qualite/Pages/qualite.aspx](https://www.cegedim.fr/groupe/qualite/Pages/qualite.aspx). 
 
-**ARTICLE 21 – Force majeure**
+**ARTICLE 22 – Force majeure**
 ------------------------------
 
 La responsabilité de CEGEDIM SANTE ne pourra être recherchée si l’exécution du Service est retardée ou empêchée en raison d’un cas de force majeure ou assimilé, du fait de l’Utilisateur, d’un tiers ou de tout évènement imprévisible et irrésistible, tels que conflits sociaux, pandémie, épidémie, intervention des autorités civiles ou militaires, guerres ou hostilités déclarées ou non déclarées, actes terroristes, émeutes, catastrophes naturelles, incendies, dégâts des eaux, mauvais fonctionnement ou interruption du réseau de télécommunications ou du réseau électrique, ou tout autre cas défini par l’article 1218 du Code civil et de la jurisprudence qui lui est associée.
 
-**ARTICLE 22 – Convention de preuve**
+**ARTICLE 23 – Convention de preuve**
 -------------------------------------
 
 Les documents électroniques échangés par voie électronique entre CEGEDIM SANTE et l’Utilisateur sont considérés comme des écrits ayant la même valeur que celle accordée à l’original au sens de l’article 1366 du Code civil. Ils pourront constituer des copies fidèles et durables au sens de l’article 1379 du Code civil, de sorte que l’Utilisateur est invité à les conserver.
 
-**ARTICLE 23 – Nullité partielle / Non renonciation / Incessibilité**
+**ARTICLE 24 – Nullité partielle / Non renonciation / Incessibilité**
 ---------------------------------------------------------------------
 
 Si une ou plusieurs stipulations des présentes CGU sont tenues pour non valides ou déclarées comme tel en application d’une loi, d’un règlement ou d’une décision définitive d’une juridiction compétente, les autres stipulations garderont toute leur force et toute leur portée. De convention expresse, la clause nulle ou non valide concernée sera alors remplacée par une clause qui se rapprochera le plus, dans son contenu, de la clause initialement arrêtée. Le fait pour CEGEDIM SANTE de ne pas se prévaloir pendant un certain laps de temps de l’une quelconque des dispositions prévues aux présentes ne pourra être interprété comme une renonciation de celle-ci à s’en prévaloir à l’avenir. L’Utilisateur ne pourra pas céder ou déléguer tout ou partie de ses droits ou obligations issus des présentes.
 
-**ARTICLE 24 – Loi applicable et juridictions compétentes**
+**ARTICLE 25 – Loi applicable et juridictions compétentes**
 -----------------------------------------------------------
 
 LA LOI APPLICABLE EST LA LOI FRANÇAISE. A DEFAUT D’ACCORD AMIABLE, TOUT DIFFEREND RELATIF A LA CONCLUSION, A LA VALIDITE, L’EXECUTION OU A L’INTERPRETATION DES PRESENTES CONDITIONS GENERALES D’UTILISATION SERA SOUMIS AUX TRIBUNAUX DE PARIS NONOBSTANT PLURALITE DE DEFENDEURS OU APPEL EN GARANTIE.
