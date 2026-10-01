@@ -1,7 +1,7 @@
 Conditions générales d’utilisation et de vente
 ==============================================
 
-_Version 15.09.2026_
+_Version 01.10.2026_
 
 Les présentes conditions générales d'utilisation et de vente (CGUV) sont destinées à encadrer l'utilisation de la solution Kry et les services qui y sont liés. Avant de commencer à utiliser les services Kry, opérant préalablement sous le nom de Livi sur l'application Kry (App Kry) ou le site internet (web App), veuillez lire ces conditions générales qui contiennent des informations importantes, notamment :
 
@@ -12,21 +12,27 @@ Les présentes conditions générales d'utilisation et de vente (CGUV) sont dest
 
 Avant de commencer, n'oubliez pas que Kry n'est pas un service d'urgence.
 
-### **1\. Applicabilité, portée, etc.** **1.1 Qui sommes-nous ?**
+**1\. Applicabilité, portée, etc.**
+-----------------------------------
 
-Digital Medical Supply France (DMS France), est une filiale de KRY International AB (publ) (KRY International) propriétaire de la plate-forme Kry, utilisée pour fournir des prestations de soins à distance via un ordinateur, une tablette ou un smartphone à des patients. Les prestations de soins à distance sur la plateforme Kry sont réalisées par des médecins salariés de la société de téléconsultation Digital Consultation Centre France (la Société de téléconsultation) agréée en vertu de l'article L.4081-1 du code de la santé publique, sous le numéro \[numéro d'agrément\] qui respecte à ce titre le référentiel de bonnes pratiques professionnelles de la Haute Autorité de santé applicable aux sociétés de téléconsultation. Les références à « nous », et « notre » dans ces CGUV sont des références à DMS France. Les CGUV, les principes applicables en matière de protection des données et diverses instructions et informations relatives aux services sont disponibles dans l'App Kry et sur le site web.
+### **1.1 Qui sommes-nous ?**
 
-**1.2 Description des services**
+Digital Medical Supply France (DMS France), est une filiale de KRY International AB (publ) (KRY International) propriétaire de la plate-forme Kry, utilisée pour fournir des prestations de soins à distance via un ordinateur, une tablette ou un smartphone à des patients. Les prestations de soins à distance sur la plateforme Kry sont réalisées soit par des médecins salariés de la société de téléconsultation Digital Consultation Centre France (la Société de téléconsultation) agréée en vertu de l'article L.4081-1 du code de la santé publique, sous le numéro \[numéro d'agrément\] qui respecte à ce titre le référentiel de bonnes pratiques professionnelles de la Haute Autorité de santé applicable aux sociétés de téléconsultation, soit par des professionnels de santé intervenant à titre libéral.
 
-Kry permet à des particuliers de prendre des rendez-vous avec des professionnels de santé, dont des médecins (« Prestataire de soins»), pour des soins médicaux et des conseils lors de Téléconsultations. Toutes les consultations médicales fournies via l'application Kry sont réalisées par un professionnel de santé médecin inscrit auprès de l'ordre des médecins en France. Vous pourrez accéder aux services Kry une fois que vous aurez créé votre compte personnel. Après une description écrite de vos symptômes à partir d'un questionnaire médical effectué avant la Téléconsultation, vous serez mis en relation avec un Prestataire de soins à qui vous pourrez décrire votre état et vos problèmes. Le Prestataire de soins effectuera alors un examen visuel, si possible posera un diagnostic, et suggérera un traitement.
+Les références à « nous », et « notre » dans ces CGUV sont des références à DMS France. Les CGUV, les principes applicables en matière de protection des données et diverses instructions et informations relatives aux services sont disponibles dans l'App Kry et sur le site web.
 
-**1.3 Nature des relations contractuelles**
+### **1.2 Description des services**
+
+Kry permet à des particuliers de prendre des rendez-vous avec des professionnels de santé (« Prestataire de soins»), dont des médecins , pour des soins médicaux et des conseils lors de Téléconsultations. Toutes les consultations médicales fournies via l'application Kry sont réalisées par un professionnel de santé inscrit auprès de son ordre professionel en France. Vous pourrez accéder aux services Kry une fois que vous aurez créé votre compte personnel. Après une description écrite de vos symptômes à partir d'un questionnaire médical effectué avant la Téléconsultation, vous serez mis en relation avec un Prestataire de soins à qui vous pourrez décrire votre état et vos problèmes. Le Prestataire de soins effectuera alors un examen visuel, si possible posera un diagnostic, et suggérera un traitement.
+
+### **1.3 Nature des relations contractuelles**
 
 DMS France est uniquement un prestataire de service technologique qui intervient comme intermédiaire entre vous, utilisateur, et le Prestataire de soins, et qui, en aucun cas, n'agit comme un prestataire de soins. Ainsi, il ne peut ni ne doit être considéré comme un prestataire de soins lui-même. DMS France fournit à l'utilisateur un service de mise en relation avec un Prestataire de soins, avec ou sans rendez-vous, en vue de la réalisation d'une Téléconsultation. Dans ce cadre, DMS France n'est pas responsable du contenu ni de la qualité des examens médicaux, ou des conseils fournis dans le cadre de la Téléconsultation. Si une disposition de ces CGUV était déclarée invalide par un tribunal compétent, l'invalidité de cette disposition n'en affecterait pas pour autant la validité des autres dispositions, qui resteraient applicables. Le fait de renoncer à l'une des dispositions des CGUV ne peut être considérée comme valant renonciation définitive à cette disposition ou à d'autres dispositions de ces CGUV.
 
-### **2\. Informations générales sur les comptes et l'application**
+**2\. Informations générales sur les comptes et l'application**
+---------------------------------------------------------------
 
-**2.1 Conditions de création du compte**
+### **2.1 Conditions de création du compte**
 
 Pour créer votre compte Kry, vous devez accepter les présentes CGUV. L'acceptation des CGUV matérialise la création d'une relation contractuelle entre DMS France, sis 31-33 rue du Louvre à Paris et vous, utilisateur. Si vous avez des questions préalables sur Kry, n'hésitez pas à contacter le support Kry via le formulaire en ligne dédié.
 
@@ -36,7 +42,7 @@ Des informations nous permettant de vérifier votre identité seront également 
 
 Vous devez vous assurer que toutes les informations vous concernant transmises sur l'application sont correctes, pertinentes, complètes et à jour. Toute modification d'une information doit être signalée sans délai via le formulaire en ligne dédié.
 
-**2.2 Accès au compte et utilisation**
+### **2.2 Accès au compte et utilisation**
 
 Vous êtes responsable de toutes les actions relatives à l'utilisation de votre compte, et vous devez veiller à ce que le compte soit utilisé conformément aux présentes CGUV ainsi qu'aux différents documents et informations communiqués et disponibles sur Kry.
 
@@ -44,17 +50,17 @@ Le compte est personnel et ne peut être utilisé que par vous, en tant que dét
 
 Si vous avez connaissance ou soupçonnez qu'une personne tierce a pu avoir accès à des informations de votre compte, telles qu'un mot de passe ou un identifiant, ou bien a utilisé votre compte personnel, vous devez dans les meilleurs délais en informer DMS France via le formulaire en ligne dédié.
 
-**2.3 Newsletter et notifications**
+### **2.3 Newsletter et notifications**
 
 En créant un compte Kry, vous acceptez et confirmez que les informations données peuvent être utilisées par DMS France pour envoyer des offres et des informations par e-mail et notifications push. En tant que titulaire du compte, vous pouvez désactiver ces notifications et emails à tout moment, en modifiant vos paramètres dans l'App. Cette demande sera traitée sans délai.
 
-**2.4 Contenu de l'application**
+### **2.4 Contenu de l'application**
 
 Le contenu publié ou fourni sur Kry est un complément aux conseils fournis par les professionnels de santé et ne doit pas être considéré comme une information suffisante à laquelle chacun peut se fier quant à sa situation personnelle. Il est donné à titre d'information générale et n'est pas destiné à remplacer un examen, une évaluation, un diagnostic ou un traitement réalisé ou délivré par un professionnel de santé.
 
 Kry doit être utilisé comme un complément aux soins traditionnels et un outil pour aider les professionnels de santé à fournir des soins efficaces aux patients.
 
-**2.5 Éligibilité à la téléconsultation**
+### **2.5 Éligibilité à la téléconsultation**
 
 Le service fourni sous forme de Téléconsultations présente des limites inhérentes à l'exercice à distance. Ainsi, tous les symptômes et maladies ne peuvent être traités et pris en charge via l'App Kry ou le site web Kry.
 
@@ -62,33 +68,21 @@ Afin de vérifier votre éligibilité à une Téléconsultation, une évaluation
 
 La Téléconsultation se déroule en français. Kry ne peut garantir la tenue de la Téléconsultation si le patient ne s'exprime pas en français ou ne le comprend pas.
 
-### **3\. Prix et paiement**
+**3\. Prix et paiement**
+------------------------
 
-**3.1 Coût et prise en charge**
+### **3.1 Coût et prise en charge**
 
-Le coût des services fournis par le Prestataire de soins sur la plateforme et leur prise en charge par l'assurance maladie dépend du type de soins fournis, du conventionnement du Prestataire de soins, du jour et heure de la Téléconsultation, du nombre de téléconsultations effectuées par jour ouvré, de l'affiliation du patient à un régime de sécurité sociale et de l'état de ses droits ouverts à la sécurité sociale.
+Le coût des services fournis par le Prestataire de soins sur la plateforme et leur prise en charge par l'assurance maladie dépend du type de soins fournis, du jour et heure de la Téléconsultation, du nombre de téléconsultations effectuées par jour ouvré, de l'affiliation du patient à un régime de sécurité sociale et de l'état de ses droits ouverts à la sécurité sociale.
 
-Des coûts additionnels pour l'accès aux services fournis sur l'App Kry ou le site web Kry peuvent être facturés aux utilisateurs.
+Le coût de la Téléconsultation avec un Prestataire de soins, est décrit dans le processus de réservation dans l'App. Le prix à payer par l'utilisateur pour une consultation sera confirmé lors de la réservation auprès du Prestataire de soins.
 
-Le coût de la Téléconsultation avec un Prestataire de soins, et les coûts additionnels facultatifs (frais pour services et prestations optionnels), sont décrits dans le processus de réservation dans l'App. Le prix à payer par l'utilisateur pour une consultation sera confirmé lors de la réservation auprès du Prestataire de soins.
-
-Lorsque Kry facture des coûts additionnels, ceux-ci sont facturés à l'issue de la téléconsultation et sont dus en supplément du prix de celle-ci. Ils ne sont pas pris en charge par les organismes d'assurance maladie obligatoire et complémentaire, contrairement au coût de la téléconsultation lorsque le patient remplit les conditions d'une prise en charge.
-
-Le montant de ces coûts additionnels est indiqué dans les conditions tarifaires figurant sur la page tarifs, mais aussi à chaque fois qu'un patient choisit une prestation optionnelle, le montant des frais lui est rappelé avant qu'il confirme sa téléconsultation.
-
-Les conditions et modalités d'application de ces frais additionnels dépendent de votre profil utilisateur et de vos droits ouverts, par exemple selon les cas :
-
-\- utilisateurs bénéficiant d'une prise en charge à 100% par l'assurance maladie obligatoire (ALD, AME et CSS) ;
-
-\- catégories d'utilisateurs particuliers, notamment ceux qui bénéficient d'un accès Kry via leur entreprise ou complémentaire santé.
-
-Les coûts additionnels sont soumis à la taxe sur la valeur ajoutée. Le prix affiché est exprimé toutes taxes comprises (TTC).
-
-**3.2 Paiement**
+### **3.2 Paiement**
 
 Préalablement à la téléconsultation, une somme correspondant au prix maximum de l'acte est retenue comme caution. Pour ce faire vous devez renseigner un moyen de paiement approvisionné en fournissant une empreinte de carte bancaire. La somme sera prélevée après la téléconsultation, et vous serez informé que ce paiement a bien été effectué.
 
-### **4\. Responsabilités**
+**4\. Responsabilités**
+-----------------------
 
 **4.1 Généralités**
 
@@ -108,7 +102,7 @@ Quelques rappels :
 
 \- la téléconsultation ne saurait se substituer systématiquement à une consultation présentielle ;
 
-\- le médecin Kry use de son expertise médicale pour vous l'indiquer le cas échéant ;
+\- le médecin utilisateur de la plateforme Kry use de son expertise médicale pour vous l'indiquer le cas échéant ;
 
 \- en cas de consultations multiples et répétées dans un court laps de temps, sans justification médicale, Kry peut vous réorienter vers votre médecin traitant, ou, si vous n'en n'avez pas, vers un autre médecin en vue d'une consultation physique, et pourrait suspendre ou supprimer votre compte utilisateur.
 
@@ -156,7 +150,7 @@ DMS France est responsable de la conformité de l'App avec les réglementations 
 
 DMS France est uniquement responsable du fonctionnement opérationnel de l'App, c'est-à-dire la possibilité pour un utilisateur de réaliser une Téléconsultation avec un professionnel de santé, et les services associés à cette Téléconsultation, notamment la conservation d'informations fournies par les utilisateurs et les professionnels de santé.
 
-DMS France n'est pas responsable des soins, des informations ou des recommandations fournies par les professionnels de santé à l'utilisateur par écrit ou lors des Téléconsultations. La Société de téléconsultation répond des services de téléconsultation qu'elle délivre via ses médecins salariés dans les conditions définies à l'article L.1142-1 du Code de la Santé publique.
+DMS France n'est pas responsable des soins, des informations ou des recommandations fournies par les professionnels de santé à l'utilisateur par écrit ou lors des Téléconsultations. Le Prestataire de soins répond des services de téléconsultation délivrés dans les conditions définies à l'article L.1142-1 du Code de la Santé publique.
 
 DMS France n'assume aucune responsabilité médicale pour les soins et/ou conseils fournis via les Services de téléconsultation.
 
@@ -168,7 +162,8 @@ De plus, DMS France n'est pas responsable des dommages personnels ou des conséq
 
 La responsabilité de DMS France est dans toutes circonstances limitée aux dommages dont il est établi qu'ils sont directement imputables à un dysfonctionnement technique de l'App relevant de son propre périmètre de responsabilité tel que défini à l'article 4.1. Cette limitation ne s'applique ni aux dommages corporels, ni aux actes, conseils ou décisions médicales relevant de la seule responsabilité professionnelle du Prestataire de soins, régie par les dispositions du code de la santé publique. DMS France ne pourra être tenue responsable de tout dommage matériel ou immatériel, direct ou indirect, résultant de l'utilisation de la Solution ou de l'impossibilité d'y accéder, sauf faute lourde ou intentionnelle de sa part ou dommage corporel.
 
-### **5\. Droits de propriété intellectuelle**
+**5\. Droits de propriété intellectuelle**
+------------------------------------------
 
 **5.1 Droits de propriété intellectuelle attachés à Kry**
 
@@ -180,7 +175,8 @@ Tous les droits de propriété intellectuelle découlant de la fourniture de l'a
 
 Kry peut utiliser des photographies prises à l'occasion des soins ou d'une consultation dans un but et dans un cadre strictement scientifique, c'est-à-dire à des fins pédagogiques, scientifiques ou d'information, de recherche et de progression du savoir médical, notamment dans le cadre de communications au cours de congrès ou de publication dans un journal médical. Kry s'engage à utiliser tous les moyens techniques mis à sa disposition pour rendre ces photographies anonymes.
 
-### **6\. Annulation d'une téléconsultation**
+**6\. Annulation d'une téléconsultation**
+-----------------------------------------
 
 **6.1 Rappel de la téléconsultation**
 
@@ -190,7 +186,8 @@ Vous recevrez, par un moyen de communication électronique (sms, notification Pu
 
 En cas de non-présentation à une Téléconsultation sans annulation préalable, DMS France se réserve le droit d'appliquer des frais de réservation non honorée pouvant aller jusqu'à 16 euros. Ces frais, distincts des honoraires du Prestataire de soins, correspondent aux coûts de mise à disposition du créneau réservé et ne rémunèrent aucun acte médical. Ils sont rappelés lors de la prise de rendez-vous et l'utilisateur reçoit, conformément à l'article 6.1, un rappel de son rendez-vous avant l'horaire prévu.
 
-### **7\. Utilisation et information non autorisées**
+**7\. Utilisation et information non autorisées**
+-------------------------------------------------
 
 **7.1 Messages de l'application ou utilisation illicite**
 
@@ -232,43 +229,47 @@ DMS France se réserve également le droit d'annuler le contrat conclu conformé
 
 En cas de violation des présentes CGUV ou d'utilisation illégale de l'App, l'utilisateur pourra être tenu d'indemniser DMS France pour tout dommage résultant d'une telle violation ou utilisation. A cet effet, DMS France se réserve le droit d'engager des poursuites ou de mettre en œuvre une procédure de recouvrement. DMS France se réserve également le droit de saisir les juridictions compétentes en vue d'obtenir l'indemnisation des dommages résultant de ces actions.
 
-### **8\. Durée et annulation**
+**8\. Durée et annulation**
+---------------------------
 
-**8.1 Durée de validité du compte**
+### **8.1 Durée de validité du compte**
 
 Votre accès à l'App est valable à partir du moment où vous enregistrez un compte et jusqu'à nouvel ordre. Vous pouvez à tout moment supprimer votre compte, avec effet immédiat. En cas de suppression du compte, l'information stockée vous concernant sera traitée comme indiqué dans notre Politique de confidentialité.
 
-**8.2 Suppression du compte à l'initiative de Kry**
+### **8.2 Suppression du compte à l'initiative de Kry**
 
 Kry se réserve le droit de résilier votre accès à la plate-forme Kry avec effet immédiat, en cas de manquement ou de violation des présentes conditions générales d'utilisation et, si vous ne rectifiez pas une telle violation dans les trente (30) jours après en avoir été informé par écrit. Les informations vous concernant qui ont été stockées seront traitées comme indiqué dans notre Politique de confidentialité.
 
-**8.3 Suspension du compte**
+### **8.3 Suspension du compte**
 
 Si l'accès à votre compte a été suspendu conformément à cet article, vous n'avez pas le droit de vous réinscrire ou d'enregistrer un nouveau compte sans l'autorisation spécifique écrite de DMS France.
 
-### **9\. Modification du produit et changements dans les conditions générales d'utilisation**
+**9\. Modification du produit et changements dans les conditions générales d'utilisation**
+------------------------------------------------------------------------------------------
 
-**9.1 Modification des CGUV**
+### **9.1 Modification des CGUV**
 
 Nous nous réservons le droit de modifier les services, les fonctionnalités de Kry ou les modalités d'utilisation du Compte utilisateur et de l'App. Le développement de produits et de services pourrait concerner, mais pas exclusivement, la mise en page, le contenu ou les fonctions et pourrait entraîner des modifications des présentes conditions générales d'utilisation.
 
 Ces modifications seront communiquées via l'application et / ou par e-mail. Les CGUV en vigueur sont disponibles sur l'application.
 
-**9.2 Rupture du contrat**
+### **9.2 Rupture du contrat**
 
 Vous avez le droit de mettre fin au contrat conclu avec Kry avec effet immédiat, si vous n'êtes pas d'accord avec les modifications des présentes conditions générales d'utilisation, du compte ou de l'application que nous pourrions effectuer ou si ces changements entraînent un désavantage matériel pour vous.
 
-### **10\. Force majeure**
+**10\. Force majeure**
+----------------------
 
 Aucune indemnisation ne sera versée pour les dommages causés par un événement imprévisible et irrésistible tels qu'une grève, un incendie, une action gouvernementale, des conflits de travail, des accidents, des fermetures ou des dysfonctionnements de systèmes de communication publique ou d'autres circonstances et conséquences indépendantes de notre volonté, que nous ne pouvions ni éviter ni contrôler.
 
-### **11\. Notifications**
+**11\. Notifications**
+----------------------
 
-**11.1 Communication de vos coordonnées**
+### **11.1 Communication de vos coordonnées**
 
 Vous devez nous fournir l'adresse e-mail et le numéro de téléphone auxquels vous souhaitez recevoir des confirmations, des rappels et d'autres notifications de notre part. Dans le cas où vos coordonnées changeraient, vous devez nous informer de vos nouvelles coordonnées sans tarder. Les annulations ou autres notifications doivent être communiquées par courrier électronique.
 
-**11.2 Livraison de la notification**
+### **11.2 Livraison de la notification**
 
 La notification est considérée comme livrée si elle est envoyée :
 
@@ -290,19 +291,20 @@ Votre compte est personnel, les droits et obligations liés à l'utilisation de 
 
 Kry se réserve le droit de faire appel à des sous-traitants pour remplir les droits et obligations visés et issus des présentes CGUV.
 
-### **14\. Droit applicable, réclamations et règlement des litiges**
+**14\. Droit applicable, réclamations et règlement des litiges**
+----------------------------------------------------------------
 
 Les présentes conditions générales d'utilisation sont soumises à la loi française.
 
-**14.1 Réclamation préalable auprès de Kry**
+### **14.1 Réclamation préalable auprès de Kry**
 
 En cas de difficulté ou de désaccord relatif à l'utilisation des Services, l'Utilisateur est invité à adresser en premier lieu sa réclamation à Kry via le formulaire de contact accessible à l'adresse suivante :
 
-[https://](https://support.livi.fr/hc/fr-fr/requests/new "https")[support.Kry.fr/hc/fr-fr/requests/new](https://support.livi.fr/hc/fr-fr/requests/new "supportkryfrhcfr-frrequestsnew")
+[https://support.kry.fr/hc/fr-fr/requests/new](https://support.kry.fr/hc/fr-fr/requests/new "httpssupportkryfrhcfr-frrequestsnew")
 
 Cette réclamation est qualifiée par l'équipe support de Kry, qui l'oriente vers le ou les services en mesure d'y apporter une réponse adaptée (équipe administrative, direction médicale, etc.).
 
-**14.2 Voies de recours en cas de désaccord persistant**
+### **14.2 Voies de recours en cas de désaccord persistant**
 
 Si, après examen par DMS France, le désaccord persiste, l'Utilisateur dispose des voies de recours suivantes, selon la nature de sa réclamation :
 
@@ -312,7 +314,9 @@ Si la réclamation porte sur un manquement déontologique du médecin ayant dél
 
 2° Demande d'indemnisation pour un dommage résultant d'une faute médicale
 
-Les médecins délivrant les Téléconsultations sont salariés de DMS France dans le cadre de son agrément de société de téléconsultation. Conformément aux règles de la responsabilité civile applicables aux commettants (article 1242, alinéa 5, du Code civil) et à l'article L.1142-1 du code de la santé publique, lorsqu'un dommage résulte d'une faute commise par un médecin salarié de DMS France dans l'exercice normal de sa mission de Téléconsultation, sans qu'il en ait excédé les limites, la demande d'indemnisation est portée contre la Société de téléconsultation, qui répond des conséquences dommageables de cette faute en sa qualité d'employeur. Cette voie s'exerce sans préjudice de la faculté pour l'Utilisateur de saisir le CDOM au titre du 1° ci-dessus, ainsi que des voies de règlement amiable (notamment la Commission de conciliation et d'indemnisation) ou juridictionnelles de droit commun.
+Les professionnels de santé délivrant les Téléconsultations répondent des dommages résultant de leur activité de téléconsultation sur la plateforme Kry.
+
+Conformément aux règles de la responsabilité civile applicables aux commettants (article 1242, alinéa 5, du Code civil) et à l'article L.1142-1 du code de la santé publique, lorsqu'un dommage résulte d'une faute commise par un médecin salarié de la Société de téléconsultation dans l'exercice normal de sa mission de Téléconsultation, sans qu'il en ait excédé les limites, la demande d'indemnisation est portée contre la Société de téléconsultation, qui répond des conséquences dommageables de cette faute en sa qualité d'employeur. Cette voie s'exerce sans préjudice de la faculté pour l'Utilisateur de saisir le CDOM au titre du 1° ci-dessus, ainsi que des voies de règlement amiable (notamment la Commission de conciliation et d'indemnisation) ou juridictionnelles de droit commun.
 
 3° Litige de consommation  
    
@@ -325,12 +329,14 @@ Si la réclamation porte sur un litige de consommation résultant des services f
 
 Le recours à la médiation de la consommation est gratuit pour l'Utilisateur.
 
-**14.3 Recours juridictionnel** Le recours à la médiation ne prive pas l'Utilisateur de la possibilité de saisir à tout moment les juridictions françaises compétentes.
+### **14.3 Recours juridictionnel**
+
+Le recours à la médiation ne prive pas l'Utilisateur de la possibilité de saisir à tout moment les juridictions françaises compétentes.
 
 Conditions générales d’utilisation et de vente
 ==============================================
 
-_Version 15.09.2026_
+_Version 01.10.2026_
 
 Les présentes conditions générales d'utilisation et de vente (CGUV) sont destinées à encadrer l'utilisation de la solution Kry et les services qui y sont liés. Avant de commencer à utiliser les services Kry, opérant préalablement sous le nom de Livi sur l'application Kry (App Kry) ou le site internet (web App), veuillez lire ces conditions générales qui contiennent des informations importantes, notamment :
 
@@ -341,21 +347,27 @@ Les présentes conditions générales d'utilisation et de vente (CGUV) sont dest
 
 Avant de commencer, n'oubliez pas que Kry n'est pas un service d'urgence.
 
-### **1\. Applicabilité, portée, etc.** **1.1 Qui sommes-nous ?**
+**1\. Applicabilité, portée, etc.**
+-----------------------------------
 
-Digital Medical Supply France (DMS France), est une filiale de KRY International AB (publ) (KRY International) propriétaire de la plate-forme Kry, utilisée pour fournir des prestations de soins à distance via un ordinateur, une tablette ou un smartphone à des patients. Les prestations de soins à distance sur la plateforme Kry sont réalisées par des médecins salariés de la société de téléconsultation Digital Consultation Centre France (la Société de téléconsultation) agréée en vertu de l'article L.4081-1 du code de la santé publique, sous le numéro \[numéro d'agrément\] qui respecte à ce titre le référentiel de bonnes pratiques professionnelles de la Haute Autorité de santé applicable aux sociétés de téléconsultation. Les références à « nous », et « notre » dans ces CGUV sont des références à DMS France. Les CGUV, les principes applicables en matière de protection des données et diverses instructions et informations relatives aux services sont disponibles dans l'App Kry et sur le site web.
+### **1.1 Qui sommes-nous ?**
 
-**1.2 Description des services**
+Digital Medical Supply France (DMS France), est une filiale de KRY International AB (publ) (KRY International) propriétaire de la plate-forme Kry, utilisée pour fournir des prestations de soins à distance via un ordinateur, une tablette ou un smartphone à des patients. Les prestations de soins à distance sur la plateforme Kry sont réalisées soit par des médecins salariés de la société de téléconsultation Digital Consultation Centre France (la Société de téléconsultation) agréée en vertu de l'article L.4081-1 du code de la santé publique, sous le numéro \[numéro d'agrément\] qui respecte à ce titre le référentiel de bonnes pratiques professionnelles de la Haute Autorité de santé applicable aux sociétés de téléconsultation, soit par des professionnels de santé intervenant à titre libéral.
 
-Kry permet à des particuliers de prendre des rendez-vous avec des professionnels de santé, dont des médecins (« Prestataire de soins»), pour des soins médicaux et des conseils lors de Téléconsultations. Toutes les consultations médicales fournies via l'application Kry sont réalisées par un professionnel de santé médecin inscrit auprès de l'ordre des médecins en France. Vous pourrez accéder aux services Kry une fois que vous aurez créé votre compte personnel. Après une description écrite de vos symptômes à partir d'un questionnaire médical effectué avant la Téléconsultation, vous serez mis en relation avec un Prestataire de soins à qui vous pourrez décrire votre état et vos problèmes. Le Prestataire de soins effectuera alors un examen visuel, si possible posera un diagnostic, et suggérera un traitement.
+Les références à « nous », et « notre » dans ces CGUV sont des références à DMS France. Les CGUV, les principes applicables en matière de protection des données et diverses instructions et informations relatives aux services sont disponibles dans l'App Kry et sur le site web.
 
-**1.3 Nature des relations contractuelles**
+### **1.2 Description des services**
+
+Kry permet à des particuliers de prendre des rendez-vous avec des professionnels de santé (« Prestataire de soins»), dont des médecins , pour des soins médicaux et des conseils lors de Téléconsultations. Toutes les consultations médicales fournies via l'application Kry sont réalisées par un professionnel de santé inscrit auprès de son ordre professionel en France. Vous pourrez accéder aux services Kry une fois que vous aurez créé votre compte personnel. Après une description écrite de vos symptômes à partir d'un questionnaire médical effectué avant la Téléconsultation, vous serez mis en relation avec un Prestataire de soins à qui vous pourrez décrire votre état et vos problèmes. Le Prestataire de soins effectuera alors un examen visuel, si possible posera un diagnostic, et suggérera un traitement.
+
+### **1.3 Nature des relations contractuelles**
 
 DMS France est uniquement un prestataire de service technologique qui intervient comme intermédiaire entre vous, utilisateur, et le Prestataire de soins, et qui, en aucun cas, n'agit comme un prestataire de soins. Ainsi, il ne peut ni ne doit être considéré comme un prestataire de soins lui-même. DMS France fournit à l'utilisateur un service de mise en relation avec un Prestataire de soins, avec ou sans rendez-vous, en vue de la réalisation d'une Téléconsultation. Dans ce cadre, DMS France n'est pas responsable du contenu ni de la qualité des examens médicaux, ou des conseils fournis dans le cadre de la Téléconsultation. Si une disposition de ces CGUV était déclarée invalide par un tribunal compétent, l'invalidité de cette disposition n'en affecterait pas pour autant la validité des autres dispositions, qui resteraient applicables. Le fait de renoncer à l'une des dispositions des CGUV ne peut être considérée comme valant renonciation définitive à cette disposition ou à d'autres dispositions de ces CGUV.
 
-### **2\. Informations générales sur les comptes et l'application**
+**2\. Informations générales sur les comptes et l'application**
+---------------------------------------------------------------
 
-**2.1 Conditions de création du compte**
+### **2.1 Conditions de création du compte**
 
 Pour créer votre compte Kry, vous devez accepter les présentes CGUV. L'acceptation des CGUV matérialise la création d'une relation contractuelle entre DMS France, sis 31-33 rue du Louvre à Paris et vous, utilisateur. Si vous avez des questions préalables sur Kry, n'hésitez pas à contacter le support Kry via le formulaire en ligne dédié.
 
@@ -365,7 +377,7 @@ Des informations nous permettant de vérifier votre identité seront également 
 
 Vous devez vous assurer que toutes les informations vous concernant transmises sur l'application sont correctes, pertinentes, complètes et à jour. Toute modification d'une information doit être signalée sans délai via le formulaire en ligne dédié.
 
-**2.2 Accès au compte et utilisation**
+### **2.2 Accès au compte et utilisation**
 
 Vous êtes responsable de toutes les actions relatives à l'utilisation de votre compte, et vous devez veiller à ce que le compte soit utilisé conformément aux présentes CGUV ainsi qu'aux différents documents et informations communiqués et disponibles sur Kry.
 
@@ -373,17 +385,17 @@ Le compte est personnel et ne peut être utilisé que par vous, en tant que dét
 
 Si vous avez connaissance ou soupçonnez qu'une personne tierce a pu avoir accès à des informations de votre compte, telles qu'un mot de passe ou un identifiant, ou bien a utilisé votre compte personnel, vous devez dans les meilleurs délais en informer DMS France via le formulaire en ligne dédié.
 
-**2.3 Newsletter et notifications**
+### **2.3 Newsletter et notifications**
 
 En créant un compte Kry, vous acceptez et confirmez que les informations données peuvent être utilisées par DMS France pour envoyer des offres et des informations par e-mail et notifications push. En tant que titulaire du compte, vous pouvez désactiver ces notifications et emails à tout moment, en modifiant vos paramètres dans l'App. Cette demande sera traitée sans délai.
 
-**2.4 Contenu de l'application**
+### **2.4 Contenu de l'application**
 
 Le contenu publié ou fourni sur Kry est un complément aux conseils fournis par les professionnels de santé et ne doit pas être considéré comme une information suffisante à laquelle chacun peut se fier quant à sa situation personnelle. Il est donné à titre d'information générale et n'est pas destiné à remplacer un examen, une évaluation, un diagnostic ou un traitement réalisé ou délivré par un professionnel de santé.
 
 Kry doit être utilisé comme un complément aux soins traditionnels et un outil pour aider les professionnels de santé à fournir des soins efficaces aux patients.
 
-**2.5 Éligibilité à la téléconsultation**
+### **2.5 Éligibilité à la téléconsultation**
 
 Le service fourni sous forme de Téléconsultations présente des limites inhérentes à l'exercice à distance. Ainsi, tous les symptômes et maladies ne peuvent être traités et pris en charge via l'App Kry ou le site web Kry.
 
@@ -391,33 +403,21 @@ Afin de vérifier votre éligibilité à une Téléconsultation, une évaluation
 
 La Téléconsultation se déroule en français. Kry ne peut garantir la tenue de la Téléconsultation si le patient ne s'exprime pas en français ou ne le comprend pas.
 
-### **3\. Prix et paiement**
+**3\. Prix et paiement**
+------------------------
 
-**3.1 Coût et prise en charge**
+### **3.1 Coût et prise en charge**
 
-Le coût des services fournis par le Prestataire de soins sur la plateforme et leur prise en charge par l'assurance maladie dépend du type de soins fournis, du conventionnement du Prestataire de soins, du jour et heure de la Téléconsultation, du nombre de téléconsultations effectuées par jour ouvré, de l'affiliation du patient à un régime de sécurité sociale et de l'état de ses droits ouverts à la sécurité sociale.
+Le coût des services fournis par le Prestataire de soins sur la plateforme et leur prise en charge par l'assurance maladie dépend du type de soins fournis, du jour et heure de la Téléconsultation, du nombre de téléconsultations effectuées par jour ouvré, de l'affiliation du patient à un régime de sécurité sociale et de l'état de ses droits ouverts à la sécurité sociale.
 
-Des coûts additionnels pour l'accès aux services fournis sur l'App Kry ou le site web Kry peuvent être facturés aux utilisateurs.
+Le coût de la Téléconsultation avec un Prestataire de soins, est décrit dans le processus de réservation dans l'App. Le prix à payer par l'utilisateur pour une consultation sera confirmé lors de la réservation auprès du Prestataire de soins.
 
-Le coût de la Téléconsultation avec un Prestataire de soins, et les coûts additionnels facultatifs (frais pour services et prestations optionnels), sont décrits dans le processus de réservation dans l'App. Le prix à payer par l'utilisateur pour une consultation sera confirmé lors de la réservation auprès du Prestataire de soins.
-
-Lorsque Kry facture des coûts additionnels, ceux-ci sont facturés à l'issue de la téléconsultation et sont dus en supplément du prix de celle-ci. Ils ne sont pas pris en charge par les organismes d'assurance maladie obligatoire et complémentaire, contrairement au coût de la téléconsultation lorsque le patient remplit les conditions d'une prise en charge.
-
-Le montant de ces coûts additionnels est indiqué dans les conditions tarifaires figurant sur la page tarifs, mais aussi à chaque fois qu'un patient choisit une prestation optionnelle, le montant des frais lui est rappelé avant qu'il confirme sa téléconsultation.
-
-Les conditions et modalités d'application de ces frais additionnels dépendent de votre profil utilisateur et de vos droits ouverts, par exemple selon les cas :
-
-\- utilisateurs bénéficiant d'une prise en charge à 100% par l'assurance maladie obligatoire (ALD, AME et CSS) ;
-
-\- catégories d'utilisateurs particuliers, notamment ceux qui bénéficient d'un accès Kry via leur entreprise ou complémentaire santé.
-
-Les coûts additionnels sont soumis à la taxe sur la valeur ajoutée. Le prix affiché est exprimé toutes taxes comprises (TTC).
-
-**3.2 Paiement**
+### **3.2 Paiement**
 
 Préalablement à la téléconsultation, une somme correspondant au prix maximum de l'acte est retenue comme caution. Pour ce faire vous devez renseigner un moyen de paiement approvisionné en fournissant une empreinte de carte bancaire. La somme sera prélevée après la téléconsultation, et vous serez informé que ce paiement a bien été effectué.
 
-### **4\. Responsabilités**
+**4\. Responsabilités**
+-----------------------
 
 **4.1 Généralités**
 
@@ -437,7 +437,7 @@ Quelques rappels :
 
 \- la téléconsultation ne saurait se substituer systématiquement à une consultation présentielle ;
 
-\- le médecin Kry use de son expertise médicale pour vous l'indiquer le cas échéant ;
+\- le médecin utilisateur de la plateforme Kry use de son expertise médicale pour vous l'indiquer le cas échéant ;
 
 \- en cas de consultations multiples et répétées dans un court laps de temps, sans justification médicale, Kry peut vous réorienter vers votre médecin traitant, ou, si vous n'en n'avez pas, vers un autre médecin en vue d'une consultation physique, et pourrait suspendre ou supprimer votre compte utilisateur.
 
@@ -485,7 +485,7 @@ DMS France est responsable de la conformité de l'App avec les réglementations 
 
 DMS France est uniquement responsable du fonctionnement opérationnel de l'App, c'est-à-dire la possibilité pour un utilisateur de réaliser une Téléconsultation avec un professionnel de santé, et les services associés à cette Téléconsultation, notamment la conservation d'informations fournies par les utilisateurs et les professionnels de santé.
 
-DMS France n'est pas responsable des soins, des informations ou des recommandations fournies par les professionnels de santé à l'utilisateur par écrit ou lors des Téléconsultations. La Société de téléconsultation répond des services de téléconsultation qu'elle délivre via ses médecins salariés dans les conditions définies à l'article L.1142-1 du Code de la Santé publique.
+DMS France n'est pas responsable des soins, des informations ou des recommandations fournies par les professionnels de santé à l'utilisateur par écrit ou lors des Téléconsultations. Le Prestataire de soins répond des services de téléconsultation délivrés dans les conditions définies à l'article L.1142-1 du Code de la Santé publique.
 
 DMS France n'assume aucune responsabilité médicale pour les soins et/ou conseils fournis via les Services de téléconsultation.
 
@@ -497,7 +497,8 @@ De plus, DMS France n'est pas responsable des dommages personnels ou des conséq
 
 La responsabilité de DMS France est dans toutes circonstances limitée aux dommages dont il est établi qu'ils sont directement imputables à un dysfonctionnement technique de l'App relevant de son propre périmètre de responsabilité tel que défini à l'article 4.1. Cette limitation ne s'applique ni aux dommages corporels, ni aux actes, conseils ou décisions médicales relevant de la seule responsabilité professionnelle du Prestataire de soins, régie par les dispositions du code de la santé publique. DMS France ne pourra être tenue responsable de tout dommage matériel ou immatériel, direct ou indirect, résultant de l'utilisation de la Solution ou de l'impossibilité d'y accéder, sauf faute lourde ou intentionnelle de sa part ou dommage corporel.
 
-### **5\. Droits de propriété intellectuelle**
+**5\. Droits de propriété intellectuelle**
+------------------------------------------
 
 **5.1 Droits de propriété intellectuelle attachés à Kry**
 
@@ -509,7 +510,8 @@ Tous les droits de propriété intellectuelle découlant de la fourniture de l'a
 
 Kry peut utiliser des photographies prises à l'occasion des soins ou d'une consultation dans un but et dans un cadre strictement scientifique, c'est-à-dire à des fins pédagogiques, scientifiques ou d'information, de recherche et de progression du savoir médical, notamment dans le cadre de communications au cours de congrès ou de publication dans un journal médical. Kry s'engage à utiliser tous les moyens techniques mis à sa disposition pour rendre ces photographies anonymes.
 
-### **6\. Annulation d'une téléconsultation**
+**6\. Annulation d'une téléconsultation**
+-----------------------------------------
 
 **6.1 Rappel de la téléconsultation**
 
@@ -519,7 +521,8 @@ Vous recevrez, par un moyen de communication électronique (sms, notification Pu
 
 En cas de non-présentation à une Téléconsultation sans annulation préalable, DMS France se réserve le droit d'appliquer des frais de réservation non honorée pouvant aller jusqu'à 16 euros. Ces frais, distincts des honoraires du Prestataire de soins, correspondent aux coûts de mise à disposition du créneau réservé et ne rémunèrent aucun acte médical. Ils sont rappelés lors de la prise de rendez-vous et l'utilisateur reçoit, conformément à l'article 6.1, un rappel de son rendez-vous avant l'horaire prévu.
 
-### **7\. Utilisation et information non autorisées**
+**7\. Utilisation et information non autorisées**
+-------------------------------------------------
 
 **7.1 Messages de l'application ou utilisation illicite**
 
@@ -561,43 +564,47 @@ DMS France se réserve également le droit d'annuler le contrat conclu conformé
 
 En cas de violation des présentes CGUV ou d'utilisation illégale de l'App, l'utilisateur pourra être tenu d'indemniser DMS France pour tout dommage résultant d'une telle violation ou utilisation. A cet effet, DMS France se réserve le droit d'engager des poursuites ou de mettre en œuvre une procédure de recouvrement. DMS France se réserve également le droit de saisir les juridictions compétentes en vue d'obtenir l'indemnisation des dommages résultant de ces actions.
 
-### **8\. Durée et annulation**
+**8\. Durée et annulation**
+---------------------------
 
-**8.1 Durée de validité du compte**
+### **8.1 Durée de validité du compte**
 
 Votre accès à l'App est valable à partir du moment où vous enregistrez un compte et jusqu'à nouvel ordre. Vous pouvez à tout moment supprimer votre compte, avec effet immédiat. En cas de suppression du compte, l'information stockée vous concernant sera traitée comme indiqué dans notre Politique de confidentialité.
 
-**8.2 Suppression du compte à l'initiative de Kry**
+### **8.2 Suppression du compte à l'initiative de Kry**
 
 Kry se réserve le droit de résilier votre accès à la plate-forme Kry avec effet immédiat, en cas de manquement ou de violation des présentes conditions générales d'utilisation et, si vous ne rectifiez pas une telle violation dans les trente (30) jours après en avoir été informé par écrit. Les informations vous concernant qui ont été stockées seront traitées comme indiqué dans notre Politique de confidentialité.
 
-**8.3 Suspension du compte**
+### **8.3 Suspension du compte**
 
 Si l'accès à votre compte a été suspendu conformément à cet article, vous n'avez pas le droit de vous réinscrire ou d'enregistrer un nouveau compte sans l'autorisation spécifique écrite de DMS France.
 
-### **9\. Modification du produit et changements dans les conditions générales d'utilisation**
+**9\. Modification du produit et changements dans les conditions générales d'utilisation**
+------------------------------------------------------------------------------------------
 
-**9.1 Modification des CGUV**
+### **9.1 Modification des CGUV**
 
 Nous nous réservons le droit de modifier les services, les fonctionnalités de Kry ou les modalités d'utilisation du Compte utilisateur et de l'App. Le développement de produits et de services pourrait concerner, mais pas exclusivement, la mise en page, le contenu ou les fonctions et pourrait entraîner des modifications des présentes conditions générales d'utilisation.
 
 Ces modifications seront communiquées via l'application et / ou par e-mail. Les CGUV en vigueur sont disponibles sur l'application.
 
-**9.2 Rupture du contrat**
+### **9.2 Rupture du contrat**
 
 Vous avez le droit de mettre fin au contrat conclu avec Kry avec effet immédiat, si vous n'êtes pas d'accord avec les modifications des présentes conditions générales d'utilisation, du compte ou de l'application que nous pourrions effectuer ou si ces changements entraînent un désavantage matériel pour vous.
 
-### **10\. Force majeure**
+**10\. Force majeure**
+----------------------
 
 Aucune indemnisation ne sera versée pour les dommages causés par un événement imprévisible et irrésistible tels qu'une grève, un incendie, une action gouvernementale, des conflits de travail, des accidents, des fermetures ou des dysfonctionnements de systèmes de communication publique ou d'autres circonstances et conséquences indépendantes de notre volonté, que nous ne pouvions ni éviter ni contrôler.
 
-### **11\. Notifications**
+**11\. Notifications**
+----------------------
 
-**11.1 Communication de vos coordonnées**
+### **11.1 Communication de vos coordonnées**
 
 Vous devez nous fournir l'adresse e-mail et le numéro de téléphone auxquels vous souhaitez recevoir des confirmations, des rappels et d'autres notifications de notre part. Dans le cas où vos coordonnées changeraient, vous devez nous informer de vos nouvelles coordonnées sans tarder. Les annulations ou autres notifications doivent être communiquées par courrier électronique.
 
-**11.2 Livraison de la notification**
+### **11.2 Livraison de la notification**
 
 La notification est considérée comme livrée si elle est envoyée :
 
@@ -619,19 +626,20 @@ Votre compte est personnel, les droits et obligations liés à l'utilisation de 
 
 Kry se réserve le droit de faire appel à des sous-traitants pour remplir les droits et obligations visés et issus des présentes CGUV.
 
-### **14\. Droit applicable, réclamations et règlement des litiges**
+**14\. Droit applicable, réclamations et règlement des litiges**
+----------------------------------------------------------------
 
 Les présentes conditions générales d'utilisation sont soumises à la loi française.
 
-**14.1 Réclamation préalable auprès de Kry**
+### **14.1 Réclamation préalable auprès de Kry**
 
 En cas de difficulté ou de désaccord relatif à l'utilisation des Services, l'Utilisateur est invité à adresser en premier lieu sa réclamation à Kry via le formulaire de contact accessible à l'adresse suivante :
 
-[https://](https://support.livi.fr/hc/fr-fr/requests/new "https")[support.Kry.fr/hc/fr-fr/requests/new](https://support.livi.fr/hc/fr-fr/requests/new "supportkryfrhcfr-frrequestsnew")
+[https://support.kry.fr/hc/fr-fr/requests/new](https://support.kry.fr/hc/fr-fr/requests/new "httpssupportkryfrhcfr-frrequestsnew")
 
 Cette réclamation est qualifiée par l'équipe support de Kry, qui l'oriente vers le ou les services en mesure d'y apporter une réponse adaptée (équipe administrative, direction médicale, etc.).
 
-**14.2 Voies de recours en cas de désaccord persistant**
+### **14.2 Voies de recours en cas de désaccord persistant**
 
 Si, après examen par DMS France, le désaccord persiste, l'Utilisateur dispose des voies de recours suivantes, selon la nature de sa réclamation :
 
@@ -641,7 +649,9 @@ Si la réclamation porte sur un manquement déontologique du médecin ayant dél
 
 2° Demande d'indemnisation pour un dommage résultant d'une faute médicale
 
-Les médecins délivrant les Téléconsultations sont salariés de DMS France dans le cadre de son agrément de société de téléconsultation. Conformément aux règles de la responsabilité civile applicables aux commettants (article 1242, alinéa 5, du Code civil) et à l'article L.1142-1 du code de la santé publique, lorsqu'un dommage résulte d'une faute commise par un médecin salarié de DMS France dans l'exercice normal de sa mission de Téléconsultation, sans qu'il en ait excédé les limites, la demande d'indemnisation est portée contre la Société de téléconsultation, qui répond des conséquences dommageables de cette faute en sa qualité d'employeur. Cette voie s'exerce sans préjudice de la faculté pour l'Utilisateur de saisir le CDOM au titre du 1° ci-dessus, ainsi que des voies de règlement amiable (notamment la Commission de conciliation et d'indemnisation) ou juridictionnelles de droit commun.
+Les professionnels de santé délivrant les Téléconsultations répondent des dommages résultant de leur activité de téléconsultation sur la plateforme Kry.
+
+Conformément aux règles de la responsabilité civile applicables aux commettants (article 1242, alinéa 5, du Code civil) et à l'article L.1142-1 du code de la santé publique, lorsqu'un dommage résulte d'une faute commise par un médecin salarié de la Société de téléconsultation dans l'exercice normal de sa mission de Téléconsultation, sans qu'il en ait excédé les limites, la demande d'indemnisation est portée contre la Société de téléconsultation, qui répond des conséquences dommageables de cette faute en sa qualité d'employeur. Cette voie s'exerce sans préjudice de la faculté pour l'Utilisateur de saisir le CDOM au titre du 1° ci-dessus, ainsi que des voies de règlement amiable (notamment la Commission de conciliation et d'indemnisation) ou juridictionnelles de droit commun.
 
 3° Litige de consommation  
    
@@ -654,4 +664,6 @@ Si la réclamation porte sur un litige de consommation résultant des services f
 
 Le recours à la médiation de la consommation est gratuit pour l'Utilisateur.
 
-**14.3 Recours juridictionnel** Le recours à la médiation ne prive pas l'Utilisateur de la possibilité de saisir à tout moment les juridictions françaises compétentes.
+### **14.3 Recours juridictionnel**
+
+Le recours à la médiation ne prive pas l'Utilisateur de la possibilité de saisir à tout moment les juridictions françaises compétentes.
