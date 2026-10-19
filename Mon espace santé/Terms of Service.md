@@ -18,7 +18,7 @@ Tél. : +33 (0) 1 72 60 10 00
 
 #### Ministère de la Santé, des Familles, de l'Autonomie et des Personnes handicapées
 
-Délégation au numérique en santé (DNS)
+Direction générale de la recherche, de l'innovation et du numérique en santé (DGRINES)
 
 14 Avenue Duquesne,
 
@@ -30,9 +30,9 @@ Tél. : + 33 (0) 1 40 56 60 00
 
 Thomas Fatôme (directeur général)
 
-### Directeur de publication pour le Ministère de la Santé, des Familles, de l'Autonomie et des Personnes handicapées
+### Directrice de publication pour le Ministère de la Santé, des Familles, de l'Autonomie et des Personnes handicapées
 
- David Sainati (Délégué au numérique en santé par intérim)
+ Lise Alter (directrice générale de la recherche, de l'innovation et du numérique en santé)
 
 ### Hébergement
 
