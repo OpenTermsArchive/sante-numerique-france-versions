@@ -66,7 +66,7 @@ conservation
 
 
 
-\_cf_waitingroom
+\__cfwaitingroom
 
 (Doctolib)
 
@@ -100,9 +100,9 @@ Doctolib
 
 
 
-\__cf_clearance
+cf_clearance
 
-(Docotlib)
+(Doctolib)
 
 Ce Cookie permet de prouver à Cloudflare
 
@@ -808,7 +808,19 @@ personnelles.
 
 
 
+\__cfseq Ce Cookie enregistre l'ordre des requêtes de
+
+l’utilisateur et le délai entre les requêtes pour
+
+détecter les navigations anormales.
+
+
+
+1 heure
+
 Cookies de mesure d’audience
+
+
 
 Doctolib utilise des Cookies de mesure d’audience afin d’adapter la Plateforme Doctolib aux demandes etbesoins des utilisateurs/visiteurs, de mesurer le nombre de visites, le nombre de pages consultées,l’activité des utilisateurs/visiteurs sur la Plateforme Doctolib, ainsi qu’à des fins d’analyses et d’étudesstatistiques.
 
@@ -904,6 +916,10 @@ sur la Plateforme Doctolib (p. ex. vues et
 
 clics) afin de générer des rapports
 
+
+
+Session
+
 statistiques et améliorer la qualité de nos
 
 services. Les informations collectées par le
@@ -913,8 +929,6 @@ Cookie sont remontées via l’adresse
 https://events-logs.doctolib.com/.
 
 
-
-Session
 
 Altid Ce Cookie permet de suivre au cours d’une
 
@@ -1008,8 +1022,6 @@ finalités
 
 Durée de conservation
 
-
-
 Events (Doctolib) Ces Cookies nous permettent
 
 de suivre les actions sur les
@@ -1019,10 +1031,6 @@ contenus consultés sur la
 Plateforme Doctolib (par
 
 exemple, les vues et les clics), y
-
-
-
-13 mois
 
 compris des données de santé,
 
@@ -1057,6 +1065,10 @@ santé à des fins d’amélioration
 des services au sein du compte
 
 Doctolib.
+
+
+
+13 mois
 
 
 
@@ -1106,17 +1118,11 @@ https://events-logs.doctolib.com/.
 
 Session
 
-
-
 ssid (Doctolib) Ce Cookie permet de suivre au cours d’une
 
 session les actions sur les contenus affichés
 
 sur la Plateforme Doctolib (p. ex. vues et
-
-
-
-13 mois
 
 clics) afin de générer des rapports
 
@@ -1129,6 +1135,10 @@ de nos services. Les informations collectées
 par le cookie sont remontées via l’adresse
 
 https://events-logs.doctolib.com/.
+
+
+
+13 mois
 
 
 
@@ -1212,8 +1222,6 @@ d'âge de la famille.
 
 6 mois
 
-
-
 smart_app_banne
 
 r_closed
@@ -1231,6 +1239,8 @@ Doctolib lorsque l'utilisateur l'a fermée.
 
 
 15 jours
+
+
 
 Cookies de personnalisation des campagnes deprévention
 
@@ -1314,8 +1324,6 @@ Description détaillée des finalités Durée de
 
 conservation
 
-
-
 gact
 
 (Doctolib)
@@ -1330,13 +1338,13 @@ Doctolib sur Google afin de mesurer la
 
 performance de ces campagnes, une fois
 
-
-
-30 jours
-
 seulement que l'utilisateur a cliqué sur une
 
 publicité.
+
+
+
+30 jours
 
 
 
@@ -1406,9 +1414,9 @@ Partage de l’utilisation de votre terminal avec d’autrespersonnes
 
 Si votre terminal est utilisé par plusieurs personnes et lorsqu'un même terminal dispose de plusieurslogiciels de navigation, nous ne pouvons pas nous assurer de manière certaine que les services destinésà votre terminal correspondent bien à votre propre utilisation de ce terminal et non à celle d'un autreutilisateur de ce terminal.
 
-
-
 Le partage avec d'autres personnes de l'utilisation de votre terminal et la configuration des paramètres devotre navigateur à l'égard des Cookies, relèvent de votre libre choix et de votre responsabilité.
+
+
 
 Comment désactiver les Cookies ?
 
@@ -1462,4 +1470,4 @@ Si vous avez des questions ou des réclamations concernant le respect par Doctol
 
 
 
-Date : Avril 2026
+Date : Octobre 2026
