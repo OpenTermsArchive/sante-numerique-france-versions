@@ -52,12 +52,14 @@ Lors de la collecte de données à caractère personnel, vous êtes informé du 
 
 FEELVERYBIEN peut être amené à traiter vos données personnelles pour les finalités suivantes :
 
-*   La gestion de la base de données Clients des Supports ;
-*   La gestion de l’architecture technique et technologique des Services de FEELVERYBIEN ;
-*   La gestion et le suivi du support Client et des témoignages Utilisateurs ;
-*   La gestion des transactions et paiements en ligne ;
-*   La gestion de l’audience marketing et du tracking tiers des Utilisateurs ;
-*   La gestion des demandes, plaintes et réclamations adressées au DPO.
+| Finalité du traitement | Base légale |
+| --- | --- |
+| La gestion de la base de données Clients des Supports | Intérêt légitime |
+| La gestion de l’architecture technique et technologique des Services de FEELVERYBIEN | Intérêt légitime |
+| La gestion et le suivi du support Client et des témoignages Utilisateurs | Exécution du contrat |
+| La gestion des transactions et paiements en ligne | Exécution du contrat |
+| La gestion de l’audience marketing et du tracking tiers des Utilisateurs | Consentement de l’Utilisateur |
+| La gestion des demandes, plaintes et réclamations adressées au DPO | Respect des obligations légales |
 
 7\. À QUI SONT TRANSMISES VOS DONNÉES PERSONNELLES ?
 ----------------------------------------------------
@@ -161,4 +163,4 @@ La version applicable de la présente Politique est celle disponible sur les Sup
 
 En cas de modification, la nouvelle version Politique de confidentialité sera notifiée à l’Utilisateur au moment de sa nouvelle connexion à son espace personnel.
 
-**Dernière mise à jour** : le 01/01/2026.
+**Dernière mise à jour** : le 29/10/2026.
